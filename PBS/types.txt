@@ -102,8 +102,8 @@ Resistances = FIGHTING,PSYCHIC
 Name = Ice
 IconPosition = 15
 IsSpecialType = true
-Weaknesses = FIGHTING,ROCK,STEEL,FIRE
-Resistances = ICE
+Weaknesses = FIGHTING,STEEL,FIRE
+Resistances = ICE,WATER
 #-------------------------------
 [DRAGON]
 Name = Dragon
@@ -125,5 +125,5 @@ Name = Fairy
 IconPosition = 18
 IsSpecialType = true
 Weaknesses = POISON,STEEL
-Resistances = FIGHTING,BUG,DARK
+Resistances = FIGHTING,DARK
 Immunities = DRAGON
