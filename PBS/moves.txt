@@ -2848,7 +2848,7 @@ Target = Other
 FunctionCode = TwoTurnAttackFlinchTarget
 Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
 EffectChance = 30
-Description = A second-turn attack move where critical hits land more easily. It may also make the target flinch.
+Description = An exhaustive attack move where critical hits land more easily. It may also make the target flinch.
 #-------------------------------
 [BRAVEBIRD]
 Name = Brave Bird
@@ -4937,7 +4937,7 @@ Target = NearOther
 FunctionCode = RaiseUserAttack1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 10
-Description = The target is slugged with a punch thrown at maximum power. It can also be used to move heavy boulders.
+Description = The target is slugged with a punch thrown at maximum power. Has a small chance to boost user Attack.
 #-------------------------------
 [TRIATTACK]
 Name = Tri Attack
@@ -5418,7 +5418,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = HitThreeTimesPowersUpWithEachHit
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The target is raked with sharp claws or scythes that becomes more powerful with each hit.
+Description = The target is raked with sharp claws or scythes that become more powerful with each hit.
 #-------------------------------
 [BARRAGE]
 Name = Barrage
