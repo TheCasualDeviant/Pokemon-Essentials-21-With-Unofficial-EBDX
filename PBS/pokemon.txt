@@ -12992,7 +12992,7 @@ Weight = 63.0
 Color = Green
 Shape = Serpentine
 Category = Regal
-Pokedex = Ileasi locals are slightly stronger and faster than elsewhere due to a natural species dominance over other wildlife.
+Pokedex = Ileasi-local Serperior are slightly stronger and faster than elsewhere due to a natural species dominance over other wildlife.
 Generation = 5
 #-------------------------------
 [TEPIG]
