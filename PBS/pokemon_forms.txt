@@ -257,7 +257,7 @@ HiddenAbilities = TRACE
 Height = 1.2
 Pokedex = Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.
 Generation = 6
-#-------------------------------
+#-------------------------------010
 [GEODUDE,1]
 FormName = Alolan
 Types = ROCK,ELECTRIC
@@ -268,11 +268,11 @@ TutorMoves = ANCIENTPOWER,ATTRACT,BLOCK,BODYSLAM,BRICKBREAK,BRUTALSWING,BULLDOZE
 EggMoves = AUTOTOMIZE,BLOCK,COUNTER,CURSE,ENDURE,FLAIL,MAGNETRISE,ROCKCLIMB,SCREECH,WIDEGUARD
 Weight = 20.3
 Color = Gray
-Pokedex = Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.
+Pokedex = Once foreign to Ileas, Alolan Geodude invaded the canyons of Zone One after escaping visiting tourists and never left.
 Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = CELLBATTERY
-#-------------------------------
+#-------------------------------011
 [GRAVELER,1]
 FormName = Alolan
 Types = ROCK,ELECTRIC
@@ -282,11 +282,11 @@ Moves = 1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,RO
 TutorMoves = ALLYSWITCH,ANCIENTPOWER,ATTRACT,BLOCK,BODYSLAM,BRICKBREAK,BRUTALSWING,BULLDOZE,CAPTIVATE,CHARGEBEAM,CONFIDE,COUNTER,DEFENSECURL,DIG,DOUBLEEDGE,DOUBLETEAM,DYNAMICPUNCH,EARTHPOWER,EARTHQUAKE,ELECTROWEB,ENDURE,EXPLOSION,FACADE,FIREBLAST,FIREPUNCH,FLAMETHROWER,FLING,FOCUSPUNCH,FRUSTRATION,GYROBALL,HEADBUTT,HIDDENPOWER,INCINERATE,IRONDEFENSE,MAGNETRISE,MEGAPUNCH,METRONOME,MIMIC,MUDSLAP,NATURALGIFT,NATUREPOWER,POWERUPPUNCH,PROTECT,REST,RETURN,ROCKCLIMB,ROCKPOLISH,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLLOUT,ROUND,SANDSTORM,SECRETPOWER,SEISMICTOSS,SHOCKWAVE,SLEEPTALK,SMACKDOWN,SNORE,STEALTHROCK,STOMPINGTANTRUM,STONEEDGE,STRENGTH,SUBSTITUTE,SUCKERPUNCH,SUNNYDAY,SUPERPOWER,SWAGGER,THUNDER,THUNDERBOLT,THUNDERPUNCH,VOLTSWITCH
 Weight = 110.0
 Color = Gray
-Pokedex = They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise.
+Pokedex = Graveler's magnetic stones are dangerous for nearby airborne Pokémon and Steel-types. They're seemingly always hungry.
 Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = CELLBATTERY
-#-------------------------------
+#-------------------------------012
 [GOLEM,1]
 FormName = Alolan
 Types = ROCK,ELECTRIC
@@ -297,7 +297,7 @@ TutorMoves = ALLYSWITCH,ANCIENTPOWER,ATTRACT,BLOCK,BODYSLAM,BRICKBREAK,BRUTALSWI
 Height = 1.7
 Weight = 316.0
 Color = Gray
-Pokedex = It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.
+Pokedex = The iron filings on Golem's head are magnetically drawn to its body. Strangely, they are almost never seen in the wild.
 Generation = 7
 Flags = InheritFormWithEverStone
 WildItemCommon = CELLBATTERY
