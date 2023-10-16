@@ -148,10 +148,6 @@ Description = The Pokémon copies a foe's Ability.
 Name = Huge Power
 Description = Raises the Pokémon's Attack stat.
 #-------------------------------
-[POISONPOINT]
-Name = Poison Point
-Description = Contact with the Pokémon may poison the attacker.
-#-------------------------------
 [INNERFOCUS]
 Name = Inner Focus
 Description = The Pokémon is protected from flinching.
@@ -494,8 +490,8 @@ Description = Powers up party in sun. Ups own Defense in dark.
 Name = Bad Dreams
 Description = Reduces a sleeping foe's HP.
 #-------------------------------
-[PICKPOCKET]
-Name = Pickpocket
+[SLEIGHTHAND]
+Name = Sleight Hand
 Description = Steals the held item of a Pokémon it hits.
 #-------------------------------
 [SHEERFORCE]
@@ -678,8 +674,8 @@ Description = It changes type to that of the move it's about to use.
 Name = Fur Coat
 Description = Halves the damage from physical moves.
 #-------------------------------
-[MAGICIAN]
-Name = Magician
+[VANISHINGACT]
+Name = Vanishing Act
 Description = Steals an item when hit by another Pokémon.
 #-------------------------------
 [BULLETPROOF]
