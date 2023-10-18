@@ -8857,3 +8857,40 @@ FunctionCode = LowerTargetAttack2BypassSubstitute
 Flags = CanProtect,CanMirrorMove,Sound
 EffectChance = 100
 Description = The user lets out a maniacal laugh, horrifying the target and sharply lowering their Attack.
+#-------------------------------
+[PIXIEPOWER]
+Name = Pixie Power
+Type = FAIRY
+Category = Physical
+Power = 80
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = UseUserSpecialDefenseInsteadOfUserAttack
+Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
+Description = The user slams its body into the target. Power increases the higher the user's Special Defense.
+#-------------------------------
+[CLOUDBURST]
+Name = Cloudburst
+Type = FLYING
+Category = Special
+Power = 120
+Accuracy = 100
+TotalPP = 5
+Target = AllNearFoes
+FunctionCode = TwoTurnAttackStartRain
+Flags = CanProtect,CanMirrorMove,CannotMetronome
+EffectChance = 100
+Description = The user siphons warm air, then unleashes a downpour. This causes the weather to become rainy.
+#-------------------------------
+[PUNYPOWER]
+Name = Puny Power
+Type = NORMAL
+Category = Physical
+Power = 95
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+FunctionCode = UseTargetHigherAttackStatInsteadOfUserAttack
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user turns the foe's power against it. It uses the target's higher offensive stat.
