@@ -8894,3 +8894,27 @@ Target = NearOther
 FunctionCode = UseTargetHigherAttackStatInsteadOfUserAttack
 Flags = Contact,CanProtect,CanMirrorMove
 Description = The user turns the foe's power against it. It uses the target's higher offensive stat.
+#-------------------------------
+[WILDFLOWERS]
+Name = Wild Flowers
+Type = GRASS
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = ParalyzeConfuseOrPoisonTarget
+Flags = CanProtect,CanMirrorMove
+EffectChance = 20
+Description = The user unleashes an array of flowers and foliage. May also paralyze, confuse, or poison the target.
+#-------------------------------
+[DOGFIGHT]
+Name = Dogfight
+Type = FLYING
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = NearOther
+FunctionCode = EnsureNextMoveAlwaysHitsAndTrapTarget
+Flags = CanProtect,CanMirrorMove
+Description = The user locks on to the target, trapping them next turn. The next attack will always hit the target.
