@@ -8796,7 +8796,7 @@ Power = 50
 Accuracy = 100
 TotalPP = 15
 Target = NearOther
-FunctionCode = DisableTargetUsingSameMoveConsecutively
+FunctionCode = TormentTarget
 Flags = CanProtect,CanMirrorMove
 EffectChance = 100
 Description = An ominous mist coats the target. They cannot repeat moves out of fear. Fails on tormented foes.
@@ -8844,3 +8844,16 @@ FunctionCode = LowerTargetAttack1
 Flags = CanProtect,CanMirrorMove
 EffectChance = 30
 Description = The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat.
+#-------------------------------
+[MANIACALLAUGH]
+Name = Maniacal Laugh
+Type = DARK
+Category = Special
+Power = 110
+Accuracy = 85
+TotalPP = 5
+Target = NearOther
+FunctionCode = LowerTargetAttack2BypassSubstitute
+Flags = CanProtect,CanMirrorMove,Sound
+EffectChance = 100
+Description = The user lets out a maniacal laugh, horrifying the target and sharply lowering their Attack.
