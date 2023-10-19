@@ -8918,3 +8918,29 @@ Target = NearOther
 FunctionCode = EnsureNextMoveAlwaysHitsAndTrapTarget
 Flags = CanProtect,CanMirrorMove
 Description = The user locks on to the target, trapping them next turn. The next attack will always hit the target.
+#-------------------------------
+[HEADACHE]
+Name = Headache
+Type = PSYCHIC
+Category = Physical
+Power = 40
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = LowerTargetDefSpDef1FlinchTarget
+Flags = CanProtect,CanMirrorMove
+EffectChance = 30
+Description = The user gives the foe a headache, lowering their defenses. May cause the foe to flinch.
+#-------------------------------
+[MIGRAINE]
+Name = Migraine
+Type = PSYCHIC
+Category = Physical
+Power = 120
+Accuracy = 85
+TotalPP = 5
+Target = NearOther
+FunctionCode = ConfuseOrFlinchTarget
+Flags = CanProtect,CanMirrorMove
+EffectChance = 20
+Description = The user gives the foe a splitting headache, which may cause them to flinch or become confused.
