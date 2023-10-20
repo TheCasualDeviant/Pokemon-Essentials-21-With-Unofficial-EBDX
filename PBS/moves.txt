@@ -8799,7 +8799,7 @@ Target = NearOther
 FunctionCode = TormentTarget
 Flags = CanProtect,CanMirrorMove
 EffectChance = 100
-Description = An ominous mist coats the target. They cannot repeat moves out of fear. Fails on tormented foes.
+Description = An ominous mist coats the target. They cannot repeat moves out of fear.
 #-------------------------------
 [POWERIMPULSE]
 Name = Power Impulse
