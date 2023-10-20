@@ -997,7 +997,7 @@ Category = Fox
 Pokedex = It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.
 Generation = 1
 WildItemUncommon = CHARCOAL
-#-------------------------------
+#-------------------------------055
 [JIGGLYPUFF]
 Name = Jigglypuff
 Types = NORMAL,FAIRY
@@ -1020,11 +1020,11 @@ Color = Pink
 Shape = Bipedal
 Habitat = Grassland
 Category = Balloon
-Pokedex = Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.
+Pokedex = The air swirling inside Jigglypuff's body allows it to continuously sing for hours. All who try to record the full-length fall asleep.
 Generation = 1
 WildItemUncommon = MOONSTONE
 Evolutions = WIGGLYTUFF,Item,MOONSTONE
-#-------------------------------
+#-------------------------------056
 [WIGGLYTUFF]
 Name = Wigglytuff
 Types = NORMAL,FAIRY
@@ -1047,7 +1047,7 @@ Color = Pink
 Shape = Bipedal
 Habitat = Grassland
 Category = Balloon
-Pokedex = Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.
+Pokedex = Happy with the air in its body, Wigglytuff inflate and bounce around to entertain children. They groom their soft fur with dew.
 Generation = 1
 WildItemUncommon = MOONSTONE
 #-------------------------------016
@@ -1401,7 +1401,7 @@ Category = Classy Cat
 Pokedex = A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.
 Generation = 1
 WildItemUncommon = QUICKCLAW
-#-------------------------------
+#-------------------------------090
 [PSYDUCK]
 Name = Psyduck
 Types = WATER
@@ -1425,10 +1425,10 @@ Color = Yellow
 Shape = BipedalTail
 Habitat = WatersEdge
 Category = Duck
-Pokedex = When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.
+Pokedex = Psyduck have an ongoing condition that prevents long-term memory retention, inducing incredible psychic power and headaches.
 Generation = 1
 Evolutions = GOLDUCK,Level,33
-#-------------------------------
+#-------------------------------091
 [GOLDUCK]
 Name = Golduck
 Types = WATER
@@ -1451,7 +1451,7 @@ Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
 Category = Duck
-Pokedex = A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.
+Pokedex = Previously thought to grant supernatural powers, Golduck's red gem in its head actually stabilizes its innate psychokinesis.
 Generation = 1
 #-------------------------------
 [MANKEY]
@@ -1877,7 +1877,7 @@ Habitat = Forest
 Category = Flycatcher
 Pokedex = The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.
 Generation = 1
-#-------------------------------
+#-------------------------------092
 [TENTACOOL]
 Name = Tentacool
 Types = WATER,POISON
@@ -1901,11 +1901,11 @@ Color = Blue
 Shape = Multiped
 Habitat = Sea
 Category = Jellyfish
-Pokedex = Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.
+Pokedex = The cell wall that makes up Tentacool's body is full of water, so it dries out easily. This allows toxin to quickly exit via its stingers.
 Generation = 1
 WildItemUncommon = POISONBARB
 Evolutions = TENTACRUEL,Level,30
-#-------------------------------
+#-------------------------------093
 [TENTACRUEL]
 Name = Tentacruel
 Types = WATER,POISON
@@ -1928,7 +1928,7 @@ Color = Blue
 Shape = Multiped
 Habitat = Sea
 Category = Jellyfish
-Pokedex = It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.
+Pokedex = Tentacruel got its name from the mandible-like appendages on its underside, which grant it the tools it needs to consume prey.
 Generation = 1
 WildItemUncommon = POISONBARB
 #-------------------------------010 alolan
@@ -2118,7 +2118,7 @@ Category = Hermit Crab
 Pokedex = Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.
 Generation = 1
 WildItemUncommon = KINGSROCK
-#-------------------------------
+#-------------------------------081
 [MAGNEMITE]
 Name = Magnemite
 Types = ELECTRIC,STEEL
@@ -2141,11 +2141,11 @@ Color = Gray
 Shape = HeadArms
 Habitat = RoughTerrain
 Category = Magnet
-Pokedex = The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.
+Pokedex = All Magnemite levitate, but are unusually weak to Ground attacks because their electromagnetic waves get disrupted by soil.
 Generation = 1
 WildItemUncommon = METALCOAT
 Evolutions = MAGNETON,Level,30
-#-------------------------------
+#-------------------------------082
 [MAGNETON]
 Name = Magneton
 Types = ELECTRIC,STEEL
@@ -2168,7 +2168,7 @@ Color = Gray
 Shape = MultiBody
 Habitat = RoughTerrain
 Category = Magnet
-Pokedex = It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.
+Pokedex = Scientists argued for years over Magneton being a true evolution of Magnemite. However, their brains are shown to have linked.
 Generation = 1
 WildItemUncommon = METALCOAT
 Evolutions = MAGNEZONE,Item,THUNDERSTONE,MAGNEZONE,LocationFlag,Magnetic
@@ -2254,7 +2254,7 @@ Category = Triple Bird
 Pokedex = A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.
 Generation = 1
 WildItemUncommon = SHARPBEAK
-#-------------------------------
+#-------------------------------094
 [SEEL]
 Name = Seel
 Types = WATER
@@ -2278,10 +2278,10 @@ Color = White
 Shape = Finned
 Habitat = Sea
 Category = Sea Lion
-Pokedex = Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.
+Pokedex = Seel spend their time in ice floes, shattering ice with their small horn. They breach for oxygen and call for humans to feed them.
 Generation = 1
 Evolutions = DEWGONG,Level,34
-#-------------------------------
+#-------------------------------095
 [DEWGONG]
 Name = Dewgong
 Types = WATER,ICE
@@ -2304,9 +2304,9 @@ Color = White
 Shape = Finned
 Habitat = Sea
 Category = Sea Lion
-Pokedex = It loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.
+Pokedex = Dewgong blend in with ice on the surface of the water, leading sailors of yore to believe they had witnessed an arctic mermaid.
 Generation = 1
-#-------------------------------
+#-------------------------------084
 [GRIMER]
 Name = Grimer
 Types = POISON
@@ -2330,11 +2330,11 @@ Color = Purple
 Shape = HeadArms
 Habitat = Urban
 Category = Sludge
-Pokedex = Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.
+Pokedex = Born from industrial waste, Grimer developed a pleasant demeanor from being surrounded from the shared mire of its siblings.
 Generation = 1
 WildItemUncommon = BLACKSLUDGE
 Evolutions = MUK,Level,38
-#-------------------------------
+#-------------------------------085
 [MUK]
 Name = Muk
 Types = POISON
@@ -2357,7 +2357,7 @@ Color = Purple
 Shape = HeadArms
 Habitat = Urban
 Category = Sludge
-Pokedex = It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.
+Pokedex = Despite its disgusting origins, Muk are actually quite happy and caring, and will defend sludge for the shelter of young Grimer.
 Generation = 1
 WildItemCommon = BLACKSLUDGE
 #-------------------------------
@@ -2622,7 +2622,7 @@ Habitat = WatersEdge
 Category = Pincer
 Pokedex = It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.
 Generation = 1
-#-------------------------------
+#-------------------------------079
 [VOLTORB]
 Name = Voltorb
 Types = ELECTRIC
@@ -2644,11 +2644,11 @@ Weight = 10.4
 Color = Red
 Shape = Head
 Habitat = Urban
-Category = Ball
-Pokedex = It bears an uncanny and unexplained resemblance to a Poké Ball. Because it explodes at the slightest shock, even veteran trainers treat it with caution.
+Category = Decoy
+Pokedex = Evolved from an ancient past of multicolor apricorns, Voltorb grew closer to looking like Pokéballs with each passing century.
 Generation = 1
 Evolutions = ELECTRODE,Level,30
-#-------------------------------
+#-------------------------------080
 [ELECTRODE]
 Name = Electrode
 Types = ELECTRIC
@@ -2670,8 +2670,8 @@ Weight = 66.6
 Color = Red
 Shape = Head
 Habitat = Urban
-Category = Ball
-Pokedex = They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.
+Category = Last Laugh
+Pokedex = It is believed the confident attitude of Voltorb enabled it to evolve into its alter-ego: Electrode. They explode without hesitation.
 Generation = 1
 #-------------------------------
 [EXEGGCUTE]
@@ -3394,7 +3394,7 @@ Habitat = Grassland
 Category = Wild Bull
 Pokedex = It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.
 Generation = 1
-#-------------------------------
+#-------------------------------102
 [MAGIKARP]
 Name = Magikarp
 Types = WATER
@@ -3417,10 +3417,10 @@ Color = Red
 Shape = Finned
 Habitat = WatersEdge
 Category = Fish
-Pokedex = Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.
+Pokedex = Scientists have found that Magikarp managed to survive for ages by congregating at bodies of water near Pokémon Trainers.
 Generation = 1
 Evolutions = GYARADOS,Level,20
-#-------------------------------
+#-------------------------------103
 [GYARADOS]
 Name = Gyarados
 Types = WATER,FLYING
@@ -3443,7 +3443,7 @@ Color = Blue
 Shape = Serpentine
 Habitat = WatersEdge
 Category = Atrocious
-Pokedex = It is an extremely vicious and violent Pokémon. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.
+Pokedex = Legends tell of many Magikarp that jumped into waterfalls and endured the pain, evolving into the loyal and mighty Gyarados.
 Generation = 1
 #-------------------------------
 [LAPRAS]
@@ -4576,7 +4576,7 @@ Pokedex = On nights with many shooting stars, Cleffa can be seen dancing in a ri
 Generation = 2
 WildItemUncommon = MOONSTONE
 Evolutions = CLEFAIRY,Happiness,
-#-------------------------------
+#-------------------------------054
 [IGGLYBUFF]
 Name = Igglybuff
 Types = NORMAL,FAIRY
@@ -4600,7 +4600,7 @@ Color = Pink
 Shape = Bipedal
 Habitat = Grassland
 Category = Balloon
-Pokedex = Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.
+Pokedex = Igglybuff love to sing and develop their vocal chords with their lightweight, marshmallow-like bodies. This prevents squeaking.
 Generation = 2
 Evolutions = JIGGLYPUFF,Happiness,
 #-------------------------------
@@ -5489,7 +5489,7 @@ Category = Iron Snake
 Pokedex = Steelix live even further underground than Onix. This Pokémon is known to dig toward the earth's core, reaching a depth of over six-tenths of a mile underground.
 Generation = 2
 WildItemUncommon = METALCOAT
-#-------------------------------
+#-------------------------------063
 [SNUBBULL]
 Name = Snubbull
 Types = FAIRY
@@ -5512,11 +5512,11 @@ Weight = 7.8
 Color = Pink
 Shape = Bipedal
 Habitat = Urban
-Category = Fairy
-Pokedex = By baring its fangs and making a scary face, it sends smaller Pokémon scurrying in terror. The Snubbull does seem a little sad at making its foes flee.
+Category = Pure Breed
+Pokedex = Popular around the world for their angry expression, Snubbull grow extremely affectionate and protective after sharing victories.
 Generation = 2
 Evolutions = GRANBULL,Level,23
-#-------------------------------
+#-------------------------------064
 [GRANBULL]
 Name = Granbull
 Types = FAIRY
@@ -5538,8 +5538,8 @@ Weight = 48.7
 Color = Purple
 Shape = BipedalTail
 Habitat = Urban
-Category = Fairy
-Pokedex = It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.
+Category = Pure Breed
+Pokedex = Despite the lower jaw, Granbull are actually more "bark" than they are "bite." Looking for a weak spot? Give one a belly rub.
 Generation = 2
 #-------------------------------
 [QWILFISH]
@@ -7315,7 +7315,7 @@ Habitat = Grassland
 Category = Swallow
 Pokedex = A Swellow dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.
 Generation = 3
-#-------------------------------
+#-------------------------------096
 [WINGULL]
 Name = Wingull
 Types = WATER,FLYING
@@ -7339,11 +7339,11 @@ Color = White
 Shape = Winged
 Habitat = Sea
 Category = Seagull
-Pokedex = It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.
+Pokedex = Wingull travel in flocks for protection, as they are unable to fend off large predators. They circle in a tornado shape when fishing.
 Generation = 3
 WildItemCommon = PRETTYFEATHER
 Evolutions = PELIPPER,Level,25
-#-------------------------------
+#-------------------------------097
 [PELIPPER]
 Name = Pelipper
 Types = WATER,FLYING
@@ -7366,7 +7366,7 @@ Color = Yellow
 Shape = Winged
 Habitat = Sea
 Category = Water Bird
-Pokedex = It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.
+Pokedex = Revered as messenger birds, Pelipper are shockingly good at carrying cargo. They were adopted as taxis before Corviknight.
 Generation = 3
 WildItemCommon = PRETTYFEATHER
 #-------------------------------
@@ -8382,7 +8382,7 @@ Pokedex = Its powerful stomach acid is capable of digesting almost anything. The
 Generation = 3
 WildItemCommon = ORANBERRY
 WildItemUncommon = SITRUSBERRY
-#-------------------------------
+#-------------------------------098
 [CARVANHA]
 Name = Carvanha
 Types = WATER,DARK
@@ -8406,11 +8406,11 @@ Color = Red
 Shape = Finned
 Habitat = Sea
 Category = Savage
-Pokedex = Carvanha attack ships in swarms, making them sink. Although it is said to be a very vicious Pokémon, it timidly flees as soon as it finds itself alone.
+Pokedex = Carvanha are oddly timid when alone in the wild. They learn while young that they are too frail to take a beating from larger foes.
 Generation = 3
 WildItemUncommon = DEEPSEATOOTH
 Evolutions = SHARPEDO,Level,30
-#-------------------------------
+#-------------------------------099
 [SHARPEDO]
 Name = Sharpedo
 Types = WATER,DARK
@@ -8433,7 +8433,7 @@ Color = Blue
 Shape = Finned
 Habitat = Sea
 Category = Brutal
-Pokedex = The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.
+Pokedex = The vertical gills along Sharpedo's front double as vents for aqueous movement, allowing them to swim ahead at jet-boat speed.
 Generation = 3
 WildItemUncommon = DEEPSEATOOTH
 #-------------------------------
@@ -8828,7 +8828,7 @@ Habitat = Forest
 Category = Humming
 Pokedex = It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.
 Generation = 3
-#-------------------------------
+#-------------------------------052
 [ZANGOOSE]
 Name = Zangoose
 Types = NORMAL
@@ -8852,10 +8852,10 @@ Color = White
 Shape = BipedalTail
 Habitat = Grassland
 Category = Cat Ferret
-Pokedex = When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.
+Pokedex = Trained to defend prehistoric Trainers from venomous beasts, Zangoose forged a natural rivalry and territorial hatred for Seviper.
 Generation = 3
 WildItemUncommon = QUICKCLAW
-#-------------------------------
+#-------------------------------053
 [SEVIPER]
 Name = Seviper
 Types = POISON
@@ -8879,10 +8879,10 @@ Color = Black
 Shape = Serpentine
 Habitat = Grassland
 Category = Fang Snake
-Pokedex = Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.
+Pokedex = Seviper were not always lifelong rivals of Zangoose, and yet their aversion to claws and territorial nature make a perfect rivalry.
 Generation = 3
 WildItemUncommon = SHEDSHELL
-#-------------------------------
+#-------------------------------106
 [LUNATONE]
 Name = Lunatone
 Types = ROCK,PSYCHIC
@@ -8904,11 +8904,11 @@ Color = Yellow
 Shape = Head
 Habitat = Cave
 Category = Meteorite
-Pokedex = It becomes very active on the night of a full moon. This Pokémon was first discovered 40 years ago at the site of a meteor strike.
+Pokedex = Originally found where meteorites fell from the sky, Lunatone become active at night and sing at the stars through soothing hums.
 Generation = 3
 WildItemCommon = STARDUST
 WildItemUncommon = MOONSTONE
-#-------------------------------
+#-------------------------------107
 [SOLROCK]
 Name = Solrock
 Types = ROCK,PSYCHIC
@@ -8930,7 +8930,7 @@ Color = Red
 Shape = Head
 Habitat = Cave
 Category = Meteorite
-Pokedex = Solar energy is the source of this Pokémon's power. On sunny days, groups of Solrock line up facing the sun and absorb its light.
+Pokedex = Originally found where meteorites fell from the sky, Solrock become active during the day and swivel to rapidly absorb sunlight.
 Generation = 3
 WildItemCommon = STARDUST
 WildItemUncommon = SUNSTONE
@@ -11164,7 +11164,7 @@ Shape = BipedalTail
 Category = Long Tail
 Pokedex = To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.
 Generation = 4
-#-------------------------------
+#-------------------------------074
 [DRIFLOON]
 Name = Drifloon
 Types = GHOST,FLYING
@@ -11186,11 +11186,11 @@ Height = 0.4
 Weight = 1.2
 Color = Purple
 Shape = HeadArms
-Category = Balloon
-Pokedex = A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.
+Category = Wayward
+Pokedex = Wild Drifloon enjoy the company of young children, happy to be pulled around so other ghosts are then drawn to the kids.
 Generation = 4
 Evolutions = DRIFBLIM,Level,28
-#-------------------------------
+#-------------------------------075
 [DRIFBLIM]
 Name = Drifblim
 Types = GHOST,FLYING
@@ -11212,7 +11212,7 @@ Weight = 15.0
 Color = Purple
 Shape = HeadArms
 Category = Blimp
-Pokedex = It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.
+Pokedex = Flying through the sky, Drifblim seem to not have a destination in mind. They are said to carry human souls to the great beyond.
 Generation = 4
 #-------------------------------
 [BUNEARY]
@@ -11438,7 +11438,7 @@ Shape = Quadruped
 Category = Skunk
 Pokedex = Skuntank's tail rests above its head so it can focus on a target more-easily. The noxious gas makes for a swift getaway tactic.
 Generation = 4
-#-------------------------------
+#-------------------------------108
 [BRONZOR]
 Name = Bronzor
 Types = STEEL,PSYCHIC
@@ -11460,11 +11460,11 @@ Weight = 60.5
 Color = Green
 Shape = Head
 Category = Bronze
-Pokedex = Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.
+Pokedex = Bronzor hates being polished, for its polished body is forced to reveal the truth. They would rather protect their trainers and rust.
 Generation = 4
 WildItemUncommon = METALCOAT
 Evolutions = BRONZONG,Level,33
-#-------------------------------
+#-------------------------------109
 [BRONZONG]
 Name = Bronzong
 Types = STEEL,PSYCHIC
@@ -11486,7 +11486,7 @@ Weight = 187.0
 Color = Green
 Shape = HeadArms
 Category = Bronze Bell
-Pokedex = One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.
+Pokedex = Legends tell contradictory tales of Bronzong's life purpose: one as a bringer of harvest, another as the keeper of a great fortune.
 Generation = 4
 WildItemUncommon = METALCOAT
 #-------------------------------
@@ -12109,7 +12109,7 @@ Category = Sharp Claw
 Pokedex = They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.
 Generation = 4
 WildItemUncommon = QUICKCLAW
-#-------------------------------
+#-------------------------------083
 [MAGNEZONE]
 Name = Magnezone
 Types = ELECTRIC,STEEL
@@ -12131,7 +12131,7 @@ Weight = 180.0
 Color = Gray
 Shape = HeadArms
 Category = Magnet Area
-Pokedex = It evolved from exposure to a special magnetic field. Three units generate magnetism.
+Pokedex = Magnezone receive electromagnetic signals via the antenna on its head and calculate their next attacks. None know the source.
 Generation = 4
 WildItemUncommon = METALCOAT
 #-------------------------------
@@ -13194,7 +13194,7 @@ Shape = BipedalTail
 Category = Lookout
 Pokedex = They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.
 Generation = 5
-#-------------------------------
+#-------------------------------057
 [LILLIPUP]
 Name = Lillipup
 Types = NORMAL
@@ -13217,10 +13217,10 @@ Weight = 4.1
 Color = Brown
 Shape = Quadruped
 Category = Puppy
-Pokedex = The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.
+Pokedex = Lillipup have incredibly sharp memories and will honor all love and hatred they receive tenfold. This makes them incredible pets.
 Generation = 5
 Evolutions = HERDIER,Level,16
-#-------------------------------
+#-------------------------------058
 [HERDIER]
 Name = Herdier
 Types = NORMAL
@@ -13242,10 +13242,10 @@ Weight = 14.7
 Color = Gray
 Shape = Quadruped
 Category = Loyal Dog
-Pokedex = It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.
+Pokedex = Its fur back is hardened from natural oils in its pores, which makes it hard to groom. Herdier was the first "man's best friend."
 Generation = 5
 Evolutions = STOUTLAND,Level,32
-#-------------------------------
+#-------------------------------059
 [STOUTLAND]
 Name = Stoutland
 Types = NORMAL
@@ -13267,7 +13267,7 @@ Weight = 61.0
 Color = Gray
 Shape = Quadruped
 Category = Big-Hearted
-Pokedex = This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.
+Pokedex = The long mustache on both male and female Stoutland is a sign of social prowess. Trainers are advised to not trim it too short.
 Generation = 5
 #-------------------------------
 [PURRLOIN]
@@ -13469,10 +13469,10 @@ Shape = BipedalTail
 Category = Geyser
 Pokedex = The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.
 Generation = 5
-#-------------------------------
+#-------------------------------110
 [MUNNA]
 Name = Munna
-Types = PSYCHIC
+Types = PSYCHIC,FAIRY
 BaseStats = 76,25,45,24,67,55
 GenderRatio = Female50Percent
 GrowthRate = Fast
@@ -13480,8 +13480,8 @@ BaseExp = 58
 EVs = HP,1
 CatchRate = 190
 Happiness = 50
-Abilities = FOREWARN,SYNCHRONIZE
-HiddenAbilities = TELEPATHY
+Abilities = WARPEDMIND,TELEPATHY
+HiddenAbilities = SYNCHRONIZE
 Moves = 1,STOREDPOWER,1,DEFENSECURL,4,HYPNOSIS,8,PSYBEAM,12,IMPRISON,16,MOONLIGHT,20,MAGICCOAT,24,ZENHEADBUTT,28,CALMMIND,32,YAWN,36,PSYCHIC,40,MOONBLAST,44,DREAMEATER,48,FUTURESIGHT,52,WONDERROOM
 TutorMoves = AFTERYOU,ALLYSWITCH,AMNESIA,ATTRACT,CALMMIND,CAPTIVATE,CHARGEBEAM,CONFIDE,DAZZLINGGLEAM,DOUBLETEAM,DREAMEATER,ENDURE,ENERGYBALL,EXPANDINGFORCE,FACADE,FLASH,FRUSTRATION,FUTURESIGHT,GRAVITY,GUARDSWAP,GYROBALL,HEALBELL,HELPINGHAND,HIDDENPOWER,IMPRISON,LIGHTSCREEN,MAGICCOAT,MIMIC,NATURALGIFT,PAINSPLIT,POWERSWAP,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKTOMB,ROUND,SAFEGUARD,SECRETPOWER,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNORE,STOREDPOWER,SUBSTITUTE,SWAGGER,SWIFT,TELEKINESIS,THUNDERWAVE,TORMENT,TOXIC,TRICK,TRICKROOM,WONDERROOM,WORRYSEED,ZENHEADBUTT
 EggMoves = CURSE,HEALINGWISH
@@ -13491,14 +13491,14 @@ Height = 0.6
 Weight = 23.3
 Color = Pink
 Shape = Quadruped
-Category = Dream Eater
-Pokedex = It eats the dreams of people and Pokémon. When it eats a pleasant dreams, it expels pink-colored mist.
+Category = Space Eater
+Pokedex = It floats about, consuming negative space and replacing it with dust. Unlike Unova, Ileasi-local Munna are always wide awake.
 Generation = 5
 Evolutions = MUSHARNA,Item,MOONSTONE
-#-------------------------------
+#-------------------------------111
 [MUSHARNA]
 Name = Musharna
-Types = PSYCHIC
+Types = PSYCHIC,FAIRY
 BaseStats = 116,55,85,29,107,95
 GenderRatio = Female50Percent
 GrowthRate = Fast
@@ -13506,8 +13506,8 @@ BaseExp = 170
 EVs = HP,2
 CatchRate = 75
 Happiness = 50
-Abilities = FOREWARN,SYNCHRONIZE
-HiddenAbilities = TELEPATHY
+Abilities = WARPEDMIND,TELEPATHY
+HiddenAbilities = SYNCHRONIZE
 Moves = 1,PSYCHICTERRAIN,1,IMPRISON,1,MOONLIGHT,1,MAGICCOAT,1,ZENHEADBUTT,1,CALMMIND,1,YAWN,1,PSYCHIC,1,MOONBLAST,1,DREAMEATER,1,FUTURESIGHT,1,WONDERROOM,1,STOREDPOWER,1,DEFENSECURL,1,HYPNOSIS,1,PSYBEAM
 TutorMoves = AFTERYOU,ALLYSWITCH,AMNESIA,ATTRACT,CALMMIND,CAPTIVATE,CHARGEBEAM,CONFIDE,DAZZLINGGLEAM,DOUBLETEAM,DREAMEATER,ENDURE,ENERGYBALL,EXPANDINGFORCE,FACADE,FLASH,FRUSTRATION,FUTURESIGHT,GIGAIMPACT,GRAVITY,GUARDSWAP,GYROBALL,HEALBELL,HELPINGHAND,HIDDENPOWER,HYPERBEAM,IMPRISON,LIGHTSCREEN,MAGICCOAT,MIMIC,MISTYEXPLOSION,NATURALGIFT,PAINSPLIT,POWERSWAP,PROTECT,PSYCHIC,PSYCHICTERRAIN,PSYCHUP,PSYSHOCK,RAINDANCE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKTOMB,ROUND,SAFEGUARD,SECRETPOWER,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNORE,STOREDPOWER,SUBSTITUTE,SWAGGER,SWIFT,TELEKINESIS,THUNDERWAVE,TORMENT,TOXIC,TRICK,TRICKROOM,WONDERROOM,WORRYSEED,ZENHEADBUTT
 EggGroups = Field
@@ -13516,8 +13516,8 @@ Height = 1.1
 Weight = 60.5
 Color = Pink
 Shape = Bipedal
-Category = Drowsing
-Pokedex = With the mist from its forehead, it can create shapes of things from dreams it has eaten.
+Category = Nebula
+Pokedex = Musharna gathers negative space and dust into its body and expels it as a cosmic antimatter cloud, warping reality around it.
 Generation = 5
 #-------------------------------
 [PIDOVE]
@@ -13825,7 +13825,7 @@ Shape = Bipedal
 Category = Subterrene
 Pokedex = More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.
 Generation = 5
-#-------------------------------
+#-------------------------------062
 [AUDINO]
 Name = Audino
 Types = NORMAL
@@ -13848,11 +13848,11 @@ Weight = 31.0
 Color = Pink
 Shape = BipedalTail
 Category = Hearing
-Pokedex = Its auditory sense is astounding. It has a radar-like ability to understand its surrounding through slight sounds.
+Pokedex = Audino measure others' heartbeats with their ears to diagnose and heal them. They get anxious when everything goes too well.
 Generation = 5
 WildItemCommon = ORANBERRY
 WildItemUncommon = SITRUSBERRY
-#-------------------------------
+#-------------------------------069
 [TIMBURR]
 Name = Timburr
 Types = FIGHTING
@@ -13875,10 +13875,10 @@ Weight = 12.5
 Color = Gray
 Shape = Bipedal
 Category = Muscular
-Pokedex = These Pokémon appear at building sites and help out with construction. They always carry squared logs.
+Pokedex = Timburr chop logs with their bare hands and carry them to construction sites. They mimic the humans at work and join for fun.
 Generation = 5
 Evolutions = GURDURR,Level,25
-#-------------------------------
+#-------------------------------070
 [GURDURR]
 Name = Gurdurr
 Types = FIGHTING
@@ -13900,10 +13900,10 @@ Weight = 40.0
 Color = Gray
 Shape = Bipedal
 Category = Muscular
-Pokedex = They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.
+Pokedex = Gurdurr compete with other Fighting-types to lift heavy weights and destroy stones. If bested, they sulk away to regain their pride.
 Generation = 5
 Evolutions = CONKELDURR,Trade,
-#-------------------------------
+#-------------------------------071
 [CONKELDURR]
 Name = Conkeldurr
 Types = FIGHTING
@@ -13925,7 +13925,7 @@ Weight = 87.0
 Color = Brown
 Shape = Bipedal
 Category = Muscular
-Pokedex = They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.
+Pokedex = Conkeldurr swings about with its concrete pillars, locomoting as though wielding waterproof concrete crutches as weapons.
 Generation = 5
 #-------------------------------
 [TYMPOLE]
@@ -14495,7 +14495,7 @@ Category = Cactus
 Pokedex = Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.
 Generation = 5
 WildItemUncommon = MIRACLESEED
-#-------------------------------
+#-------------------------------104
 [DWEBBLE]
 Name = Dwebble
 Types = BUG,ROCK
@@ -14518,11 +14518,11 @@ Weight = 14.5
 Color = Red
 Shape = Insectoid
 Category = Rock Inn
-Pokedex = It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
+Pokedex = Unfortunately for Dwebble, many who burrow into sedimentary rocks quickly find the shell is not durable through Weak Armor.
 Generation = 5
 WildItemUncommon = HARDSTONE
 Evolutions = CRUSTLE,Level,34
-#-------------------------------
+#-------------------------------105
 [CRUSTLE]
 Name = Crustle
 Types = BUG,ROCK
@@ -14544,10 +14544,10 @@ Weight = 200.0
 Color = Red
 Shape = Insectoid
 Category = Stone Home
-Pokedex = It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.
+Pokedex = Crustle battle for stronger shells and may even bolster the interior with geodes. Trainers have never witnessed unshelled Crustle.
 Generation = 5
 WildItemUncommon = HARDSTONE
-#-------------------------------
+#-------------------------------072
 [SCRAGGY]
 Name = Scraggy
 Types = DARK,FIGHTING
@@ -14570,11 +14570,11 @@ Weight = 11.8
 Color = Yellow
 Shape = BipedalTail
 Category = Shedding
-Pokedex = It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.
+Pokedex = Scraggy headbutt targets at random to strengthen its skull for combat. It needs a hard head to compensate for its soft torso.
 Generation = 5
 WildItemUncommon = SHEDSHELL
 Evolutions = SCRAFTY,Level,39
-#-------------------------------
+#-------------------------------073
 [SCRAFTY]
 Name = Scrafty
 Types = DARK,FIGHTING
@@ -14596,7 +14596,7 @@ Weight = 30.0
 Color = Red
 Shape = BipedalTail
 Category = Hoodlum
-Pokedex = It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.
+Pokedex = Hordes of Scrafty roam the back streets of Ileas City and scare off passers-by at night. It strengthens its rubbery hide with acids.
 Generation = 5
 WildItemUncommon = SHEDSHELL
 #-------------------------------
@@ -14873,7 +14873,7 @@ Shape = BipedalTail
 Category = Illusion Fox
 Pokedex = Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
 Generation = 5
-#-------------------------------
+#-------------------------------060
 [MINCCINO]
 Name = Minccino
 Types = NORMAL
@@ -14896,10 +14896,10 @@ Weight = 5.8
 Color = Gray
 Shape = Quadruped
 Category = Chinchilla
-Pokedex = These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.
+Pokedex = Originally found in Unova, Minccino rapidly became popular overseas for their natural inclination to tidiness and cuddling.
 Generation = 5
 Evolutions = CINCCINO,Item,SHINYSTONE
-#-------------------------------
+#-------------------------------061
 [CINCCINO]
 Name = Cinccino
 Types = NORMAL
@@ -14921,7 +14921,7 @@ Weight = 7.5
 Color = Gray
 Shape = Quadruped
 Category = Scarf
-Pokedex = Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.
+Pokedex = Cinccino coat their neck and tail fur in natural oils and spring water, giving it an incredible durability rivaled by steel chains.
 Generation = 5
 #-------------------------------
 [GOTHITA]
@@ -15382,7 +15382,7 @@ Pokedex = They show off their Poké Ball caps to lure prey, but very few Pokémo
 Generation = 5
 WildItemCommon = TINYMUSHROOM
 WildItemUncommon = BIGMUSHROOM
-#-------------------------------
+#-------------------------------100
 [FRILLISH]
 Name = Frillish
 Types = WATER,GHOST
@@ -15405,10 +15405,10 @@ Weight = 33.0
 Color = White
 Shape = Multiped
 Category = Floating
-Pokedex = They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.
+Pokedex = Male and Female species of Frillish vary by very little beyond chemical makeup. Their paralyzing toxins are only slightly different.
 Generation = 5
 Evolutions = JELLICENT,Level,40
-#-------------------------------
+#-------------------------------101
 [JELLICENT]
 Name = Jellicent
 Types = WATER,GHOST
@@ -15430,7 +15430,7 @@ Weight = 135.0
 Color = White
 Shape = Multiped
 Category = Floating
-Pokedex = They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.
+Pokedex = It is unclear how wild Male and Female Jellicent developed regal appearances, as both forms partake in no gender hierarchy.
 Generation = 5
 #-------------------------------
 [ALOMOMOLA]
@@ -15558,7 +15558,7 @@ Category = Thorn Pod
 Pokedex = They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.
 Generation = 5
 WildItemUncommon = STICKYBARB
-#-------------------------------
+#-------------------------------086
 [KLINK]
 Name = Klink
 Types = STEEL
@@ -15579,11 +15579,11 @@ Height = 0.3
 Weight = 21.0
 Color = Gray
 Shape = MultiBody
-Category = Gear
-Pokedex = Interlocking two bodies and spinning around generates the energy they need to live.
+Category = Minigear
+Pokedex = The faster they spin, the harder it gets for Klink to spot foes. That is why they developed "noses" help them detect danger.
 Generation = 5
 Evolutions = KLANG,Level,38
-#-------------------------------
+#-------------------------------087
 [KLANG]
 Name = Klang
 Types = STEEL
@@ -15605,10 +15605,10 @@ Weight = 51.0
 Color = Gray
 Shape = MultiBody
 Category = Gear
-Pokedex = Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.
+Pokedex = One of Klang's two minigears attached its face to a larger gear upon evolution. The result is higher torque and emotional output.
 Generation = 5
 Evolutions = KLINKLANG,Level,49
-#-------------------------------
+#-------------------------------088
 [KLINKLANG]
 Name = Klinklang
 Types = STEEL
@@ -15629,8 +15629,8 @@ Height = 0.6
 Weight = 81.0
 Color = Gray
 Shape = MultiBody
-Category = Gear
-Pokedex = The gear with the red core is rotated at high speed for a rapid energy charge.
+Category = Multigear
+Pokedex = Klinklang evolved by locating a new bevel gear and an external gear to conjoin with. Somehow, the external gear floats in place.
 Generation = 5
 #-------------------------------049
 [TYNAMO]
@@ -18136,7 +18136,7 @@ Category = Wrestling
 Pokedex = With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against.
 Generation = 6
 WildItemUncommon = KINGSROCK
-#-------------------------------
+#-------------------------------066
 [DEDENNE]
 Name = Dedenne
 Types = ELECTRIC,FAIRY
@@ -18159,7 +18159,7 @@ Weight = 2.2
 Color = Yellow
 Shape = BipedalTail
 Category = Antenna
-Pokedex = Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.
+Pokedex = Often found in the back streets of Ileas City, Dedenne leech power from exposed outlets and power lines to recharge when tired.
 Generation = 6
 #-------------------------------
 [CARBINK]
@@ -18262,7 +18262,7 @@ Shape = BipedalTail
 Category = Dragon
 Pokedex = It gets picked on because it's meek. But then, whoever teased it gets to feel the full force of its horns and a good swatting from its thick tail.
 Generation = 6
-#-------------------------------
+#-------------------------------065
 [KLEFKI]
 Name = Klefki
 Types = STEEL,FAIRY
@@ -18285,7 +18285,7 @@ Weight = 3.0
 Color = Gray
 Shape = Head
 Category = Key Ring
-Pokedex = It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime.
+Pokedex = Klefki fashion the keys on their ring in a precise order, then sway the collection from side to side for a light jangle noise.
 Generation = 6
 #-------------------------------
 [PHANTUMP]
@@ -19837,7 +19837,7 @@ Shape = Bipedal
 Category = Hard Scale
 Pokedex = It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea.
 Generation = 7
-#-------------------------------
+#-------------------------------076
 [SANDYGAST]
 Name = Sandygast
 Types = GHOST,GROUND
@@ -19860,11 +19860,11 @@ Weight = 70.0
 Color = Brown
 Shape = Serpentine
 Category = Sand Heap
-Pokedex = It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.
+Pokedex = It is unknown why grudges of the dead chose to possess a mound of sand, but Sandygast makes the most of its peaceful home.
 Generation = 7
 WildItemUncommon = SPELLTAG
 Evolutions = PALOSSAND,Level,42
-#-------------------------------
+#-------------------------------077
 [PALOSSAND]
 Name = Palossand
 Types = GHOST,GROUND
@@ -19886,7 +19886,7 @@ Weight = 250.0
 Color = Brown
 Shape = Serpentine
 Category = Sand Castle
-Pokedex = Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained.
+Pokedex = Known as the Beach Nightmare, Palossand consume their targets by draining the life of whoever reaches into its grainy mouth.
 Generation = 7
 WildItemUncommon = SPELLTAG
 #-------------------------------
@@ -20142,7 +20142,7 @@ Category = Placid
 Pokedex = Named by children, these elderly-appearing dragons are not often old as assumed. Drampa do hobble like it, though.
 Generation = 7
 WildItemUncommon = PERSIMBERRY
-#-------------------------------
+#-------------------------------078
 [DHELMISE]
 Name = Dhelmise
 Types = GHOST,GRASS
@@ -20163,7 +20163,7 @@ Weight = 210.0
 Color = Green
 Shape = HeadBase
 Category = Sea Creeper
-Pokedex = The soul of seaweed adrift in the waves became reborn as this Pokémon. It maintains itself with new infusions of seabed detritus and seaweed.
+Pokedex = It took marine scientists a very long time to determine if Dhelmise was a Grass or Steel-type. Its haunted seaweed gives it life.
 Generation = 7
 #-------------------------------
 [JANGMOO]
@@ -22308,7 +22308,7 @@ Category = Grudge
 Pokedex = A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.
 Generation = 8
 Flags = DefaultForm_1,InheritFormWithEverStone
-#-------------------------------
+#-------------------------------067
 [MILCERY]
 Name = Milcery
 Types = FAIRY
@@ -22331,10 +22331,10 @@ Weight = 0.3
 Color = White
 Shape = Head
 Category = Cream
-Pokedex = This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.
+Pokedex = Milcery's body is comprised of cream and sugar, crafted from particles floating in the air - as if the joy of cooking brought it to life.
 Generation = 8
 Evolutions = ALCREMIE,HoldItem,STRAWBERRYSWEET,ALCREMIE,HoldItem,BERRYSWEET,ALCREMIE,HoldItem,LOVESWEET,ALCREMIE,HoldItem,STARSWEET,ALCREMIE,HoldItem,CLOVERSWEET,ALCREMIE,HoldItem,FLOWERSWEET,ALCREMIE,HoldItem,RIBBONSWEET
-#-------------------------------
+#-------------------------------068
 [ALCREMIE]
 Name = Alcremie
 FormName = Vanilla Cream
@@ -22357,7 +22357,7 @@ Weight = 0.5
 Color = White
 Shape = HeadBase
 Category = Cream
-Pokedex = When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
+Pokedex = Bakers have suggested replacing the ingredients that enabled Alcremie's evolution, but it fondly protects them from substitution.
 Generation = 8
 #-------------------------------
 [FALINKS]
@@ -22708,7 +22708,7 @@ Shape = Finned
 Category = Fossil
 Pokedex = Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.
 Generation = 8
-#-------------------------------
+#-------------------------------089
 [DURALUDON]
 Name = Duraludon
 Types = STEEL,DRAGON
@@ -22731,7 +22731,7 @@ Weight = 40.0
 Color = White
 Shape = BipedalTail
 Category = Alloy
-Pokedex = Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.
+Pokedex = Duraludon's lightweight and durable shell, while easily rusted, enables it to quickly move and change position to fire off blasts.
 Generation = 8
 #-------------------------------
 [DREEPY]
