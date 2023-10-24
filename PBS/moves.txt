@@ -8944,3 +8944,41 @@ FunctionCode = ConfuseOrFlinchTarget
 Flags = CanProtect,CanMirrorMove
 EffectChance = 20
 Description = The user gives the foe a splitting headache, which may cause them to flinch or become confused.
+#-------------------------------
+[EROSION]
+Name = Erosion
+Type = GROUND
+Category = Special
+Power = 1
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = FixedDamageQuarterTargetHPLowerDefense
+Flags = CanProtect,CanMirrorMove,CannotMetronome
+EffectChance = 100
+Description = The user erodes the target, lowering its HP by 1/4 of its current health. Also harshly lowers Defense.
+#-------------------------------
+[FALLOUT]
+Name = Fallout
+Type = POISON
+Category = Special
+Power = 150
+Accuracy = 100
+TotalPP = 5
+Target = AllNearOthers
+FunctionCode = AttackAndSkipNextTurn
+Flags = CanProtect,CanMirrorMove
+Description = The user unleashes a nuclear attack on the entire field. The user must recharge next turn.
+#-------------------------------
+[FUMIGATE]
+Name = Fumigate
+Type = POISON
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = AllNearFoes
+FunctionCode = ParalyzeTargetSuperEffectiveAgainstBug
+Flags = CanProtect,CanMirrorMove
+EffectChance = 30
+Description = The user fumigates the target. This may paralyze the target. Is super-effective on Bug-types.
