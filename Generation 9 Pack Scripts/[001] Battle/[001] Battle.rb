@@ -227,8 +227,8 @@ class Battle::Move
     ret = paldea_pbAdditionalEffectChance(user, target, effectChance)
     return ret if [0, 100].include?(ret)
     if @battle.pbWeather == :Hail &&
-       (@function.include?("FrostbiteTarget") ||
-       (Settings::FREEZE_EFFECTS_CAUSE_FROSTBITE && @function.include?("FreezeTarget")))
+       (@function_code.include?("FrostbiteTarget") ||
+       (Settings::FREEZE_EFFECTS_CAUSE_FROSTBITE && @function_code.include?("FreezeTarget")))
       ret *= 2
     end
     return [ret, 100].min

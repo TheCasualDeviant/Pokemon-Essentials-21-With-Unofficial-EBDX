@@ -4581,14 +4581,14 @@ FunctionCode = StartWeakenDamageAgainstUserSideIfHail
 Description = This move reduces damage from attacks for five turns. This can be used only in a hailstorm.
 #-------------------------------
 [HAIL]
-Name = Hail
+Name = Snowscape
 Type = ICE
 Category = Status
 Accuracy = 0
 TotalPP = 10
 Target = BothSides
 FunctionCode = StartHailWeather
-Description = The user summons a hail storm lasting five turns. It damages all Pokémon except the Ice type.
+Description = The user summons a snowstorm lasting five turns. The Defense of Ice-types is boosted.
 #-------------------------------
 [HAZE]
 Name = Haze
@@ -8982,3 +8982,24 @@ FunctionCode = ParalyzeTargetSuperEffectiveAgainstBug
 Flags = CanProtect,CanMirrorMove
 EffectChance = 30
 Description = The user fumigates the target. This may paralyze the target. Is super-effective on Bug-types.
+#-------------------------------
+[PERMAFROST]
+Name = Permafrost
+Type = ICE
+Category = Status
+Accuracy = 85
+TotalPP = 15
+Target = NearOther
+FunctionCode = FreezeTargetAlwaysHitsInHail
+Flags = CanProtect,CanMirrorMove
+Description = The target is chilled to the bone, inflicting Frostbite. Cannot miss during snow.
+#-------------------------------
+[FRESHCEMENT]
+Name = Fresh Cement
+Type = ROCK
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = NearAlly
+FunctionCode = RaiseTargetDefSpDef1
+Description = The user applies a layer of cement to their ally, raising its Defense and Sp. Def stats.
