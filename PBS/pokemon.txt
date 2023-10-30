@@ -626,7 +626,7 @@ Habitat = Grassland
 Category = Cobra
 Pokedex = This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.
 Generation = 1
-#-------------------------------
+#-------------------------------X9
 [PIKACHU]
 Name = Pikachu
 Types = ELECTRIC
@@ -653,7 +653,7 @@ Pokedex = It stores electricity in the electric sacs on its cheeks. When it rele
 Generation = 1
 WildItemUncommon = LIGHTBALL
 Evolutions = RAICHU,Item,THUNDERSTONE
-#-------------------------------
+#-------------------------------X10
 [RAICHU]
 Name = Raichu
 Types = ELECTRIC
@@ -890,10 +890,11 @@ Habitat = Grassland
 Category = Drill
 Pokedex = A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.
 Generation = 1
-#-------------------------------
+#-------------------------------208
 [CLEFAIRY]
 Name = Clefairy
-Types = FAIRY
+FormName = Ileasi
+Types = FAIRY,FIGHTING
 BaseStats = 70,45,48,35,60,65
 GenderRatio = Female75Percent
 GrowthRate = Fast
@@ -913,14 +914,14 @@ Color = Pink
 Shape = BipedalTail
 Habitat = Mountain
 Category = Fairy
-Pokedex = On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.
+Pokedex = They chant at night under the light of the moon, burning small leaves and bugs atop coals. The chants appear to be rituals.
 Generation = 1
 WildItemUncommon = MOONSTONE
 Evolutions = CLEFABLE,Item,MOONSTONE
-#-------------------------------
+#-------------------------------209
 [CLEFABLE]
-Name = Clefable
-Types = FAIRY
+Name = Clefury
+Types = FAIRY,FIGHTING
 BaseStats = 95,70,73,60,95,90
 GenderRatio = Female75Percent
 GrowthRate = Fast
@@ -939,8 +940,8 @@ Weight = 40.0
 Color = Pink
 Shape = BipedalTail
 Habitat = Mountain
-Category = Fairy
-Pokedex = A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.
+Category = Hostile
+Pokedex = Fueled by unknown desires, these hostile creatures have only been spotted a handful of times. They may not be Pokémon at all.
 Generation = 1
 WildItemUncommon = MOONSTONE
 #-------------------------------
@@ -1505,7 +1506,7 @@ Habitat = Mountain
 Category = Pig Monkey
 Pokedex = When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.
 Generation = 1
-#-------------------------------
+#-------------------------------X11
 [GROWLITHE]
 Name = Growlithe
 Types = FIRE
@@ -1528,11 +1529,11 @@ Weight = 19.0
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Puppy
+Category = Loyal
 Pokedex = Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.
 Generation = 1
 Evolutions = ARCANINE,Item,FIRESTONE
-#-------------------------------
+#-------------------------------X12
 [ARCANINE]
 Name = Arcanine
 Types = FIRE
@@ -2518,7 +2519,7 @@ Category = Rock Snake
 Pokedex = There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.
 Generation = 1
 Evolutions = STEELIX,TradeItem,METALCOAT
-#-------------------------------
+#-------------------------------201
 [DROWZEE]
 Name = Drowzee
 Types = PSYCHIC
@@ -2542,10 +2543,10 @@ Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
 Category = Hypnosis
-Pokedex = If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.
+Pokedex = Drowzee determined the best way to siphon dreams was through the nostrils. Kids who fall sick are thus immune to dream-eating.
 Generation = 1
 Evolutions = HYPNO,Level,26
-#-------------------------------
+#-------------------------------202
 [HYPNO]
 Name = Hypno
 Types = PSYCHIC
@@ -2568,7 +2569,7 @@ Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
 Category = Hypnosis
-Pokedex = The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.
+Pokedex = Hypno's pendulum is crafted from smooth stone and fashioned to help Hypno channel its energy into a fine point for hypnotism.
 Generation = 1
 #-------------------------------
 [KRABBY]
@@ -3289,7 +3290,7 @@ Habitat = Urban
 Category = Human Shape
 Pokedex = As time passes, a developed Jynx's skin will fade and turn lighter purple. This demonstrates its prowess in controlling the cold.
 Generation = 1
-#-------------------------------
+#-------------------------------X2
 [ELECTABUZZ]
 Name = Electabuzz
 Types = ELECTRIC
@@ -3445,7 +3446,7 @@ Habitat = WatersEdge
 Category = Atrocious
 Pokedex = Legends tell of many Magikarp that jumped into waterfalls and endured the pain, evolving into the loyal and mighty Gyarados.
 Generation = 1
-#-------------------------------
+#-------------------------------X21
 [LAPRAS]
 Name = Lapras
 Types = WATER,ICE
@@ -4521,7 +4522,7 @@ Category = Light
 Pokedex = The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.
 Generation = 2
 WildItemUncommon = DEEPSEASCALE
-#-------------------------------
+#-------------------------------X8
 [PICHU]
 Name = Pichu
 Types = ELECTRIC
@@ -4548,10 +4549,11 @@ Category = Tiny Mouse
 Pokedex = It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.
 Generation = 2
 Evolutions = PIKACHU,Happiness,
-#-------------------------------
+#-------------------------------207
 [CLEFFA]
 Name = Cleffa
-Types = FAIRY
+FormName = Ileasi
+Types = FAIRY,FIGHTING
 BaseStats = 50,25,28,15,45,55
 GenderRatio = Female75Percent
 GrowthRate = Fast
@@ -4572,7 +4574,7 @@ Color = Pink
 Shape = BipedalTail
 Habitat = Mountain
 Category = Star Shape
-Pokedex = On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.
+Pokedex = They appeared overnight one day in the aftermath of the meteor that hit Zone Seven. Scientists believe they may be Cleffa.
 Generation = 2
 WildItemUncommon = MOONSTONE
 Evolutions = CLEFAIRY,Happiness,
@@ -5203,7 +5205,7 @@ Habitat = Urban
 Category = Moonlight
 Pokedex = Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.
 Generation = 2
-#-------------------------------
+#-------------------------------230
 [MURKROW]
 Name = Murkrow
 Types = DARK,FLYING
@@ -5227,7 +5229,7 @@ Color = Black
 Shape = Winged
 Habitat = Forest
 Category = Darkness
-Pokedex = Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.
+Pokedex = The brim of feathers on Murkrow's head is part of its outward charm. The larger the brim, the more likely they are to attract mates.
 Generation = 2
 Evolutions = HONCHKROW,Item,DUSKSTONE
 #-------------------------------
@@ -6277,7 +6279,7 @@ Category = Kiss
 Pokedex = Smoochum behave rather similarly to human toddlers, which naturally leads to many accidental friendships across species barriers.
 Generation = 2
 Evolutions = JYNX,Level,30
-#-------------------------------
+#-------------------------------X1
 [ELEKID]
 Name = Elekid
 Types = ELECTRIC
@@ -6468,7 +6470,7 @@ Category = Aurora
 Pokedex = Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.
 Generation = 2
 Flags = Legendary
-#-------------------------------
+#-------------------------------238
 [LARVITAR]
 Name = Larvitar
 Types = ROCK,GROUND
@@ -6492,10 +6494,10 @@ Color = Green
 Shape = BipedalTail
 Habitat = Mountain
 Category = Rock Skin
-Pokedex = A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.
+Pokedex = The spots on Larvitar's front help it intake air to cycle out the soil it must consume. It requires immense patience to train and evolve.
 Generation = 2
 Evolutions = PUPITAR,Level,30
-#-------------------------------
+#-------------------------------239
 [PUPITAR]
 Name = Pupitar
 Types = ROCK,GROUND
@@ -6517,10 +6519,10 @@ Color = Gray
 Shape = Serpentine
 Habitat = Mountain
 Category = Hard Shell
-Pokedex = A Pupitar creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.
+Pokedex = Despite appearances, Pupitar are still plenty mobile. Their limbs are nestled inside its outer shell, preparing for its ultimate form.
 Generation = 2
 Evolutions = TYRANITAR,Level,55
-#-------------------------------
+#-------------------------------240
 [TYRANITAR]
 Name = Tyranitar
 Types = ROCK,DARK
@@ -6543,7 +6545,7 @@ Color = Green
 Shape = BipedalTail
 Habitat = Mountain
 Category = Armor
-Pokedex = A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.
+Pokedex = Its immense power earned it the title of Tyranitar. It can fire lasers that level mountains, and then use the rubble as ammunition.
 Generation = 2
 #-------------------------------
 [LUGIA]
@@ -7949,7 +7951,7 @@ Habitat = Forest
 Category = Prim
 Pokedex = Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.
 Generation = 3
-#-------------------------------
+#-------------------------------X22
 [SABLEYE]
 Name = Sableye
 Types = DARK,GHOST
@@ -7976,7 +7978,7 @@ Category = Darkness
 Pokedex = It digs branching holes in caves using its sharp claws in search of food--raw gems. A Sableye lurks in darkness and is seen only rarely.
 Generation = 3
 WildItemUncommon = WIDELENS
-#-------------------------------
+#-------------------------------X23
 [MAWILE]
 Name = Mawile
 Types = STEEL,FAIRY
@@ -8003,7 +8005,7 @@ Category = Deceiver
 Pokedex = Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.
 Generation = 3
 WildItemUncommon = IRONBALL
-#-------------------------------
+#-------------------------------213
 [ARON]
 Name = Aron
 Types = STEEL,ROCK
@@ -8027,11 +8029,11 @@ Color = Gray
 Shape = Quadruped
 Habitat = Mountain
 Category = Iron Armor
-Pokedex = A Pokémon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.
+Pokedex = Aron hosts numerous holes across its iron-clad body to help it air out its soft insides. The metal casing isn't exactly breathable.
 Generation = 3
 WildItemUncommon = HARDSTONE
 Evolutions = LAIRON,Level,32
-#-------------------------------
+#-------------------------------214
 [LAIRON]
 Name = Lairon
 Types = STEEL,ROCK
@@ -8054,11 +8056,11 @@ Color = Gray
 Shape = Quadruped
 Habitat = Mountain
 Category = Iron Armor
-Pokedex = When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.
+Pokedex = Lairon often enjoy peaceful lives, drinking mineral water, lounging in caves, and chowing down on human construction projects.
 Generation = 3
 WildItemUncommon = HARDSTONE
 Evolutions = AGGRON,Level,42
-#-------------------------------
+#-------------------------------215
 [AGGRON]
 Name = Aggron
 Types = STEEL,ROCK
@@ -8081,7 +8083,7 @@ Color = Gray
 Shape = BipedalTail
 Habitat = Mountain
 Category = Iron Armor
-Pokedex = Its iron horns grow longer a little at a time. They are used to determine the Aggron's age. The gouges in its armor are worn with pride as mementos from battles.
+Pokedex = Aggron's power comes from its muscular build and roaring-hot innards. It can smelt metals in its stomach and expel them at foes.
 Generation = 3
 WildItemUncommon = HARDSTONE
 #-------------------------------
@@ -8436,7 +8438,7 @@ Category = Brutal
 Pokedex = The vertical gills along Sharpedo's front double as vents for aqueous movement, allowing them to swim ahead at jet-boat speed.
 Generation = 3
 WildItemUncommon = DEEPSEATOOTH
-#-------------------------------
+#-------------------------------X4
 [WAILMER]
 Name = Wailmer
 Types = WATER
@@ -8463,7 +8465,7 @@ Category = Ball Whale
 Pokedex = While this Pokémon usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.
 Generation = 3
 Evolutions = WAILORD,Level,40
-#-------------------------------
+#-------------------------------X5
 [WAILORD]
 Name = Wailord
 Types = WATER
@@ -8488,7 +8490,7 @@ Habitat = Sea
 Category = Float Whale
 Pokedex = It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a Wailord can dive close to 10,000 feet beneath the waves.
 Generation = 3
-#-------------------------------
+#-------------------------------X15
 [NUMEL]
 Name = Numel
 Types = FIRE,GROUND
@@ -8515,7 +8517,7 @@ Category = Numb
 Pokedex = A Numel stores boiling magma in the hump on its back. It is a hardy Pokémon that can transport a 220-pound load. It has served humans at work since long ago.
 Generation = 3
 Evolutions = CAMERUPT,Level,33
-#-------------------------------
+#-------------------------------X16
 [CAMERUPT]
 Name = Camerupt
 Types = FIRE,GROUND
@@ -9089,7 +9091,7 @@ Category = Clay Doll
 Pokedex = A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.
 Generation = 3
 WildItemUncommon = LIGHTCLAY
-#-------------------------------
+#-------------------------------217
 [LILEEP]
 Name = Lileep
 Types = ROCK,GRASS
@@ -9113,11 +9115,11 @@ Color = Purple
 Shape = HeadBase
 Habitat = Sea
 Category = Sea Lily
-Pokedex = It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.
+Pokedex = Disguised as a plant, Lileep anchored itself to the seafloor to eat prey. Now, it adheres to the cave floors to scope for Bug-types.
 Generation = 3
 WildItemUncommon = BIGROOT
 Evolutions = CRADILY,Level,40
-#-------------------------------
+#-------------------------------218
 [CRADILY]
 Name = Cradily
 Types = ROCK,GRASS
@@ -9140,7 +9142,7 @@ Color = Green
 Shape = HeadBase
 Habitat = Sea
 Category = Barnacle
-Pokedex = It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. Cradily can be seen on beaches when the tide goes out.
+Pokedex = Cradily can crawl and reattach to any smooth surface. The spots on its head are not its eyes and help it to deter mobile predators.
 Generation = 3
 WildItemUncommon = BIGROOT
 #-------------------------------
@@ -9356,7 +9358,7 @@ Category = Marionette
 Pokedex = An abandoned plush doll became this Pokémon. They are said to live in garbage dumps and wander about in search of the children that threw them away.
 Generation = 3
 WildItemUncommon = SPELLTAG
-#-------------------------------
+#-------------------------------225
 [DUSKULL]
 Name = Duskull
 Types = GHOST
@@ -9380,11 +9382,11 @@ Color = Black
 Shape = HeadArms
 Habitat = Forest
 Category = Requiem
-Pokedex = A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal Pokémon that roams about under the cloak of darkness.
+Pokedex = Duskull's hollow head contains one orb-shaped scarlet eye. Spirit watchers believe the single eye to be the core of its soul.
 Generation = 3
 WildItemUncommon = SPELLTAG
 Evolutions = DUSCLOPS,Level,37
-#-------------------------------
+#-------------------------------226
 [DUSCLOPS]
 Name = Dusclops
 Types = GHOST
@@ -9407,7 +9409,7 @@ Color = Black
 Shape = Bipedal
 Habitat = Forest
 Category = Beckon
-Pokedex = It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.
+Pokedex = The outside of a Dusclops is comprised of some unusual wraps with little physical form, making it a very difficult Pokémon to fight.
 Generation = 3
 WildItemUncommon = SPELLTAG
 Evolutions = DUSKNOIR,TradeItem,REAPERCLOTH
@@ -9863,7 +9865,7 @@ Category = Dragon
 Pokedex = After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.
 Generation = 3
 WildItemUncommon = DRAGONFANG
-#-------------------------------
+#-------------------------------241
 [BELDUM]
 Name = Beldum
 Types = STEEL,PSYCHIC
@@ -9886,11 +9888,11 @@ Color = Blue
 Shape = HeadBase
 Habitat = RoughTerrain
 Category = Iron Ball
-Pokedex = When Beldum gather in a swarm, they move in perfect unison as if they were but one Pokémon. They communicate with each other using brain waves.
+Pokedex = It may not have limbs, but Beldum is fully capable of fending for itself by ramming into foes. It uses magnetism to strengthen the hit.
 Generation = 3
 WildItemUncommon = METALCOAT
 Evolutions = METANG,Level,20
-#-------------------------------
+#-------------------------------242
 [METANG]
 Name = Metang
 Types = STEEL,PSYCHIC
@@ -9913,11 +9915,11 @@ Color = Blue
 Shape = HeadArms
 Habitat = RoughTerrain
 Category = Iron Claw
-Pokedex = The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.
+Pokedex = The steel exoskeleton of Metang conceals an semi-hollow interior and a magnetic nervous system that bolsters impact damage.
 Generation = 3
 WildItemUncommon = METALCOAT
 Evolutions = METAGROSS,Level,45
-#-------------------------------
+#-------------------------------243
 [METAGROSS]
 Name = Metagross
 Types = STEEL,PSYCHIC
@@ -9940,7 +9942,7 @@ Color = Blue
 Shape = MultiBody
 Habitat = RoughTerrain
 Category = Iron Leg
-Pokedex = Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pokémon is smarter than a supercomputer.
+Pokedex = The cross on Metagross' face allows it to concentrate. It runs magnetic waves through it to restabilize its sight and focus for attacks.
 Generation = 3
 WildItemUncommon = METALCOAT
 #-------------------------------
@@ -10174,7 +10176,7 @@ Flags = Mythical
 WildItemCommon = STARPIECE
 WildItemUncommon = STARPIECE
 WildItemRare = STARPIECE
-#-------------------------------
+#-------------------------------249
 [DEOXYS]
 Name = Deoxys
 FormName = Normal Forme
@@ -10197,7 +10199,7 @@ Color = Red
 Shape = Bipedal
 Habitat = Rare
 Category = DNA
-Pokedex = A Pokémon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed.
+Pokedex = Deoxys is not of this world. Its hostile nature may be a result of the mutation it suffered upon descending to Earth's surface.
 Generation = 3
 Flags = Mythical
 #-------------------------------
@@ -11287,7 +11289,7 @@ Shape = Head
 Category = Magical
 Pokedex = Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.
 Generation = 4
-#-------------------------------
+#-------------------------------231
 [HONCHKROW]
 Name = Honchkrow
 Types = DARK,FLYING
@@ -11309,7 +11311,7 @@ Weight = 27.3
 Color = Black
 Shape = Winged
 Category = Big Boss
-Pokedex = Becoming active at night, it is known to swarm with numerous Murkrow in tow.
+Pokedex = Honchkrow are not the fastest birds, but they can fly incredibly quietly. This allows them to get the drop on any disloyal cronies.
 Generation = 4
 #-------------------------------128
 [GLAMEOW]
@@ -12207,7 +12209,7 @@ Shape = Bipedal
 Category = Vine
 Pokedex = It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.
 Generation = 4
-#-------------------------------
+#-------------------------------X3
 [ELECTIVIRE]
 Name = Electivire
 Types = ELECTRIC
@@ -12475,7 +12477,7 @@ Category = Compass
 Pokedex = It exudes strong magnetism from all over. It controls three small units called Mini-Noses.
 Generation = 4
 WildItemUncommon = MAGNET
-#-------------------------------
+#-------------------------------227
 [DUSKNOIR]
 Name = Dusknoir
 Types = GHOST
@@ -12497,7 +12499,7 @@ Weight = 106.6
 Color = Black
 Shape = HeadArms
 Category = Gripper
-Pokedex = The antenna on its head captures radio waves from the world of spirits that command it to take people there.
+Pokedex = The maw on Dusknoir's stomach appears bottomless. Anything that a malicious Dusknoir puts inside the maw is never seen again.
 Generation = 4
 WildItemUncommon = SPELLTAG
 #-------------------------------024
@@ -12769,7 +12771,7 @@ Category = Lunar
 Pokedex = Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.
 Generation = 4
 Flags = Legendary
-#-------------------------------
+#-------------------------------247
 [PHIONE]
 Name = Phione
 Types = WATER
@@ -12790,10 +12792,10 @@ Weight = 3.1
 Color = Blue
 Shape = HeadArms
 Category = Sea Drifter
-Pokedex = A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.
+Pokedex = Once viewed as an offspring of Manaphy, Phione drift in warm waters as far as they can before eventually going home.
 Generation = 4
 Flags = Mythical
-#-------------------------------
+#-------------------------------248
 [MANAPHY]
 Name = Manaphy
 Types = WATER
@@ -12815,7 +12817,7 @@ Weight = 1.4
 Color = Blue
 Shape = Bipedal
 Category = Seafaring
-Pokedex = Born on a cold seafloor, it will swim great distances to return to its birthplace.
+Pokedex = Reborn in Ileas from the spirit of discovery, Manaphy channels its bond with its environment and transmutes it into its body.
 Generation = 4
 Flags = Mythical
 #-------------------------------
@@ -12842,7 +12844,7 @@ Category = Pitch-Black
 Pokedex = It can lull people to sleep and make them dream. It is active during nights of the new moon.
 Generation = 4
 Flags = Mythical
-#-------------------------------
+#-------------------------------246
 [SHAYMIN]
 Name = Shaymin
 FormName = Land Forme
@@ -12864,7 +12866,7 @@ Weight = 2.1
 Color = Green
 Shape = Quadruped
 Category = Gratitude
-Pokedex = It lives in flower patches and avoids detection by curling up to look like a flowering plant.
+Pokedex = Reborn in Ileas from the spirit of community, Shaymin channels its gratitude and transmutes it into powerful Grass attacks.
 Generation = 4
 Flags = Mythical
 WildItemCommon = LUMBERRY
@@ -12895,7 +12897,7 @@ Category = Alpha
 Pokedex = It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.
 Generation = 4
 Flags = Mythical
-#-------------------------------
+#-------------------------------250
 [VICTINI]
 Name = Victini
 Types = PSYCHIC,FIRE
@@ -12916,7 +12918,7 @@ Weight = 4.0
 Color = Yellow
 Shape = Bipedal
 Category = Victory
-Pokedex = This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.
+Pokedex = Reignited in Ileas from the spirit of combat, Victini channels its pride to claim victory and stoke its energetic, fiery attacks.
 Generation = 5
 Flags = Mythical
 #-------------------------------001
@@ -14724,7 +14726,7 @@ Shape = BipedalTail
 Category = Prototurtle
 Pokedex = Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.
 Generation = 5
-#-------------------------------
+#-------------------------------221
 [ARCHEN]
 Name = Archen
 Types = ROCK,FLYING
@@ -14746,10 +14748,10 @@ Weight = 9.5
 Color = Yellow
 Shape = Winged
 Category = First Bird
-Pokedex = Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.
+Pokedex = As an ancestor to bird Pokémon, Archen's flappy steps are its early attempts to fly. They are full of energy and always hungry.
 Generation = 5
 Evolutions = ARCHEOPS,Level,37
-#-------------------------------
+#-------------------------------222
 [ARCHEOPS]
 Name = Archeops
 Types = ROCK,FLYING
@@ -14770,7 +14772,7 @@ Weight = 32.0
 Color = Yellow
 Shape = Winged
 Category = First Bird
-Pokedex = It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.
+Pokedex = Archeops boasts a rather heavy pair of wings that makes flight difficult. It will choose to give up on prey if the chase is too taxing.
 Generation = 5
 #-------------------------------
 [TRUBBISH]
@@ -14825,10 +14827,11 @@ Pokedex = They absorb garbage and make it part of their bodies. They shoot a poi
 Generation = 5
 WildItemCommon = SILKSCARF
 WildItemUncommon = BLACKSLUDGE
-#-------------------------------
+#-------------------------------244
 [ZORUA]
 Name = Zorua
-Types = DARK
+FormName = Ileasi
+Types = NORMAL,GHOST
 BaseStats = 40,65,40,65,80,40
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
@@ -14846,14 +14849,15 @@ Height = 0.7
 Weight = 12.5
 Color = Gray
 Shape = Quadruped
-Category = Tricky Fox
-Pokedex = To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.
+Category = Spiteful Fox
+Pokedex = First found in the ancient lands of Hisui, Zorua are departed souls given new life. They seek individuals who hold no grudges.
 Generation = 5
 Evolutions = ZOROARK,Level,30
-#-------------------------------
+#-------------------------------245
 [ZOROARK]
 Name = Zoroark
-Types = DARK
+FormName = Ileasi
+Types = NORMAL,GHOST
 BaseStats = 60,105,60,105,120,60
 GenderRatio = FemaleOneEighth
 GrowthRate = Parabolic
@@ -14870,8 +14874,8 @@ Height = 1.6
 Weight = 81.1
 Color = Gray
 Shape = BipedalTail
-Category = Illusion Fox
-Pokedex = Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
+Category = Baneful Fox
+Pokedex = Zoroark's body is comprised of malice older than civilization itself. It rends its own visage asunder to unleash heightened attacks.
 Generation = 5
 #-------------------------------060
 [MINCCINO]
@@ -15703,7 +15707,7 @@ Shape = Finned
 Category = EleFish
 Pokedex = Despite low speed, Eelektross' flexible bodies allow for incredible stealth and predation. They love living in subterranean rivers.
 Generation = 5
-#-------------------------------
+#-------------------------------205
 [ELGYEM]
 Name = Elgyem
 Types = PSYCHIC
@@ -15726,10 +15730,10 @@ Weight = 9.0
 Color = Blue
 Shape = BipedalTail
 Category = Cerebral
-Pokedex = This Pokémon had never been seen until it appeared from far in the desert 50 years ago.
+Pokedex = Elgyem's body holds many similarities to that of the human brain, despite their origins being traced to a UFO crash in Unova.
 Generation = 5
 Evolutions = BEHEEYEM,Level,42
-#-------------------------------
+#-------------------------------206
 [BEHEEYEM]
 Name = Beheeyem
 Types = PSYCHIC
@@ -15751,7 +15755,7 @@ Weight = 34.5
 Color = Brown
 Shape = Bipedal
 Category = Cerebral
-Pokedex = It uses psychic power to control an opponent's brain and tamper with its memories.
+Pokedex = Beheeyem's skull hosts a tremendous amount of psychic energy. Those who have tried to operate on them mysteriously collapse.
 Generation = 5
 #-------------------------------139
 [LITWICK]
@@ -15904,7 +15908,7 @@ Shape = BipedalTail
 Category = Axe Jaw
 Pokedex = Haxorus tusks are sharper than nearly anything and are nigh-unbreakable. Exercise caution when handling or hugging.
 Generation = 5
-#-------------------------------
+#-------------------------------X19
 [CUBCHOO]
 Name = Cubchoo
 Types = ICE
@@ -15930,7 +15934,7 @@ Category = Chill
 Pokedex = Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.
 Generation = 5
 Evolutions = BEARTIC,Level,37
-#-------------------------------
+#-------------------------------X20
 [BEARTIC]
 Name = Beartic
 Types = ICE
@@ -16256,7 +16260,7 @@ Shape = Quadruped
 Category = Bash Buffalo
 Pokedex = The hair on a Bouffalant can sustain immense damage, but is oddly soft. They have gained popularity as "high maintenance" pets.
 Generation = 5
-#-------------------------------
+#-------------------------------X6
 [RUFFLET]
 Name = Rufflet
 Types = NORMAL,FLYING
@@ -16281,7 +16285,7 @@ Category = Eaglet
 Pokedex = They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.
 Generation = 5
 Evolutions = BRAVIARY,Level,54
-#-------------------------------
+#-------------------------------X7
 [BRAVIARY]
 Name = Braviary
 Types = NORMAL,FLYING
@@ -16355,7 +16359,7 @@ Shape = Winged
 Category = Bone Vulture
 Pokedex = Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.
 Generation = 5
-#-------------------------------
+#-------------------------------232
 [HEATMOR]
 Name = Heatmor
 Types = FIRE
@@ -16378,9 +16382,9 @@ Weight = 58.0
 Color = Red
 Shape = BipedalTail
 Category = Anteater
-Pokedex = Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.
+Pokedex = Heatmor boasts an incredibly strong and slender tongue that it can weave into small crevices. Its tongue's pores can secrete flame.
 Generation = 5
-#-------------------------------
+#-------------------------------233
 [DURANT]
 Name = Durant
 Types = BUG,STEEL
@@ -16403,7 +16407,7 @@ Weight = 33.0
 Color = Gray
 Shape = Insectoid
 Category = Iron Ant
-Pokedex = Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.
+Pokedex = Durant coat themselves in plates of steel to deter other foes. This allows them to focus their colony defenses against Heatmor.
 Generation = 5
 #-------------------------------
 [DEINO]
@@ -17637,7 +17641,7 @@ Shape = HeadBase
 Category = Royal Sword
 Pokedex = In this defensive stance, Aegislash uses its steel body and a force field of spectral power to reduce the damage of any attack.
 Generation = 6
-#-------------------------------
+#-------------------------------223
 [SPRITZEE]
 Name = Spritzee
 FormName = Ileasi
@@ -17660,11 +17664,11 @@ Height = 0.2
 Weight = 0.5
 Color = Pink
 Shape = HeadArms
-Category = Perfume
-Pokedex = It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten.
+Category = Fetid
+Pokedex = It consumes decaying matter, giving it a haunting and deathly smell. Children love Spritzee despite the smell for its appearance.
 Generation = 6
 Evolutions = AROMATISSE,TradeItem,SACHET
-#-------------------------------
+#-------------------------------224
 [AROMATISSE]
 Name = Fumighast
 Types = POISON,GHOST
@@ -17685,8 +17689,8 @@ Height = 0.8
 Weight = 15.5
 Color = Pink
 Shape = Bipedal
-Category = Fragrance
-Pokedex = It devises various scents, pleasant and unpleasant, and emits scents that its enemies dislike in order to gain an edge in battle.
+Category = Miasma
+Pokedex = Born of carrion and pestillence, Fumighast's arrival is a sign of impending demise. Their fumes leave nothing to the imagination.
 Generation = 6
 #-------------------------------
 [SWIRLIX]
@@ -17738,7 +17742,7 @@ Shape = Bipedal
 Category = Meringue
 Pokedex = It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work.
 Generation = 6
-#-------------------------------
+#-------------------------------203
 [INKAY]
 Name = Inkay
 Types = DARK,PSYCHIC
@@ -17761,10 +17765,10 @@ Weight = 3.5
 Color = Blue
 Shape = Multiped
 Category = Revolving
-Pokedex = It flashes the light-emitting spots on its body, which drains its opponent's will to fight. It takes the opportunity to scuttle away and hide.
+Pokedex = Inkay have an odd tendency to float in all directions, often turning itself upside-down, as if to suggest something to its trainers.
 Generation = 6
 Evolutions = MALAMAR,Level,30
-#-------------------------------
+#-------------------------------204
 [MALAMAR]
 Name = Malamar
 Types = DARK,PSYCHIC
@@ -17786,7 +17790,7 @@ Weight = 47.0
 Color = Blue
 Shape = HeadBase
 Category = Overturning
-Pokedex = It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.
+Pokedex = The tentacles on Malamar's head cannot be controlled nearly as well, but it does not require them to hypnotize and consume a foe.
 Generation = 6
 #-------------------------------
 [BINACLE]
@@ -17838,7 +17842,7 @@ Shape = MultiBody
 Category = Collective
 Pokedex = Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders.
 Generation = 6
-#-------------------------------
+#-------------------------------X24
 [SKRELP]
 Name = Skrelp
 Types = POISON,WATER
@@ -17864,7 +17868,7 @@ Category = Mock Kelp
 Pokedex = Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.
 Generation = 6
 Evolutions = DRAGALGE,Level,48
-#-------------------------------
+#-------------------------------X25
 [DRAGALGE]
 Name = Dragalge
 Types = POISON,DRAGON
@@ -17986,7 +17990,7 @@ Shape = BipedalTail
 Category = Generator
 Pokedex = They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.
 Generation = 6
-#-------------------------------
+#-------------------------------219
 [TYRUNT]
 Name = Tyrunt
 Types = ROCK,DRAGON
@@ -18009,10 +18013,10 @@ Weight = 26.0
 Color = Brown
 Shape = BipedalTail
 Category = Royal Heir
-Pokedex = Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.
+Pokedex = Tyrunt are observed as attempting to frolic with other Pokémon. Its deadly jaws unfortunately prevent the fun from being shared.
 Generation = 6
 Evolutions = TYRANTRUM,LevelDay,39
-#-------------------------------
+#-------------------------------220
 [TYRANTRUM]
 Name = Tyrantrum
 Types = ROCK,DRAGON
@@ -18034,7 +18038,7 @@ Weight = 270.0
 Color = Red
 Shape = BipedalTail
 Category = Despot
-Pokedex = Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.
+Pokedex = The incredible power of Tyrantrum is bolstered by its rocky exoskeleton. All modern fossil Pokémon appeared different in the past.
 Generation = 6
 #-------------------------------
 [AMAURA]
@@ -18161,7 +18165,7 @@ Shape = BipedalTail
 Category = Antenna
 Pokedex = Often found in the back streets of Ileas City, Dedenne leech power from exposed outlets and power lines to recharge when tired.
 Generation = 6
-#-------------------------------
+#-------------------------------216
 [CARBINK]
 Name = Carbink
 Types = ROCK,FAIRY
@@ -18183,9 +18187,9 @@ Weight = 5.7
 Color = Gray
 Shape = Head
 Category = Jewel
-Pokedex = Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.
+Pokedex = Carbink reside in caves and chasms where jewels lay. The ones with the cleanest, shiniest gemstones are elevated to queendom.
 Generation = 6
-#-------------------------------
+#-------------------------------X28
 [GOOMY]
 Name = Goomy
 Types = DRAGON
@@ -18212,10 +18216,11 @@ Pokedex = Its source of protection is its slimy, germ-laden mucous membrane. Any
 Generation = 6
 WildItemUncommon = SHEDSHELL
 Evolutions = SLIGGOO,Level,40
-#-------------------------------
+#-------------------------------X29
 [SLIGGOO]
 Name = Sliggoo
-Types = DRAGON
+FormName = Ileasi
+Types = DRAGON,STEEL
 BaseStats = 68,75,53,60,83,113
 GenderRatio = Female50Percent
 GrowthRate = Slow
@@ -18238,10 +18243,11 @@ Pokedex = This Pokémon's mucous can dissolve anything. Toothless, it sprays muc
 Generation = 6
 WildItemUncommon = SHEDSHELL
 Evolutions = GOODRA,LevelRain,50
-#-------------------------------
+#-------------------------------X30
 [GOODRA]
 Name = Goodra
-Types = DRAGON
+FormName = Ileasi
+Types = DRAGON,STEEL
 BaseStats = 90,100,70,80,110,150
 GenderRatio = Female50Percent
 GrowthRate = Slow
@@ -18389,7 +18395,7 @@ Category = Pumpkin
 Pokedex = Small Gourgeist pretend to be children to fool adults. Anyone who falls for the act gets carried away to the hereafter.
 Generation = 6
 Flags = InheritFormFromMother
-#-------------------------------
+#-------------------------------X17
 [BERGMITE]
 Name = Bergmite
 Types = ICE
@@ -18415,7 +18421,7 @@ Category = Ice Chunk
 Pokedex = It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.
 Generation = 6
 Evolutions = AVALUGG,Level,37
-#-------------------------------
+#-------------------------------X18
 [AVALUGG]
 Name = Avalugg
 Types = ICE
@@ -19585,7 +19591,7 @@ Category = Toxic Lizard
 Pokedex = Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes.
 Generation = 7
 WildItemUncommon = SMOKEBALL
-#-------------------------------
+#-------------------------------X26
 [STUFFUL]
 Name = Stufful
 Types = NORMAL,FIGHTING
@@ -19611,7 +19617,7 @@ Category = Flailing
 Pokedex = Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.
 Generation = 7
 Evolutions = BEWEAR,Level,27
-#-------------------------------
+#-------------------------------X27
 [BEWEAR]
 Name = Bewear
 Types = NORMAL,FIGHTING
@@ -20064,7 +20070,7 @@ Category = Roly-Poly
 Pokedex = The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac.
 Generation = 7
 WildItemUncommon = ELECTRICSEED
-#-------------------------------
+#-------------------------------234
 [MIMIKYU]
 Name = Mimikyu
 FormName = Disguised Form
@@ -20087,7 +20093,7 @@ Weight = 0.7
 Color = Yellow
 Shape = Serpentine
 Category = Disguise
-Pokedex = A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.
+Pokedex = Mimikyu are not spiteful of humans and try to draw them in with a Pikachu-like rag. It holds a second stick to prop up the "head."
 Generation = 7
 WildItemUncommon = CHESTOBERRY
 #-------------------------------
@@ -21202,7 +21208,7 @@ Shape = Winged
 Category = Armor Raven
 Pokedex = Trained for transport in Galar, Corviknight are loyal Pokémon that can memorize routes with ease and lift tremendous weights.
 Generation = 8
-#-------------------------------
+#-------------------------------210
 [BLIPBUG]
 Name = Blipbug
 Types = BUG
@@ -21224,10 +21230,10 @@ Weight = 8.0
 Color = Blue
 Shape = Insectoid
 Category = Larva
-Pokedex = Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.
+Pokedex = Blipbug's lenses and hairs help it ingest information about its surroundings and transmit it. The bowtie-like collar serves no purpose.
 Generation = 8
 Evolutions = DOTTLER,Level,10
-#-------------------------------
+#-------------------------------211
 [DOTTLER]
 Name = Dottler
 Types = BUG,PSYCHIC
@@ -21249,11 +21255,11 @@ Weight = 19.5
 Color = Yellow
 Shape = Insectoid
 Category = Radome
-Pokedex = It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.
+Pokedex = The shell on Dottler's back transmits microwaves that alert it to incoming Flying-types. Its shell spots can flash numerous patterns.
 Generation = 8
 WildItemUncommon = PSYCHICSEED
 Evolutions = ORBEETLE,Level,30
-#-------------------------------
+#-------------------------------212
 [ORBEETLE]
 Name = Orbeetle
 Types = BUG,PSYCHIC
@@ -21275,7 +21281,7 @@ Weight = 40.8
 Color = Red
 Shape = Winged
 Category = Seven Spot
-Pokedex = It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.
+Pokedex = Orbeetle is capable of a rather insidious feat. It lands upon Ledyba eggs and corrupts them, morphing them into mindless servants.
 Generation = 8
 WildItemUncommon = PSYCHICSEED
 #-------------------------------039
@@ -21852,7 +21858,7 @@ Shape = BipedalTail
 Category = Punk
 Pokedex = When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
 Generation = 8
-#-------------------------------
+#-------------------------------X13
 [SIZZLIPEDE]
 Name = Sizzlipede
 Types = FIRE,BUG
@@ -21878,7 +21884,7 @@ Category = Radiator
 Pokedex = It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.
 Generation = 8
 Evolutions = CENTISKORCH,Level,28
-#-------------------------------
+#-------------------------------X14
 [CENTISKORCH]
 Name = Centiskorch
 Types = FIRE,BUG
@@ -21952,7 +21958,7 @@ Shape = Multiped
 Category = Jujitsu
 Pokedex = A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.
 Generation = 8
-#-------------------------------
+#-------------------------------228
 [SINISTEA]
 Name = Sinistea
 FormName = Phony Form
@@ -21975,10 +21981,10 @@ Weight = 0.2
 Color = Purple
 Shape = Head
 Category = Black Tea
-Pokedex = The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.
+Pokedex = Reports claim Sinistea are souls who died alone and possessed tea. That does, however, suggest a lot of tea drinkers dying alone.
 Generation = 8
 Evolutions = POLTEAGEIST,Item,CRACKEDPOT
-#-------------------------------
+#-------------------------------229
 [POLTEAGEIST]
 Name = Polteageist
 FormName = Phony Form
@@ -22001,7 +22007,7 @@ Weight = 0.4
 Color = Purple
 Shape = Head
 Category = Black Tea
-Pokedex = This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.
+Pokedex = The spirit within Polteageist's pot is not the entirety of the Pokémon, as the tea it infused with brings a unique personality to each.
 Generation = 8
 #-------------------------------
 [HATENNA]
@@ -22078,7 +22084,7 @@ Shape = HeadBase
 Category = Silent
 Pokedex = It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.
 Generation = 8
-#-------------------------------
+#-------------------------------235
 [IMPIDIMP]
 Name = Impidimp
 Types = DARK,FAIRY
@@ -22100,10 +22106,10 @@ Weight = 5.5
 Color = Pink
 Shape = Bipedal
 Category = Wily
-Pokedex = Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.
+Pokedex = Impidimp are playful creatures that thrive off consuming negativity in the air around them. This makes them unusually great pets.
 Generation = 8
 Evolutions = MORGREM,Level,32
-#-------------------------------
+#-------------------------------236
 [MORGREM]
 Name = Morgrem
 Types = DARK,FAIRY
@@ -22125,10 +22131,10 @@ Weight = 12.5
 Color = Pink
 Shape = Bipedal
 Category = Devious
-Pokedex = With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.
+Pokedex = Morgrem's hair is fully manipulable and can stiffen out for extra attack power. It slicks its hair with forest fungi and acid as a gloss.
 Generation = 8
 Evolutions = GRIMMSNARL,Level,42
-#-------------------------------
+#-------------------------------237
 [GRIMMSNARL]
 Name = Grimmsnarl
 Types = DARK,FAIRY
@@ -22150,7 +22156,7 @@ Weight = 61.0
 Color = Purple
 Shape = Bipedal
 Category = Bulk Up
-Pokedex = Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.
+Pokedex = The hair coating Grimmsnarl's body acts as additional muscle. It can extend the hair into a whip to snap at larger, close-range foes.
 Generation = 8
 #-------------------------------
 [OBSTAGOON]
