@@ -523,13 +523,13 @@ Description = This move enables the user to attack first. It fails if the target
 Name = Knock Off
 Type = DARK
 Category = Physical
-Power = 65
+Power = 40
 Accuracy = 100
 TotalPP = 20
 Target = NearOther
 FunctionCode = RemoveTargetItem
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user slaps down the target's held item, preventing that item from being used in the battle.
+Description = The user slaps off the target's held item, preventing use. Move power increases if an item is removed.
 #-------------------------------
 [ASSURANCE]
 Name = Assurance
@@ -560,7 +560,7 @@ Description = The target is bitten with viciously sharp fangs. It may make the t
 Name = Brutal Swing
 Type = DARK
 Category = Physical
-Power = 60
+Power = 80
 Accuracy = 100
 TotalPP = 20
 Target = AllNearOthers
@@ -597,12 +597,12 @@ Name = Snarl
 Type = DARK
 Category = Special
 Power = 55
-Accuracy = 95
+Accuracy = 100
 TotalPP = 15
 Target = AllNearFoes
 FunctionCode = LowerTargetSpAtk1
 Flags = CanProtect,CanMirrorMove,Sound,CannotMetronome
-EffectChance = 100
+EffectChance = 75
 Description = The user yells as if it is ranting about something, making the target's Sp. Atk stat decrease.
 #-------------------------------
 [PAYBACK]
@@ -1028,7 +1028,7 @@ Name = Dragon Tail
 Type = DRAGON
 Category = Physical
 Power = 60
-Accuracy = 90
+Accuracy = 100
 TotalPP = 10
 Target = NearOther
 Priority = -6
@@ -1584,7 +1584,7 @@ Name = Play Rough
 Type = FAIRY
 Category = Physical
 Power = 90
-Accuracy = 90
+Accuracy = 100
 TotalPP = 10
 Target = NearOther
 FunctionCode = LowerTargetAttack1
@@ -1860,12 +1860,12 @@ Name = Focus Blast
 Type = FIGHTING
 Category = Special
 Power = 120
-Accuracy = 70
+Accuracy = 75
 TotalPP = 5
 Target = NearOther
 FunctionCode = LowerTargetSpDef1
 Flags = CanProtect,CanMirrorMove,Bomb
-EffectChance = 10
+EffectChance = 20
 Description = The user heightens its mental focus and unleashes its power. It may also lower the target's Sp. Def.
 #-------------------------------
 [SUPERPOWER]
@@ -2093,7 +2093,7 @@ Name = Circle Throw
 Type = FIGHTING
 Category = Physical
 Power = 60
-Accuracy = 90
+Accuracy = 100
 TotalPP = 10
 Target = NearOther
 Priority = -6
@@ -2592,8 +2592,8 @@ Name = Heat Wave
 Type = FIRE
 Category = Special
 Power = 95
-Accuracy = 90
-TotalPP = 10
+Accuracy = 100
+TotalPP = 5
 Target = AllNearFoes
 FunctionCode = BurnTarget
 Flags = CanProtect,CanMirrorMove
@@ -3004,7 +3004,7 @@ Name = Air Cutter
 Type = FLYING
 Category = Special
 Power = 60
-Accuracy = 95
+Accuracy = 100
 TotalPP = 25
 Target = AllNearFoes
 FunctionCode = None
@@ -4347,13 +4347,13 @@ Name = Blizzard
 Type = ICE
 Category = Special
 Power = 110
-Accuracy = 70
+Accuracy = 75
 TotalPP = 5
 Target = AllNearFoes
 FunctionCode = FreezeTargetAlwaysHitsInHail
 Flags = CanProtect,CanMirrorMove
 EffectChance = 10
-Description = A howling blizzard is summoned to strike the opposing team. It may also freeze them solid.
+Description = A howling blizzard is summoned to strike the opposing Pokemon. May also leave the targets frostbitten.
 #-------------------------------
 [ICEHAMMER]
 Name = Ice Hammer
@@ -4488,13 +4488,13 @@ Name = Icy Wind
 Type = ICE
 Category = Special
 Power = 55
-Accuracy = 95
+Accuracy = 100
 TotalPP = 15
 Target = AllNearFoes
 FunctionCode = LowerTargetSpeed1
 Flags = CanProtect,CanMirrorMove
-EffectChance = 100
-Description = The user attacks with a gust of chilled air. It also lowers the targets' Speed stat.
+EffectChance = 75
+Description = The user attacks with a gust of chilled air. It may also lower the targets' Speed stat.
 #-------------------------------
 [ICESHARD]
 Name = Ice Shard
@@ -4519,8 +4519,8 @@ TotalPP = 25
 Target = AllNearFoes
 FunctionCode = FreezeTarget
 Flags = CanProtect,CanMirrorMove
-EffectChance = 10
-Description = The user attacks with a chilling gust of powdery snow. It may also freeze the targets.
+EffectChance = 30
+Description = The user attacks with a chilling gust of powdery snow. It may also leave the targets frostbitten.
 #-------------------------------
 [ICEBALL]
 Name = Ice Ball
@@ -4639,7 +4639,7 @@ Name = Giga Impact
 Type = NORMAL
 Category = Physical
 Power = 150
-Accuracy = 90
+Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = AttackAndSkipNextTurn
@@ -4651,7 +4651,7 @@ Name = Hyper Beam
 Type = NORMAL
 Category = Special
 Power = 150
-Accuracy = 90
+Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = AttackAndSkipNextTurn
@@ -6263,7 +6263,7 @@ Accuracy = 0
 TotalPP = 10
 Target = NearOther
 FunctionCode = UserCopyTargetStatStages
-Description = The user hypnotizes itself into copying any stat change made by the target.
+Description = The user psyches itself up, copying any stat changes made by the target.
 #-------------------------------
 [RECOVER]
 Name = Recover
@@ -7794,12 +7794,12 @@ Name = Rock Slide
 Type = ROCK
 Category = Physical
 Power = 75
-Accuracy = 90
+Accuracy = 100
 TotalPP = 10
 Target = AllNearFoes
 FunctionCode = FlinchTarget
 Flags = CanProtect,CanMirrorMove
-EffectChance = 30
+EffectChance = 10
 Description = Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch.
 #-------------------------------
 [ANCIENTPOWER]
@@ -8366,12 +8366,12 @@ Name = Muddy Water
 Type = WATER
 Category = Special
 Power = 90
-Accuracy = 85
-TotalPP = 10
+Accuracy = 100
+TotalPP = 5
 Target = AllNearFoes
 FunctionCode = LowerTargetAccuracy1
 Flags = CanProtect,CanMirrorMove
-EffectChance = 30
+EffectChance = 10
 Description = The user attacks by shooting muddy water at the opposing team. It may also lower the target's accuracy.
 #-------------------------------
 [SPARKLINGARIA]
@@ -8745,7 +8745,6 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = RecoilThirdOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
-EffectChance = 10
 Description = The user prepares its exoskeleton for impact and charges at the foe. The user also takes damage.
 #-------------------------------
 [FEVERPITCH]
@@ -9032,4 +9031,15 @@ Accuracy = 0
 TotalPP = 5
 Target = User
 FunctionCode = FullyHealIncomingAllyIfUserFaints
+Flags = CannotMetronome
 Description = If the user faints, the next ally Pokemon that enters the field will be healed fully.
+#-------------------------------
+[KINDLING]
+Name = Kindling
+Type = FIRE
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = User
+FunctionCode = BurnItemRaiseUserAtkSpAtk1Speed2
+Description = The user burns its held item, raising its Attack and Sp. Attack and sharply raising its Speed.
