@@ -9003,3 +9003,33 @@ TotalPP = 10
 Target = NearAlly
 FunctionCode = RaiseTargetDefSpDef1
 Description = The user applies a layer of cement to their ally, raising its Defense and Sp. Def stats.
+#-------------------------------
+[LUNARPRISM]
+Name = Lunar Prism
+Type = PSYCHIC
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = User
+FunctionCode = UserSwapBaseAtkDefSpAtkSpDef
+Description = The user calls upon the power of the moon, swapping both offenses for defenses.
+#-------------------------------
+[BUBBLEBARRIER]
+Name = Bubble Barrier
+Type = WATER
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+FunctionCode = StartWeakenDamageAgainstUserChangeTypeToWater
+Description = Damage from attacks is reduced and the user changes to Water-type. The bubble pops on contact.
+#-------------------------------
+[FERTILIZE]
+Name = Fertilize
+Type = GRASS
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = User
+FunctionCode = FullyHealIncomingAllyIfUserFaints
+Description = If the user faints, the next ally Pokemon that enters the field will be healed fully.
