@@ -9052,6 +9052,7 @@ Power = 60
 Accuracy = 100
 TotalPP = 10
 Target = NearOther
+Priority = -6
 FunctionCode = SwapOutTargetIgnoresResistances
 Flags = CanProtect,CanMirrorMove
 Description = The user summons a riptide to pull away a grounded target. This attack ignores resistances.
