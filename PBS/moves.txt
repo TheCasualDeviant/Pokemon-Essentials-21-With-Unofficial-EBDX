@@ -9043,3 +9043,15 @@ TotalPP = 5
 Target = User
 FunctionCode = BurnItemRaiseUserAtkSpAtk1Speed2
 Description = The user burns its held item, raising its Attack and Sp. Attack and sharply raising its Speed.
+#-------------------------------
+[RIPTIDE]
+Name = Riptide
+Type = WATER
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = SwapOutTargetIgnoresResistances
+Flags = CanProtect,CanMirrorMove
+Description = The user summons a riptide to pull away a grounded target. This attack ignores resistances.

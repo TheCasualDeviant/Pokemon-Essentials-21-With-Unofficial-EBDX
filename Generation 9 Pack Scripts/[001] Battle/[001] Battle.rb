@@ -270,17 +270,17 @@ class Battle::Move
       mult *= 0.75 if @battle.pbCheckGlobalAbility(abil) && !user.hasActiveAbility?(abil) && category
     end
 	if @battle.field.terrain == :Electric && user.affectedByTerrain? &&
-	   @function == "IncreasePowerWhileElectricTerrain"
+	   @function_code == "IncreasePowerWhileElectricTerrain"
 	  multipliers[:power_multiplier] *= 1.5 if type != :ELECTRIC
 	end
     case user.effectiveWeather
     when :Sun, :HarshSun
-      if @function = "IncreasePowerInSunWeather"
+      if @function_code = "IncreasePowerInSunWeather"
         multipliers[:final_damage_multiplier] *= (type == :FIRE) ? 1 : (type == :WATER) ? 3 : 1.5
       end
     when :Hail
       if Settings::HAIL_WEATHER_TYPE > 0 && target.pbHasType?(:ICE) && 
-         (physicalMove? || @function == "UseTargetDefenseInsteadOfTargetSpDef")
+         (physicalMove? || @function_code == "UseTargetDefenseInsteadOfTargetSpDef")
         multipliers[:defense_multiplier] *= 1.5
       end
     end
