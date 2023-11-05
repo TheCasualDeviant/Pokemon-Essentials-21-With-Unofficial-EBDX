@@ -34,8 +34,8 @@ GameData::Status.register({
 GameData::Status.register({
   :id            => :FROSTBITE,
   :name          => _INTL("Frostbite"),
-  :animation     => "Frostbite",
-  :icon_position => 6
+  :animation     => "Frozen",
+  :icon_position => 4
 })
 
 
