@@ -9056,3 +9056,39 @@ Priority = -6
 FunctionCode = SwapOutTargetIgnoresResistances
 Flags = CanProtect,CanMirrorMove
 Description = The user summons a riptide to pull away a grounded target. This attack ignores resistances.
+#-------------------------------
+[SHOCKCOIL]
+Name = Shock Coil
+Type = ELECTRIC
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = HigherPriorityInElectricTerrain
+Flags = CanProtect,CanMirrorMove
+Description = The user strikes the target with a shock from an electric coil. Always goes first on Electric Terrain.
+#-------------------------------
+[STATICCLING]
+Name = Static Cling
+Type = ELECTRIC
+Category = Physical
+Power = 15
+Accuracy = 90
+TotalPP = 20
+Target = NearOther
+FunctionCode = BindTargetStealTargetItem
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user gathers static electricity and clings to the target for 4-5 turns. Steals target's item.
+#-------------------------------
+[HEADLOCK]
+Name = Headlock
+Type = FIGHTING
+Category = Physical
+Power = 100
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+FunctionCode = TrapUserAndTargetForThreeTurns
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user grabs the target and traps it in a headlock, preventing both from switching for 3 turns.
