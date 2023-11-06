@@ -9092,3 +9092,26 @@ Target = NearOther
 FunctionCode = TrapUserAndTargetForThreeTurns
 Flags = Contact,CanProtect,CanMirrorMove
 Description = The user grabs the target and traps it in a headlock, preventing both from switching for 3 turns.
+#-------------------------------
+[REAPERSLICE]
+Name = Reaper Slice
+Type = GHOST
+Category = Physical
+Power = 120
+Accuracy = 70
+TotalPP = 5
+Target = NearOther
+FunctionCode = CurseTarget
+Flags = CanProtect,CanMirrorMove
+EffectChance = 30
+Description = The user slashes the target with a spectral scythe. Has a chance to inflict a curse on the target.
+#-------------------------------
+[FORGE]
+Name = Forge
+Type = STEEL
+Category = Status
+Accuracy = 0
+TotalPP = 20
+Target = User
+FunctionCode = ResetStatStagesRaiseDefStartHealUserEachTurn
+Description = The user forges its metals to reset stat changes, raise Defense, and regain some HP every turn.
