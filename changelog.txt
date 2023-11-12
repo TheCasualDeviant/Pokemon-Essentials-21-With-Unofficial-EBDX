@@ -1,0 +1,1038 @@
+POKEMON: BATTLE BONDS - CHANGELOG
+
+~v1.0~
+
+TYPE-RELATED BALANCE CHANGES
+
+1. ICE now resists:
+
+ICE (previously-resisted)
+WATER (new)
+
+Justification: By creating a combination resistance between ICE and WATER, the ICE type gains the ability to switch into the
+	field against one of the most prominent and useful types in the game. Logically speaking, neither element is consistent
+	in their ability to best each-other, so a resistance has been added.
+	
+	
+2. ICE is no-longer weak to ROCK. ICE in reality does enough to erode ROCK that the weakness felt unfair, and ROCK already
+	has a lot of advantages that will be addressed via other changes.
+	
+
+3. The status effect FREEZE has been replaced with FROSTBITE*, introduced in POKEMON: LEGENDS ARCEUS.
+
+	*FROSTBITE deals damage each turn, equivalent to the rate of BURN. It also cuts Special Attack, while BURN cuts Attack.
+	ICE-Type POKEMON are immune to FROSTBITE. All moves that previously inflicted FREEZE will inflict FROSTBITE instead.
+	
+	A new move, PERMAFROST, has been added as an equivalent to [WILL-O-WISP]. The move [POWDER SNOW] is available as TM57
+	and that move has a 30% chance to land FROSTBITE on both opponents.
+	
+
+4. The weather effect HAIL has been replaced with SNOW*, introduced in POKEMON: SCARLET and POKEMON: VIOLET.
+
+	*SNOW does not deal damage each turn like HAIL used-to. SNOW raises the Defense of all ICE Type POKEMON on the field at
+	the same rate that SANDSTORM boosts ROCK Type POKEMON's Special Defense. The move [HAIL] has been replaced with [SNOWSCAPE].
+	The ability [SNOW WARNING] will summon SNOW.
+	
+	
+5. Certain ROCK-type moves have gained accuracy boosts. The move [ROCK SLIDE] as an example has been boosted to 100%
+	accuracy in exchange for a decreased flinch chance at 10%. [STRENGTH] has also been made into a ROCK-type attack and
+	maintains its 100% accuracy rate.
+	
+	The overall goal is to make ROCK more offensively-consistent.
+	
+	
+6. ROCK-type Pokémon will now absorb [STEALTH ROCKS] upon entry, similar to how POISON-types absorb [TOXIC SPIKES]. When
+	this absorption occurs, the Pokémon will recover 1/16th of its maximum HP one time. (Same heal value as one turn while holding LEFTOVERS)
+	
+	
+7. POISON-type Pokémon will now recover 1/16th of their maximum HP upon absorbing [TOXIC SPIKES] from the field.
+
+	
+8. FAIRY type has lost its resistance to BUG type. The BUG type often has few answers to FAIRY and there is little to no
+	logical justification to consistently explain why FAIRY, a type related to magic and nature, would resist all insects.
+	
+
+9. Multiple brand-new moves for all types are available at the Battle Brigade hub in Ileas City. These moves
+	have been introduced to fill gaps in existing typings and help expand each type's capabilities while maintaining what
+	makes them all unique. The full list of tutors is available in the NPC/ITEM text document.
+
+
+---
+X
+---
+
+
+GENERAL GAMEPLAY CHANGES
+
+EVs
+
+Effort Values (EVs), gained by defeating POKEMON, can now be manually-set on any POKEMON.
+EVs will still be acquired in the same manner as all main series titles. The player now has full control over equipping them.
+
+To set your earned EVs, [DIRECTION HERE]
+
+
+ABILITIES AND HIDDEN ABILITIES
+
+All Abilities and Hidden Abilities can be swapped at a Pokemon Center. Talk to the nurse to swap abilities.
+
+A Hidden Ability is just an ability that will not appear on the POKEMON when they are in the wild.
+
+Players can freely choose any of the three available abilities for no cost! Strategize and customize to your heart's content!
+
+
+CONSUMABLE HELD ITEMS IN-BATTLE
+
+For parity with recent titles, consumable held items (Berries, Air Balloon, etc.) will be returned to the holder after battle.
+
+
+GRIP CLAW
+
+The Grip Claw now has the added effect of the Binding Band item, on top of its existing effect.
+As such, the Binding Band is gone from the game. You won't really need it anyway, right?
+
+Item Description below:
+
+A held item that extends the duration and increases the power of multiturn attacks like Bind and Wrap.
+
+Expanded Details:
+
+The Binding Band previously increased damage dealt from 1/8 HP per turn to 1/6 HP per turn.
+The Grip Claw previously increased the duration from 2-5 turns to 7 turns guaranteed. 
+This effect now lasts 6 turns guaranteed, to coincide with the damage increase not being modified.
+
+
+SHELL BELL
+
+Inspired by the adjustments made to the Shell Bell in Pokémon Elite Redux, the Shell Bell has been improved.
+
+OLD: Restores the holder's HP by 1/8 of the damage dealt to the opponent.
+NEW: Restores the holder's HP by 1/3 of the damage dealt to the opponent.
+
+
+---
+X
+---
+
+
+ABILITY CHANGES
+
+[THERE IS A LOT! THESE ARE ALL BUFFS - SO TRY THE POKEMON OUT THAT GET THESE FOR A FUN TIME!]
+
+DEFEATIST
+OLD: Halves the user Attack and Sp. Atk stats when its HP becomes half or less.
+NEW: The average accuracy of attacks is multiplied by 0.8x [HUSTLE]. When the user misses an attack, their Attack and 
+	Special Attack are decreased by one stage each.
+	
+DAMP
+OLD: Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.
+NEW: Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings. Upon entering the field,
+	the user decreases the power of FIRE-Type attacks by dampening the field [WATER SPORT].
+	
+FLOWER VEIL
+OLD: Ally GRASS-Type POKEMON are protected from status conditions and the lowering of their stats.
+NEW: Ally GRASS-Type POKEMON and the user are both protected from status conditions and the lowering of their stats.
+
+KEEN EYE
+OLD: Opponent cannot lower the user's accuracy. The user ignores evasion boosts of the opponent. If the user is in the
+	leading spot in the party, the chance of encountering low-level wild POKEMON decreases by 50% (5 levels or lower).
+NEW: Opponent cannot lower the user's accuracy. The user's accuracy is boosted by 1.2x. The user ignores evasion boosts of
+	the opponent. If the user is in the leading spot in the party, the chance of encountering low-level wild POKEMON
+	decreases by 50% (5 levels or lower).
+	
+PICKPOCKET > SLEIGHT OF HAND
+OLD: If physical contact is made with the user when the user is hit, the user steals the contacting POKEMON's item if the 
+	user is not holding one.
+NEW: If the user makes physical contact with their target when the user attacks, the user steals the target POKEMON's item 
+	if the user is not holding one.
+	
+MAGICIAN > VANISHING ACT
+OLD: The user steals the held item of a POKEMON it hits with a move.
+NEW: The user steals the held item of an opposing POKEMON when it is hit by their move.
+
+EXPANDED: [PICKPOCKET] and [MAGICIAN] have essentially had their effects swapped. To help with potential confusion, they have
+	been given new names to set them apart from each other further. All POKEMON that previously got one will get the new one
+	with its new name. This is both for balancing purposes and "logical" purposes, as it makes more sense for a pickpocket to
+	actively bump into (or in this case, attack) something to pilfer an item.
+
+RUN AWAY
+OLD: The user can flee any encounter without fail. The user cannot switch after a MEAN LOOK or BLOCK.
+NEW: The user can flee any encounter without fail. The user boosts their Speed by one stage upon entering the field. The
+	user cannot switch after a BLOCK-like effect.
+	
+EARLY BIRD
+OLD: The user sleeps half the length of any sleep condition. This value is rounded-down.
+NEW: The user will wake up at the end of the turn if it is asleep.
+	
+FORECAST
+OLD: Allows CASTFORM to transform into different forms and types dependant on the presence of HARSH SUNLIGHT, RAIN, and
+	HAIL.
+NEW: Allows CASTFORM to transform into different forms and types dependant on the presence of HARSH SUNLIGHT, RAIN, and
+	SNOW. When CASTFORM transforms, its Special Attack is raised by one stage. (This includes reverting to original form.)
+	
+HYPER CUTTER
+OLD: The user's Attack stat cannot be lowered.
+NEW: The user's Attack stat cannot be lowered. The user boosts their Attack by one stage when they enter the field.
+
+MOODY
+OLD: The user randomly raises one of its stats by 2 and lowers one of its stats by 1 at the end of every turn.
+NEW: The user randomly raises one of its stats by 1 every time any status move is used during battle.
+
+BIG PECKS
+OLD: The user's Defense cannot be lowered.
+NEW: The user's Defense cannot be lowered. The user boosts their Defense by one stage when they enter the field.
+
+ILLUMINATE
+OLD: Increases encounter rate in the wild.
+NEW: Increases encounter rate in the wild if user is at the lead of the party. Upon entering the field, the user
+	lowers all enemies' EVASION by one stage.
+
+WATER VEIL
+OLD: The POKEMON is covered with a water veil, which prevents the POKEMON from getting a burn.
+NEW: The POKEMON is covered with a watery veil, restoring 1/16th of the user's HP every turn [AQUA RING] and granting 
+	an immunity to burns. 
+
+HEATPROOF
+OLD: The heatproof body of the POKEMON halves the damage from FIRE-Type moves that hit it.
+NEW: The heatproof body of the POKEMON halves the damage from FIRE-Type moves that hit it and grants it an immunity to 
+	burns.
+	
+MAGMA ARMOR
+OLD: The POKEMON is covered with hot magma, which prevents the POKEMON from being frozen.
+NEW: The POKEMON is covered with hot magma, which halves the damage from ICE-Type moves that hit it and grants it an
+	immunity to frostbite.
+	
+LIMBER
+OLD: Its limber body protects the POKEMON from paralysis.
+NEW: Its limber body prevents the POKEMON from being trapped or paralyzed.
+
+STATIC / POISON TOUCH / FLAME BODY
+OLD: The POKEMON's body is [influenced] by [static electricity/poisons/fire], so contact with it may cause
+	[PARALYSIS/POISON/BURN].
+	NOTE - EFFECT OF ALL THREE ABOVE ABILITIES IS 30%
+NEW: The POKEMON is [influenced] by [static electricity/poisons/fire], so contact with the foe may induce
+	[PARALYSIS/POISON/BURN].
+	NOTE - EFFECT OF ALL THREE ABOVE ABILITIES IS 20% 
+	
+	EXPANDED DETAIL:
+	Activates when the POKEMON attacks its opponents with a move that causes CONTACT
+	AND
+	Activates when the opponent uses an attack that requires CONTACT against the user
+	[Think of it like this: Poison Point + Poison Touch put together, but with a slightly lower rate of 20% for all three 
+	of these abilities. It will feel both more & less frequent. You'll see for yourself.]
+	
+FLOWER GIFT
+OLD: CHERRIM's ATTACK and SPECIAL DEFENSE are boosted by 1.5x in harsh sunlight.
+NEW: CHERRIM'S DEFENSE is boosted by 1.5x in its [BUD FORM]. In sunlight, CHERRIM and its ally's ATTACK and SPECIAL DEFENSE 
+	are boosted by 1.5x.
+	
+	EXPANDED DETAIL:
+	[BUD FORM] is CHERRIM's form when it is not transformed in sunlight. The DEFENSE boost goes away once CHERRIM
+	enters its [SUNLIGHT FORM] and will return after the sunlight goes away.
+
+
+---
+X
+---
+
+
+NEW ABILITIES
+
+WARPED MIND
+Upon entering the field, the user activates TRICK ROOM, inverting the turn order to Lowest SPEED moves first.
+	NOTE: WARPED MIND will cancel out an existing TRICK ROOM if one is already active.
+
+DAUNT
+Upon entering the field, the user lowers all enemies' SPECIAL ATTACK by one stage.
+	NOTE: DAUNT and INTIMIDATE share the same list of abilities that are immune to their effects.
+
+ADORABLE
+Upon entering the field, the user lowers all enemies' DEFENSE by one stage.
+	NOTE: DAUNT and INTIMIDATE share mostly the same list of abilities that are immune to their effects. However, the ability
+	SCRAPPY does not ignore ADORABLE's effect.
+
+SLEIGHT OF HAND*
+If the user makes physical contact with their target when the user attacks, the user steals the target POKEMON's item 
+	if the user is not holding one.
+
+VANISHING ACT*
+The user steals the held item of an opposing POKEMON when it is hit by their move.
+
+*SLEIGHT OF HAND and VANISHING ACT are both related to PICKPOCKET and MAGICIAN. See above for further info.
+
+---
+X
+---
+
+
+MOVE CHANGES
+
+
+AQUA RING
+
+OLD: WATER - Status - 0 BP - 20 PP - 101 ACC - Self-target
+"The user envelops itself in a veil made of water. It regains some HP every turn."
+
+NEW: Same statistics
+"The user envelops itself in a ring that resets stat changes, boosts Special Defense, and restores some HP every turn."
+
+
+BLIZZARD
+
+OLD: ICE - Special - 110 BP - 5 PP - 70 ACC - Multi-target
+10% chance to inflict FREEZE. 100% accuracy in HAIL.
+"A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen."
+
+NEW: 75 ACC
+10% chance to inflict FROSTBITE. 100% accuracy in SNOW.
+"A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frostbitten."
+
+
+CIRCLE THROW
+
+OLD: FIGHTING - Physical - 60 BP - 10 PP - 90 ACC - -6 Priority - CONTACT attack - Single-target
+Forces opponent to switch POKEMON.
+"The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+
+NEW: 100 ACC
+
+
+DRAGON TAIL
+
+OLD: DRAGON - Physical - 60 BP - 10 PP - 90 ACC - -6 Priority - CONTACT attack - Single-target
+Forces opponent to switch POKEMON.
+"The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+
+NEW: 100 ACC
+
+
+FURY SWIPES
+
+OLD: NORMAL - Physical - 18 BP - 15 PP - 80 ACC - CONTACT attack - Single-target
+Multi-hit, 2-5 attacks
+"The user attacks by raking the target with claws, scythes, or the like. This move hits two to five times in a row."
+
+NEW: NORMAL - PHYSICAL - 20 BP - 10 PP - 90 ACC
+Multi-hit, 1-3 attacks, BP is 20 on first, 40 on second, 60 on third
+"The user attacks by swiping at the target with increasing strength on each successful hit."
+
+
+GIGA IMPACT
+OLD: NORMAL - Physical - 150 BP - 5 PP - 90 ACC - 0 Priority - Cool-down attack - CONTACT attack - Single-target
+No secondary effect.
+"The user charges at the target using every bit of its power. The user can't move on the next turn."
+
+NEW: 100 ACC
+
+HEAT WAVE
+
+OLD: FIRE - Special - 95 BP - 10 PP - 90 ACC - 0 Priority - Multi-target
+10% chance to inflict BURN.
+"The user attacks by exhaling hot breath on opposing Pokémon. This may also leave them with a burn."
+
+NEW: 5 PP - 100 ACC
+
+
+HYPER BEAM
+
+OLD: NORMAL - Special - 150 BP - 5 PP - 90 ACC - 0 Priority - Cool-down attack - Single-target
+No secondary effect.
+"The target is attacked with a powerful beam. The user can't move on the next turn."
+
+NEW: 100 ACC
+
+
+ICY WIND
+
+OLD: ICE - Special - 55 BP - 15 PP - 95 ACC - 0 Priority - Multi-target
+100% chance to lower targets' Speed.
+"The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats."
+
+NEW: 100 ACC
+75% chance to lower targets' Speed.
+
+
+KNOCK OFF
+
+OLD: DARK - Physical - 65 BP - 20 PP - 100 ACC - 0 Priority - CONTACT attack - Single-target
+Knocks down opponent's held item to prevent its use. Increases power by 50% if so.
+"The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item."
+
+NEW: 40 BP
+"The user slaps off the target's held item, preventing use. Move power increases if an item is removed."
+
+
+MUD BOMB
+
+OLD: GROUND - Special - 65 BP - 10 PP - 85 ACC - 0 Priority - BOMB attack - Single-target
+30% chance to decrease target's Accuracy by 1.
+"The user launches a hard-packed mud ball to attack. This may also lower the target's accuracy."
+
+NEW: GROUND - SPECIAL - 75 BP - 15 PP - 100 ACC
+Hits adjacent foes for 1/16th of their maximum HP
+"The user launches a hard-packed mud ball to attack. The splatter damages Pokémon next to the target."
+	Note: reference [FLAME BURST] for similar effect.
+	
+	
+MUDDY WATER
+
+OLD: WATER - Special - 90 BP - 10 PP - 85 ACC - 0 Priority - Multi-hit
+30% chance to decrease target's Accuracy by 1.
+"The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy."
+
+NEW: 5 PP - 100 ACC
+10% chance to decrease target's Accuracy by 1.
+
+
+POWDER SNOW
+
+OLD: ICE - Special - 40 BP - 25 PP - 100 ACC - 0 Priority - Field-target
+10% chance to inflict FREEZE.
+"The user attacks with a chilling gust of powdery snow. This may also leave opposing Pokémon frozen."
+
+NEW: Multi-target
+30% chance to inflict FROSTBITE.
+"The user attacks with a chilling gust of powdery snow. This may also leave opposing Pokémon frostbitten."
+
+
+PSYCH UP
+
+Updated description for increased applicability.
+
+OLD: "The user hypnotizes itself into copying any stat change made by the target."
+NEW: "The user psyches itself up, copying any stat change made by the target."
+
+
+ROCK SLIDE
+
+OLD: ROCK - Physical - 75 BP - 10 PP - 90 ACC - 0 Priority - Multi-hit
+30% chance to FLINCH.
+"Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch."
+
+NEW: 100 ACC
+10% chance to FLINCH.
+
+
+SNAP TRAP
+
+OLD: GRASS - Physical - 35 BP - 15 PP - 100 ACC - 0 Priority - CONTACT attack - Single-target
+Traps target for 4-5 turns. Extra damage inflicted over-time.
+
+NEW: 80 BP - 10 PP - BITE attack - CONTACT attack
+Traps target until user is switched-out or defeated.
+	Note: see [JAW LOCK] for reference.
+
+
+SNARL
+
+OLD: DARK - Special - 55 BP - 15 PP - 95 ACC - 0 Priority - SOUND attack - Multi-target
+100% chance to decrease targets' Special Attack by 1.
+"The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon."
+
+NEW: 100 ACC
+75% chance to lower targets' Special Attack.
+
+
+STRENGTH
+
+OLD: NORMAL - Physical - 80 BP - 15 PP - 100 ACC - 0 Priority - CONTACT attack - Single-target
+No effect
+"The target is slugged with a punch thrown at maximum power."
+
+NEW: ROCK - Physical - 80 BP - 15 PP - 100 ACC
+10% chance to raise [USER] Attack
+"The target is hit by a boulder, shoved at maximum power. Has a chance to raise the user's Attack."
+
+
+---
+X
+---
+
+NEW MOVES
+
+
+POWER IMPULSE
+FIGHTING  - Status - 0 BP - 5PP - 101 ACC - 0 Priority - User-side target
+No secondary effect
+"An impulse is unleashed on the user's side, increasing the power of physical moves for five turns."
+	Note: See [REFLECT] for reference on functionality. Cannot be extended with [LIGHT CLAY] item.
+
+POWER CATALYST
+FIGHTING  - Status - 0 BP - 5PP - 101 ACC - 0 Priority - User-side target
+No secondary effect
+"A catalyst is unleashed on the user's side, increasing the power of special moves for five turns."
+	Note: See [LIGHT SCREEN] for reference on functionality. Cannot be extended with [LIGHT CLAY] item.
+
+FEVER PITCH
+NORMAL - Special - 75 BP - 15 PP - 100 ACC - 0 Priority - SOUND attack - Single-target
+50% chance to raise the user's Speed by 1.
+"The user assaults the target with a wave of excited emotions. The user has a good chance to raise their Speed."
+
+PUNY POWER
+NORMAL - Physical - 95 BP - 5 PP - 100 ACC - 0 Priority - CONTACT - Single-target
+No secondary effect
+"The user turns target's higher offensive stat against it. The higher the offensive stat, the greater the damage dealt."
+
+WILD FLOWERS
+GRASS - Special - 80 BP - 10 PP - 100 ACC - 0 Priority - Single-target
+20% rate to induce either PARALYSIS, POISON, or CONFUSE.
+"The user unleashes a vast array of flowers and foliage at its target. This may induce Confuse, Paralysis, or Poison."
+
+FERTILIZE
+GRASS - Status - 0 BP - 5 PP - 101 ACC - +1 Priority - Self-target
+If the user faints, the next Pokémon to enter will be healed to 100% HP and have status conditions removed.
+"If the user is knocked out after using this move, the Pokémon that enters the field will be healed fully."
+
+IGNEOUS BOMB
+FIRE - Physical - 110 BP - 5 PP - 75 ACC - 0 Priority - BOMB attack - Single-target
+Destroys screens. Removes terrain.
+"The user launches a bomb of igneous rock at the target, destroying screens and terrain when it lands."
+
+KINDLING
+FIRE - Status - 0 BP - 5 PP - 101 ACC - 0 Priority - Self-target
+Destroys user's held item. Fails if the user has no held item.
+"The user turns their own held item into kindling, boosting their Attack and Special Attack and sharply-boosting Speed."
+
+RIPTIDE
+WATER - Special - 60 BP - 10 PP - 100 ACC - -6 Priority - Single-target
+Forces opponent to switch Pokémon. Ignores resistances. FLYING-type and LEVITATE grant immunity to this move.
+"The user summons a strong riptide to pull away a grounded target from the field. This attack ignores resistances."
+
+BUBBLE BARRIER
+WATER - Status - 0 BP - 10 PP - 101 ACC - 0 Priority - Self-target
+Changes the user's type to WATER. Type-change is reverted when the user switches or gets hit by a CONTACT move.
+"The user creates a bubble wall to boost their Defense and Special Defense and become Water type. The barrier can pop."
+
+STATIC CLING
+ELECTRIC - Physical - 15 BP - 20 PP - 90 ACC - 0 Priority - CONTACT attack - Single-target
+Traps opponent. Steals the target's item if the user is not holding one.
+"The user gathers up static electricity and clings onto their target for four to five turns. Steals the target's item."
+
+SHOCK COIL
+ELECTRIC - Special - 60 BP - 20 PP - 100 ACC - 0 Priority - Single-target
+Increases priority in Electric Terrain.
+"The user strikes the target with a bolt from an electric coil. This move always goes first on Electric Terrain."
+
+CLOUDBURST
+FLYING - Special - 120 BP - 5 PP - 100 ACC - 0 Priority - Charge-up attack - Single-target
+Charges for the first turn, damages on the second. Activates a RAIN DANCE effect on the second turn after the attack.
+"The user siphons warm air on the first turn, then unleashes a downpour on the next turn, starting a five-turn Rain."
+
+DOGFIGHT
+FLYING - Status - 0 BP - 5 PP - 100 ACC - 0 Priority - Single-target
+Locks-in the target for one turn. Ensures the user's next move will not fail. Fails if used in succession.
+"The user locks-onto its target, trapping them for the next turn. This ensures the user's next move does not miss."
+
+CHITIN CRASH
+BUG - Physical - 120 BP - 15 PP - 100 ACC - 0 Priority - CONTACT - Single-target
+User receives 1/3rd of damage in recoil.
+"The user rushes at the target and crashes their exoskeleton into them, dealing signifcant damage to themselves."
+
+SCOURGE
+BUG - Physical - 75 BP - 15 PP - 100 ACC - 0 Priority - CONTACT - Single-target
+Destroys protective barriers.
+"The user demolishes the target's protective barriers, eating them in a ravenous frenzy."
+
+FAMINE FEAST
+BUG - Status - 0 BP - 5 PP - 101 ACC - 0 Priority - Cool-down attack - Field-target
+Destroys all hazards, barriers, terrain, and stat changes to heal 100% HP. User cannot attack on the next turn.
+"The user engages in an exhaustive feast that devours all hazards, protective barriers, terrain, and stat changes."
+	Note - if nothing is eaten, the move fails, and no recharge is needed.
+	
+KIAI
+FIGHTING - Special - 50 BP - 15 PP - 100 ACC - 0 Priority - SOUND attack - Single-target
+Doubles in power if used immediately after an attack that made contact.
+"The user lets out a ferocious, spirit-filled yell. Its power doubles if it is used following a contact move."
+
+HEADLOCK
+FIGHTING - Physical - 100 BP - 5 PP - 100 ACC - -6 Priority - CONTACT attack - Single-target
+Traps the user and target on the field for three turns.
+"The user grabs the target with its arms and traps them in a headlock, preventing both from switching for three turns."
+
+FALLOUT
+POISON - Special -  150 BP - 5 PP - 100 ACC - 0 Priority - Cool-down attack - Field-target
+User cannot attack on the next turn.
+"The user unleashes a nuclear attack on the field, damaging all Pokémon. The user must recharge afterwards."
+
+FUMIGATE
+POISON - Special - 60 BP - 15 PP - 100 ACC - 0 Priority - Multi-target
+30% chance to inflict PARALYSIS.
+"The user fumigates both targets with a chance to inflict Paralysis. This move is super effective on Bug types."
+
+CRYSTAL STORM
+ROCK - Special - 130 BP - 5 PP - 90 ACC - 0 Priority - Single-target
+Sharply lowers the user's Special Attack.
+"The user unleashes a storm of crystals. The recoil from this move harshly lowers the user's Special Attack."
+
+FRESH CEMENT
+ROCK - Status - 0 BP - 10 PP - 101 ACC - 0 Priority - Ally-target
+No secondary effect.
+"The user applies a fresh layer of cement to their ally, boosting their Defense and Special Defense."
+
+EROSION
+GROUND - Special - 0 BP - 10PP - 100 ACC - 0 Priority - Single-target
+Decreases the target's Defense by 2 on hit.
+"The user erodes the target, reducing their health by 1/4 of its current value and sharply reducing their Defense."
+
+SANDBAR
+GROUND - Status - 0 BP - 10PP - 101 ACC - +6 Priority - User-side target
+Grants an immunity to WATER and GRASS on the user's side for that turn. Heals 50% of max HP on hit. Fails if used in 
+	succession.
+"The user forms a sandbar on the field that can absorb incoming WATER and GRASS-type attacks to heal the user."
+
+PERMAFROST
+ICE - Status - 0 BP - 15 PP - 85 ACC - 0 Priority - Single-target
+This move cannot miss if used during SNOW.
+"The target is chilled with a layer of permafrost, inflicting Frostbite."
+
+GLAZE ICE
+ICE - Status - 0 BP - 10 PP - 101 ACC - +6 Priority - Field-target
+GLAZE ICE effect.
+"The ground is glazed with a thin layer of ice that is hard to see, rendering all swapping actions impossible."
+	Note - this causes all swap-related actions to fail. ALLY SWAP, VOLT SWITCH, U-TURN, and even manual switching.
+	This move will fail if used in succession.
+	
+PISTON RUSH
+STEEL - Physical - 120 BP - 15 PP - 100 ACC - 0 Priority - CONTACT attack - Single-target
+User receives 1/3rd of damage in recoil.
+"The user lunges at the target with the force of several pistons, damaging the user in the process."
+
+FORGE
+STEEL - Status - 0 BP - 20 PP - 101 ACC - 0 Priority - Self-target
+Recovers 1/16th of user's HP each turn. Resets user's stat changes. Boosts Defense by 1.
+"The user forges their metals for extra strength to reset stat changes, raise Defense, and regain some HP every turn."
+
+HEADACHE
+PSYCHIC - Physical - 40 BP - 20 PP - 100 ACC - 0 Priority - Single-target
+Lowers target's Defense and Special Defense by 1. 30% chance to flinch.
+"The user afflicts the target with a headache that lowers their Defense and Special Defense and may cause them to flinch."
+
+MIGRAINE
+PSYCHIC - Physical - 120 BP - 5 PP - 85 ACC - 0 Priority - Single-target
+20% chance to inflict CONFUSE or flinch.
+"The user afflicts the target with a splitting headache that may cause them to flinch or become confused."
+
+BLACKOUT
+DARK - Special - 40 BP - 10 PP - 100 ACC - +3 Priority - Single-target
+Causes opponent to flinch.
+"This attack hits first and makes the target flinch. It works only on the first turn each time the user enters battle."
+
+MANIACAL LAUGH
+DARK - Special - 110 BP - 5 PP - 85 ACC - 0 Priority - SOUND attack - Single-target
+Lowers target's Attack by 2.
+"The user lets out a maniacal laugh, horrifying the target and sharply lowering their Attack."
+
+OMINOUS MIST
+GHOST - Special - 50 BP - 15 PP - 100 ACC - 0 Priority - Multi-target
+TORMENT effect.
+"An ominous mist coats the opposing Pokémon, making it hard to see. Fearful of getting lost, they cannot repeat moves."
+
+REAPER SLICE
+GHOST - Physical - 120 BP - 5 PP - 75 ACC - 0 Priority - Single-target
+30% chance to inflict CURSE.
+"The user slashes the target with a spectral scythe that has a chance to inflict a horrid curse on the target."
+
+LEGENDARY ROAR
+DRAGON - Status - 0 BP - 5 PP - 101 ACC - 0 Priority - SOUND attack - Charge-up attack - Field-target
+No secondary effect.
+"The user charges on the first turn, then lets out a proud and mighty roar on the second, scattering all other Pokémon."
+
+DOGMA
+DRAGON - Status - 0 BP - 10 PP - 101 ACC - 0 Priority - Field-target
+MIRACLE EYE effect.
+"The user establishes the field as its domain with sheer willpower, allowing it to bypass immunities for four turns."
+
+PIXIE POWER
+FAIRY - Physical - 80 BP - 10 PP - 100 ACC - 0 Priority - CONTACT attack - Single-target
+No secondary effect.
+"The user attacks by slamming its body into the target. The higher the user's Special Defense stat, the greater the damage."
+
+LUNAR PRISM
+FAIRY - Status - 0 BP - 5 PP - 101 ACC - 0 Priority - Self-target
+No secondary effect.
+"The user calls upon the power of the moon to unlock its hidden potential, swapping both Defenses for both Offenses."
+
+ASSIMILATE
+PSYCHIC - Status - 0 BP - 5 PP - 101 ACC - 0 Priority - Field-target
+ASSIMILATE effect
+"Any POKEMON that is hit will be forced to transform into the user in three turns unless it switches out of battle."
+	Note: This move functions similarly to that of [PERISH SONG], with the consequence being a forced [TRANSFORM]. The 
+	limitations that come with [TRANSFORM] are included, such as 5PP on all moves, copied stats, and maintained HP.
+	This move is exclusive to ESPURR and both genders of MEOWSTIC.
+
+5-STAR COMBO
+BUG - Physical - 25 BP - 10 PP - 100 ACC - 0 Priority - CONTACT attack - Single-target
+Multi-hit, 2-5 attacks. Takes the user's Special Defense stat instead of the user's Attack when calculating damage.
+"The user punches the foe with a rapid series of punches. The higher the user's Special Defense stat, the greater the damage."
+
+---
+X
+---
+
+POKEMON CHANGES
+Numerous changes have been made to all POKEMON's Level-Up Moves and TM compatibility. Please view the "Full Dex" file for details.
+NOTE THAT THE BELOW CHANGES WILL SPOIL THE DEX OF THE GAME. DO NOT READ THIS IF YOU DO NOT WANT TO BE SPOILED.
+
+SNIVY - Evolution: decreased to Level 16
+	[CONTRARY] for Ability 2, [DAZZLING] for Hidden Ability
+	Speed increased by 2
+	Gender ratio is now 50% Female
+SERVINE - [CONTRARY] for Ability 2, [DAZZLING] for Hidden Ability
+	Speed increased by 2
+	Gender ratio is now 50% Female
+SERPERIOR - [CONTRARY] for Ability 2, [DAZZLING] for Hidden Ability
+	Special Attack increased by 5, Speed increased by 2
+	Gender ratio is now 50% Female
+CHIMCHAR - [LIMBER] for Hidden Ability
+	Attack increased by 1
+	Gender ratio is now 50% Female
+MONFERNO - [LIMBER] for Hidden Ability
+	Attack increased by 5, Defense increased by 2, Special Defense increased by 2
+	Gender ratio is now 50% Female
+INFERNAPE - [LIMBER] for Hidden Ability
+	Attack increased by 1
+	Gender ratio is now 50% Female
+MUDKIP - [SWIFT SWIM] for Hidden Ability
+	Gender ratio is now 50% Female
+MARSHTOMP - [SWIFT SWIM] for Hidden Ability
+	HP increased by 5, Special Attack increased by 5
+	Gender ratio is now 50% Female
+SWAMPERT - [SWIFT SWIM] for Hidden Ability
+	Gender ratio is now 50% Female
+GEODUDE - N/A
+GRAVELER - Evolution: [BOND BRACE] item
+GOLEM - Special Attack increased by 30, Special Defense increased by 10
+FLABEBE - [NATURAL CURE] for Hidden Ability
+	Attack decreased by 8
+FLOETTE - [NATURAL CURE] for Hidden Ability
+	Attack decreased by 5
+	Evolution: [BOND BRACE] item
+FLORGES - [NATURAL CURE] for Hidden Ability
+	Attack decreased by 17
+ZUBAT - [MERCILESS] for Hidden Ability
+GOLBAT - [MERCILESS] for Hidden Ability
+	Evolution: [BOND BRACE] item
+CROBAT - [MERCILESS] for Hidden Ability
+SWINUB - N/A
+PILOSWINE - N/A
+MAMOSWINE - N/A
+SNORUNT - N/A
+GLALIE - [INTIMIDATE] for Ability 1
+	Attack increased by 10, Defense decreased by 5, Special Attack increased by 10, Special Defense decreased by 5, 
+	Speed increased by 10
+FROSLASS - [MOODY] for Hidden Ability
+	Attack decreased by 10, Special Attack increased by 20, Special Defense increased by 10
+SPEAROW - [BIG PECKS] for Hidden Ability
+	Special Defense increased by 4
+FEAROW - [BIG PECKS] for Hidden Ability
+	HP increased by 5, Attack increased by 5, Defense increased by 10, Special Defense increased by 4
+CUBONE - Evolution: decreased to Level 26
+MAROWAK - HP increased by 10, Attack increased by 15, Speed increased by 15
+GOLETT - [SHEER FORCE] for Hidden Ability
+	Evolution: decreased to Level 40
+	HP increased by 1, Attack increased by 1
+GOLURK - [SHEER FORCE] for Hidden Ability
+	HP increased by 1, Attack increased by 1, Defense increased by 5, Special Defense increased by 5
+BLOOMOO - Brand new POKEMON
+BORODEO - Brand new POKEMON
+BOVINORTH - Brand new POKEMON
+MORPEKO - [MOODY] for Hidden Ability
+	NOTE: Selecting [MOODY] as Morpeko's ability will prevent access to [HANGRY FORM] in battle.
+	Special Attack increased by 15, Speed increased by 4
+STUNKY - Evolution: decreased to Level 30
+SKUNTANK - Special Attack increased by 6
+NICKIT - [PICKPOCKET] for Ability 2
+	Attack increased by 20
+THIEVUL - [PICKPOCKET] for Ability 2
+	Attack increased by 30
+AXEW - [HYPER CUTTER] for Hidden Ability
+	Evolution: decreased to Level 30
+FRAXURE - [HYPER CUTTER] for Hidden Ability
+HAXORUS - [HYPER CUTTER] for Hidden Ability
+NOIBAT - Evolution: decreased to Level 36
+NOIVERN - N/A
+DRUDDIGON - N/A
+TURTONATOR - [FLAME BODY] for Ability 2, [WHITE SMOKE] for Hidden Ability
+DRAMPA - N/A
+TYNAMO - Evolution: decreased to Level 20
+EELEKTRIK - N/A
+EELEKTROSS - N/A
+ZANGOOSE - [QUICK FEET] for Ability 2, [HYPER CUTTER] for Hidden Ability
+	Defense increased by 10, Speed increased by 15
+SEVIPER - [STRONG JAW] for Hidden Ability
+	Special Defense increased by 5, Speed increased by 20
+IGGLYBUFF - [LEVITATE] for Hidden Ability
+JIGGLYPUFF - [LEVITATE] for Hidden Ability
+	Attack increased by 10, Special Attack increased by 15, Special Defense increased by 10
+WIGGLYTUFF - [LEVITATE] for Hidden Ability
+	Attack increased by 15, Special Attack increased by 10, Special Defense increased by 10
+LILLIPUP - [BALL FETCH] for Hidden Ability
+HERDIER - N/A
+STOUTLAND - N/A
+MINCCINO - [ADORABLE] for Hidden Ability
+CINCCINO - [ADORABLE] for Hidden Ability
+AUDINO - [CURIOUS MEDICINE] for Hidden Ability
+	HP increased by 5, Speed increased by 30
+SNUBBULL - N/A
+GRANBULL - [STRONG JAW] for Ability 2
+	Defense increased by 10, Special Defense increased by 10, Speed increased by 10
+KLEFKI - [LEVITATE] for Hidden Ability
+DEDENNE - [ELECTRIC SURGE] for Ability 2
+	Defense increased by 2, Special Attack increased by 12, Special Defense increased by 10
+MILCERY - [GOOEY] for Hidden Ability
+	Evolution: food items removed, replaced with Friendship
+ALCREMIE - [GOOEY] for Hidden Ability
+TIMBURR - N/A
+GURDURR - Evolution: trade removed, replaced with Friendship
+CONKELDURR - N/A
+SCRAGGY - Evolution: decreased to Level 28
+SCRAFTY - N/A
+DRIFLOON - N/A
+DRIFBLIM - N/A
+SANDYGAST - [SAND STREAM] for Hidden Ability
+PALOSSAND - [SAND STREAM] for Hidden Ability
+DHELMISE - N/A
+VOLTORB - Attack increased by 20
+ELECTRODE - Special Attack increased by 5
+MAGNEMITE - N/A
+MAGNETON - N/A
+MAGNEZONE - N/A
+GRIMER - [LIQUID OOZE] for Hidden Ability
+	Evolution: decreased to Level 32
+MUK - [LIQUID OOZE] for Hidden Ability
+KLINK - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+	Evolution: decreased to Level 25
+KLANG - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+	Evolution: decreased to Level 40
+KLINKLANG - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+DURALUDON - N/A
+PSYDUCK - Evolution: decreased to Level 28
+GOLDUCK - [PSYCHIC SURGE] for Ability 1
+	Attack increased by 3, Special Attack increased by 2, Special Defense increased by 5
+TENTACOOL - N/A
+TENTACRUEL - N/A
+SEEL - Attack increased by 20
+DEWGONG - Attack increased by 20, Defense increased by 5
+WINGULL - N/A
+PELIPPER - HP increased by 10, Attack increased by 5, Defense increased by 5, Special Defense increased by 5
+CARVANHA - N/A
+SHARPEDO - N/A
+FRILLISH - Evolution: decreased to Level 32
+JELLICENT - N/A
+MAGIKARP - N/A
+GYARADOS - N/A
+DWEBBLE - N/A
+CRUSTLE - N/A
+LUNATONE - [MAGIC GUARD] for Ability 2
+	Defense increased by 5, Special Attack increased by 5, Special Defense increased by 5, Speed increased by 5
+SOLROCK - [MAGIC GUARD] for Ability 2
+	Attack increased by 5, Defense increased by 5, Special Defense increased by 5, Speed increased by 5
+BRONZOR - Evolution: decreased to Level 29
+BRONZONG - N/A
+ILEASI MUNNA - Brand new regional forme
+ILEASI MUSHARNA - Brand new regional forme
+CHERUBI - Attack increased by 5, Speed increased by 5
+CHERRIM - Attack increased by 20, Special Defense increased by 2, Speed increased by 3
+CARNIVINE - [STRONG JAW] for Ability 1
+	Attack increased by 5, Special Defense increased by 3, Speed increased by 11
+SEWADDLE - N/A
+SWADLOON - N/A
+LEAVANNY - N/A
+APPLIN - Evolution: [LEAF STONE] to evolve into FLAPPLE
+	Evolution: [FIRE STONE] to evolve into APPLETUN
+	Special Defense increased by 10
+FLAPPLE - N/A
+APPLETUN - N/A
+SENTRET - Speed increased by 30
+FURRET - HP increased by 5, Attack increased by 5, Defense increased by 9, Special Defense increased by 16,
+	Speed increased by 5
+DODUO - N/A
+DODRIO - N/A
+PORYGON - N/A
+PORYGON2 - N/A
+PORYGON-Z - N/A
+GLAMEOW - Evolution: decreased to Level 29
+PURUGLY - HP increased by 2, Attack increased by 5, Defense increased by 5, Special Defense increased by 4,
+	Speed increased by 2
+ESPURR - N/A
+MEOWSTIC (MALE) - Special Attack increased by 5, Special Defense increased by 5
+MEOWSTIC (FEMALE) - Special Attack increased by 5, Special Defense increased by 5
+CONKARP - Brand new POKEMON (Convergent POKEMON for MAGIKARP)
+GYARAMAR - Brand new POKEMON (Convergent POKEMON for GYARADOS)
+BOUFFALANT - N/A
+LITLEO - [DROUGHT] for Ability 2
+	Evolution: decreased to Level 28
+PYROAR - [DROUGHT] for Ability 2
+HOUNDOUR - [SOLAR POWER] for Ability 2
+HOUNDOOM - [SOLAR POWER] for Ability 2
+ILEASI LITWICK - Brand new regional forme
+ILEASI LAMPENT - Brand new regional forme
+NYMPHLAME - Brand new regional evolution
+ROLYCOLY - N/A
+CARKOL - N/A
+COALOSSAL - N/A
+HOPPIP - [WIND RIDER] for Ability 1
+SKIPLOOM - [WIND RIDER] for Ability 1
+JUMPLUFF - [WIND RIDER] for Ability 1
+	Attack increased by 5, Special Attack increased by 20
+SKIDDO - Evolution: decreased to Level 30
+GOGOAT - N/A
+BUIZEL - N/A
+FLOATZEL - Evolution: added, item [WATER STONE]
+DRIFTZEL - Brand new POKEMON
+PYUKUMUKU - HP increased by 5, Attack increased by 10, Defense increased by 5, Special Attack increased by 10,
+	Special Defense increased by 5
+RELICANTH - Attack increased by 10, Special Defense increased by 5
+DEWPIDER - N/A
+ARAQUANID - Attack increased by 2, Special Attack increased by 4
+PACHIRISU - HP increased by 5, Special Attack increased by 30, Speed increased by 20
+MAREEP - [FLUFFY] for Ability 2
+FLAAFFY - [FLUFFY] for Ability 2
+AMPHAROS - DRAGON Type added
+	[MOLD BREAKER] for Ability 2
+VANILLITE - Evolution: decreased to Level 27
+VANILLUXE - Evolution: decreased to Level 45
+SNEASEL - Evolution: [RAZOR CLAW] requirement removed, replaced with Level-Up while knowing [SLASH]
+WEAVILE - N/A
+SMOOCHUM - Evolution: decreased to Level 15
+JYNX - Defense increased by 5, Speed increased by 5
+CASTFORM - HP increased by 10, Defense increased by 15, Special Attack increased by 15, 
+	Special Defense increased by 15, Speed increased by 10
+MAKUHITA - N/A
+HARIYAMA - Special Defense increased by 15
+RIOLU - Evolution: Sunlight/Daytime requirement removed
+LUCARIO - N/A
+FALINKS - Special Defense increased by 5
+MIENFOO - Evolution: decreased to Level 37
+MIENSHAO - N/A
+VENIPEDE - N/A
+WHIRLIPEDE - N/A
+SCOLIPEDE - N/A
+FOONGUSS - Evolution: decreased to Level 35
+AMOONGUSS - N/A
+CROAGUNK - Evolution: decreased to Level 36
+TOXICROAK - N/A
+NINCADA - N/A
+NINJASK - Defense increased by 5, Special Attack increased by 5, Special Defense increased by 5
+SHEDINJA - Special Attack increased by 30, Speed increased by 10
+DRILBUR - N/A
+EXCADRILL - N/A
+GLIGAR - [POISON HEAL] for Ability 2
+	Evolution: [RAZOR FANG] requirement removed, replaced with Level-Up while knowing [POISON FANG]
+GLISCOR - N/A
+TRAPINCH - Evolution: decreased to Level 24
+VIBRAVA - [COMPOUND EYES] for Ability 2
+FLYGON - [COMPOUND EYES] for Ability 2
+LEDYBA - [SHIELD DUST] for Ability 1
+LEDIAN - FIGHTING Type added, replaced FLYING Type
+	[SHIELD DUST] for Ability 1
+	HP increased by 20, Attack increased by 55, Special Attack increased by 5
+COMBEE - Evolution: [VESPIQUEN] if Female, [COMBERDUE] if Male
+VESPIQUEN - HP increased by 5
+COMBERDUE - Brand new POKEMON
+ROOKIDEE - N/A
+CORVISQUIRE - N/A
+CORVIKNIGHT - N/A
+DROWZEE - [BAD DREAMS] for Ability 1
+HYPNO - [BAD DREAMS] for Ability 1
+	Attack increased by 10, Special Attack increased by 5
+INKAY - N/A
+MALAMAR - Attack increased by 5, Special Attack increased by 5, Special Defense increased by 3, 
+	Speed decreased by 3
+ELGYEM - ELECTRIC Type added
+	Evolution: decreased to Level 39
+BEEHEEYEM - ELECTRIC Type added
+ILEASI CLEFFA - Brand new regional forme
+ILEASI CLEFAIRY - Brand new regional forme
+CLEFURY - Brand new regional evolution
+BLIPBUG - N/A
+DOTTLER - N/A
+ORBEETLE - [COMPOUND EYES] for Ability 1
+ARON - Evolution: decreased to Level 25
+LAIRON - N/A
+AGGRON - N/A
+CARBINK - N/A
+LILEEP - N/A
+CRADILY - HP increased by 2, Defense increased by 6, Special Attack increased by 5
+TYRUNT - Evolution: Sunlight/Daytime requirement removed
+TYRANTRUM - N/A
+ARCHEN - N/A
+ARCHEOPS - N/A
+ILEASI SPRITZEE - Brand new regional forme
+FUMIGHAST - Brand new regional evolution
+DUSKULL - Evolution: decreased to Level 33
+DUSCLOPS - Evolution: [REAPER CLOTH] removed, replaced with [DUSK STONE]
+DUSKNOIR - N/A
+SINISTEA - Evolution: Both "Tea" items removed for simplicity, replaced with [WATER STONE]
+POLTEAGEIST - N/A
+MURKROW - Evolution: replaced with [SHINY STONE]
+HONCHKROW - N/A
+DURANT - N/A
+HEATMOR- N/A
+MIMIKYU - N/A
+IMPIDIMP - N/A
+MORGREM - N/A
+GRIMMSNARL - N/A
+LARVITAR - N/A
+PUPITAR - [SAND VEIL] for Ability 2
+TYRANITAR - N/A
+BELDUM - N/A
+METANG - N/A
+METAGROSS - N/A
+ILEASI ZORUA - N/A
+	ILEASI ZORUA is a renaming of HISUIAN ZORUA and has identical stats and abilities
+ILEASI ZOROARK - N/A
+	ILEASI ZOROARK is a renaming of HISUIAN ZOROARK and has identical stats and abilities
+SHAYMIN - N/A
+SHAYMIN-SKY - N/A
+MANAPHY - N/A
+PHIONE - All stats increased by 10 each
+DEOXYS-NEUTRAL - [PROTEAN] for Ability 2
+	HP increased by 25, Attack decreased by 40, Defense increased by 60, Special Attack decreased by 40,
+	Special Defense increased by 60, Speed decreased by 40
+DEOXYS-ATTACK - [PROTEAN] for Ability 2
+	HP increased by 25
+DEOXYS-DEFENSE - [PROTEAN] for Ability 2
+	HP increased by 25
+DEOXYS-SPEED - [PROTEAN] for Ability 2
+	HP increased by 25, Attack increased by 5, Defense decreased by 5, Special Attack increased by 5,
+	Special Defense decreased by 5
+VICTINI - N/A
+ELEKID - 
+ELECTABUZZ - 
+ELECTIVIRE - 
+WAILMER - 
+WAILORD - 
+RUFFLET - 
+BRAVIARY - 
+PICHU - 
+PIKACHU - 
+RAICHU - 
+GROWLITHE - 
+ARCANINE - 
+SIZZLIPEDE - 
+CENTISKORCH - 
+NUMEL - 
+CAMERUPT - 
+BERGMITE - 
+AVALUGG - 
+CUBCHOO - 
+BEARTIC - 
+LAPRAS - 
+SABLEYE - 
+MAWILE - 
+SKRELP - 
+DRAGALGE - 
+STUFFUL - 
+BEWEAR - 
+GOOMY - 
+ILEASI SLIGGOO - 
+ILEASI GOODRA - 
+
+
+
+
+
+
+
+
