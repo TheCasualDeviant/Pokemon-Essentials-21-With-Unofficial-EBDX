@@ -88,7 +88,9 @@ SOUNDTRACK
 Below is the full soundtrack, including all composers, songs of origin, and connecting themes in the game.
 Do NOT READ THIS PART if you are avoiding spoilers!
 
-Note: tracks are mostly included in-order of appearance in the game, but some are not.
+Note: tracks are mostly included in-order of appearance in the game, but some are not. Also, all standard
+	trainer encounter music is taken from Pokémon Black and White, ripped by ENLS as part of their 
+	Pre-Looped Library.
 
 01 - CONGRATULATIONS!
 Theme of "Intro" and "Hall of Fame"
