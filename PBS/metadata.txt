@@ -4,12 +4,12 @@
 StartMoney = 3000
 StartItemStorage = POTION
 Home = 3,7,5,8
-StorageCreator = Bill
+StorageCreator = Dr. Maple
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Normal_Battle_Pokemon_TCG_BW_Remix-LOOP
 WildVictoryBGM = Battle victory wild
 TrainerVictoryBGM = Battle victory trainer
-SurfBGM = Surfing
+SurfBGM = DREAMYARD_B2W2-SEA-LOOP
 BicycleBGM = Bicycle
 #-------------------------------
 [1]
