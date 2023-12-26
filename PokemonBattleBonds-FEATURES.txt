@@ -91,6 +91,7 @@ Do NOT READ THIS PART if you are avoiding spoilers!
 Note: tracks are mostly included in-order of appearance in the game, but some are not. Also, all standard
 	trainer encounter music is taken from Pokémon Black and White, ripped by ENLS as part of their 
 	Pre-Looped Library.
+	
 
 01 - CONGRATULATIONS!
 Theme of "Intro" and "Hall of Fame"
@@ -101,6 +102,7 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 Theme of "Dustington"
 Original piece, previously titled "Raufor Town"
 Composed by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled project]
+Rearranged by PhotonAqua for soundfont use, reformatted by Fossilized_Nerd
 
 03 - I'VE GOT THIS!
 Theme of "VS Battle Brigade / Rival"
@@ -307,7 +309,7 @@ Theme of "Durantown"
 From Fossil Fighters, used at Rivet Ravine
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
-43 - NEW LIFE
+43 - LOVE AND CARE
 Theme of "Ileas City Sanctuary"
 From Pokémon Heart Gold and Soul Silver, used at Cianwood City
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
@@ -453,6 +455,11 @@ Rearranged by _
 Theme of "Surfing"
 From Pokémon Black and White, used at the Dreamyard
 Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
+72 - TEST OF MIGHT
+Theme of "Facility Battle"
+From Fossil Fighters Champions, unused battle theme
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 ---
 x
