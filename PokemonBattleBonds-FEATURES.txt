@@ -226,7 +226,7 @@ Theme of "Zone Two - Moonstone Bay"
 From Pokémon Black and White, used at Undella Town - Summer
 Ripped and looped as part of ENLS' Pre-Looped Library
 
-27 - ROUND THE CLOCK
+27 - 'ROUND THE CLOCK
 Theme of "Factory Street"
 From Kirby 64: The Crystal Shards, used as the theme of Factory Inspection
 Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
@@ -459,6 +459,11 @@ Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd 
 72 - TEST OF MIGHT
 Theme of "Facility Battle"
 From Fossil Fighters Champions, unused battle theme
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
+73 - JOYOUS BIKE RIDE
+Theme of "Bicycle"
+From Apollo Justice: Ace Attorney, used as the Trucy theme
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 ---
