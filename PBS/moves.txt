@@ -9150,3 +9150,27 @@ Target = NearOther
 FunctionCode = DoublePowerIfUserLastMoveContactMove
 Flags = CanProtect,CanMirrorMove,Sound
 Description = The user lets out a ferocious, spirit-filled yell. Its power doubles if used following a contact move.
+#------------------------------
+[FAULTSHIFT]
+Name = Fault Shift
+Type = GROUND
+Category = Physical
+Power = 40
+Accuracy = 100
+TotalPP = 25
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = The user faults the ground beneath the foe, causing them to slip and take damage.
+#------------------------------
+[SPOOK]
+Name = Spook
+Type = GHOST
+Category = Special
+Power = 40
+Accuracy = 100
+TotalPP = 25
+Target = NearOther
+FunctionCode = None
+Flags = CanProtect,CanMirrorMove
+Description = The user scares the target so thoroughly that they take damage in response.
