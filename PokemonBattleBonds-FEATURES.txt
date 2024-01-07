@@ -102,7 +102,8 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 Theme of "Dustington"
 Original piece, previously titled "Raufor Town"
 Composed by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled project]
-Rearranged by PhotonAqua for soundfont use, reformatted by Fossilized_Nerd
+Repaired and arranged by PhotonAqua for soundfont use in Reaper
+Reformatted in the Pokémon Black and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 03 - I'VE GOT THIS!
 Theme of "VS Battle Brigade / Rival"
@@ -173,8 +174,8 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 
 16 - LOOK ALIVE, KID!
 Theme of "Central Ileas"
-From Pokémon Black and White, used at Castelia City
-Ripped and looped as part of ENLS' Pre-Looped Library
+From Etrian Odyssey III, used at Port
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 17 - HELP US SET UP, WOULD YOU?
 Theme of "Central Ileas Gym / Hard Stone Hamlet Gym"
@@ -208,8 +209,8 @@ Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd 
 
 23 - TOGETHER, WE ARE ALONE
 Theme of "Emotion"
-From Pokémon Black and White, used as the theme of N / Emotion
-Ripped and looped as part of ENLS' Pre-Looped Library
+From Etrian Odyssey III, theme of the First Stratum
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 24 - IT'S MODEST WORK
 Theme of "Man-Tow Port"
@@ -250,6 +251,8 @@ Ripped and looped as part of ENLS' Pre-Looped Library
 Theme of "Zone Three - The Roaring Fields"
 Original arrangement of Azalea Town and National Park, originally titled "Route 6"
 Written by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled project]
+Repaired and arranged by PhotonAqua for soundfont use in Reaper
+Reformatted in the Pokémon Black and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 32 - YOU'RE ALWAYS HOME
 Theme of "Cheriville"
@@ -471,6 +474,11 @@ Theme of "Subcity Game Corner"
 From Fossil Fighters, used at the Police Station
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
+75 - FATEFUL DAYS - WHEN I BECAME CHAIRMAN
+Theme of "Reminiscence"
+From Fire Emblem New Mystery of the Emblem, "Puppets Don't Cry"
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
 ---
 x
 ---
@@ -479,8 +487,52 @@ x
 CREDITS
 
 
+TEAM TRI ATTACK
+Fossilized_Nerd
+Feebelle
+TheCasualDeviant
 
+Director - Design, Audio, Game Balance, Script, Concepts
+Fossilized_Nerd
 
+Director - Aesthetic Design, Character Design, Animation, New Cries
+Game "Feel"
+Feebelle
+
+Codemaster - Ruby, Game Engineering
+Game Balancer
+TheCasualDeviant
+
+Musical Associate
+PhotonAqua
+
+Music Commissions
+Zame_It
+
+The Pokémon Essentials team
+-teamhere-
+
+Plugins
+-pluginshere-
+
+The musical talents behind the following works:
+
+Pokémon Trading Card Game (GB)
+Pokémon Colosseum
+Pokémon XD Gale of Darkness
+Pokémon Ruby, Sapphire, and Emerald
+Pokémon Diamond, Pearl, and Platinum
+Pokémon Heart Gold and Soul Silver
+Pokémon Black / Black 2 and White / White 2
+Pokémon: The Anime - Season One
+Pokémon Mystery Dungeon: Red and Blue Rescue Team
+Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky
+Phoenix Wright: Ace Attorney - Justice for All
+Apollo Justice: Ace Attorney
+Fossil Fighters
+Fossil Fighters Champions
+Etrian Odyssey III
+Fire Emblem: Shin Monshou no Nazo ~ Hikari to Kage no Eiyuu (AKA "New Mystery of the Emblem")
 
 
 
