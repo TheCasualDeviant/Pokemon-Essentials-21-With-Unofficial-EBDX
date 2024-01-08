@@ -9174,3 +9174,25 @@ Target = NearOther
 FunctionCode = None
 Flags = CanProtect,CanMirrorMove
 Description = The user scares the target so thoroughly that they take damage in response.
+#------------------------------
+[ICESPINNER]
+Name = Ice Spinner
+Type = ICE
+Category = Physical
+Power = 80
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = RemoveTerrainIceSpinner
+Flags = Contact,CanProtect,CanMirrorMove
+Description = The user covers its feet in ice and spins into the target. The spinning destroys active terrain.
+#------------------------------
+[CHILLYRECEPTION]
+Name = Chilly Reception
+Type = ICE
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+FunctionCode = SwitchOutUserStartHailWeather
+Description = The user tells a chillingly bad joke before switching out. This summons a five turnsnowstorm.
