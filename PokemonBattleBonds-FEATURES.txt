@@ -224,8 +224,8 @@ Ripped and looped as part of ENLS' Pre-Looped Library
 
 26 - MOONSTONE BAY
 Theme of "Zone Two - Moonstone Bay"
-From Pokémon Black and White, used at Undella Town - Summer
-Ripped and looped as part of ENLS' Pre-Looped Library
+From Pokémon Heart Gold and Soul Silver, used at Violet City
+Reorchestrated in the Pokémon Black 2 and White 2 soundfont plus Undella Town's Wave SFX by Fossilized_Nerd using MIDI & Synthfont
 
 27 - 'ROUND THE CLOCK
 Theme of "Factory Street"
