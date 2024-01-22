@@ -9195,7 +9195,7 @@ Accuracy = 0
 TotalPP = 10
 Target = User
 FunctionCode = SwitchOutUserStartHailWeather
-Description = The user tells a chillingly bad joke before switching out. This summons a five turnsnowstorm.
+Description = The user tells a chillingly bad joke before switching out. This summons a five turn snowstorm.
 #------------------------------
 [TIDYUP]
 Name = Tidy Up
@@ -9206,3 +9206,15 @@ TotalPP = 10
 Target = User
 FunctionCode = RaiseUserAtkSpd1RemoveHazardsSubstitutes
 Description = The user tidies up their side of the field of hazards and substitutes, boosting Attack and Speed.
+#-------------------------------
+[SANDBAR]
+Name = Sandbar
+Type = GROUND
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+Priority = 3
+FunctionCode = RedirectAndAbsorbWaterGrassAttacks
+Flags = Sandbar
+Description = The user forms a sandbar that absorbs incoming Water and Grass-type attacks to heal the user.
