@@ -479,6 +479,16 @@ Theme of "Reminiscence"
 From Fire Emblem New Mystery of the Emblem, "Puppets Don't Cry"
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
+76 - AXYL, THE ONE WHO LEFT
+Theme of "Axyl"
+From Ghost Trick: Phantom Detective, "The Imprisoned"
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
+77 - CAN YOU HEAR ME?
+Theme of the Spirits of Ileas
+From Super Mario RPG: Legend of the Seven Stars, "Starlight's Flower"
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
 ---
 x
 ---
@@ -486,36 +496,41 @@ x
 
 CREDITS
 
+ALL RIGHTS OF Pokémon, ITS CREATURES, AND THE SPRITE WORK FEATURED IN Pokémon Black 2 and Pokémon White 2 BELONG
+EXCLUSIVELY TO THE Pokémon Company, Gamefreak, Nintendo, CreaturesLTD, AND OTHER RELATED CORPORATIONS AND BRANDS.
+PLEASE SUPPORT THE OFFICIAL RELEASE.
 
 TEAM TRI ATTACK
 Fossilized_Nerd
 Feebelle
 TheCasualDeviant
 
-Director - Design, Audio, Game Balance, Script, Concepts
+DIRECTOR - Design, Audio, Game Balance, Script, Concepts
 Fossilized_Nerd
 
-Director - Aesthetic Design, Character Design, Animation, New Cries
+DIRECTOR - Aesthetic Design, Character Design, Animation, New Cries
 Game "Feel"
 Feebelle
 
-Codemaster - Ruby, Game Engineering
+CODEMASTER - Ruby, Game Engineering
 Game Balancer
 TheCasualDeviant
 
-Musical Associate
+MUSICAL ASSOCIATE
 PhotonAqua
 
-Music Commissions
-Zame_It
+MUSIC COMMISSIONS [See the soundtrack section for details on each]
+Zame_It - VS Trainer
+Pascal van den Bos - VS Battle Brigade
 
-The Pokémon Essentials team
+THE POKEMON ESSENTIALS TEAM
+Maruno
 -teamhere-
 
-Plugins
+PLUGINS & CREATORS
 -pluginshere-
 
-The musical talents behind the following works:
+THE MUSICAL TALENTS BEHIND THE FOLLOWING WORKS:
 
 Pokémon Trading Card Game (GB)
 Pokémon Colosseum
@@ -533,6 +548,8 @@ Fossil Fighters
 Fossil Fighters Champions
 Etrian Odyssey III
 Fire Emblem: Shin Monshou no Nazo ~ Hikari to Kage no Eiyuu (AKA "New Mystery of the Emblem")
+Ghost Trick: Phantom Detective
+Super Mario RPG: Legend of the Seven Stars
 
 
 
