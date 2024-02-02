@@ -489,6 +489,16 @@ Theme of the Spirits of Ileas
 From Super Mario RPG: Legend of the Seven Stars, "Starlight's Flower"
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
+78 - BACK FOR MORE
+Theme of the Battle Synthesizer
+From Fossil Fighters Champions, unused battle theme
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
+79 - FRIENDLY FACES
+Theme of friendly encounters
+From Etrian Odyssey III, theme of Cityscape
+Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
 ---
 x
 ---
@@ -497,7 +507,7 @@ x
 CREDITS
 
 ALL RIGHTS OF Pokémon, ITS CREATURES, AND THE SPRITE WORK FEATURED IN Pokémon Black 2 and Pokémon White 2 BELONG
-EXCLUSIVELY TO THE Pokémon Company, Gamefreak, Nintendo, CreaturesLTD, AND OTHER RELATED CORPORATIONS AND BRANDS.
+EXCLUSIVELY TO THE Pokémon Company, Gamefreak, Nintendo, CreaturesLTD, AND OTHER RELATED CORPORATIONS AND INDIVIDUALS.
 PLEASE SUPPORT THE OFFICIAL RELEASE.
 
 TEAM TRI ATTACK
