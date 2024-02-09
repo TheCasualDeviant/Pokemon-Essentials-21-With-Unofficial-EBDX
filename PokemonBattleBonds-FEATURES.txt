@@ -30,8 +30,8 @@ FEATURES
 -250 region-local Pokémon to capture & continuous rewards for Dex Completion
 -30 additional Pokémon you can obtain before the end of the main campaign - these do not count towards completion
 
--7 Gyms, specializing in 2 types each, for a total of 14 type-specialized Gyms
-	These Gyms can be approached in a linear order of your choosing: 1 or 2, then 3 or 4, then 5 or 6, then 7.
+-7 Gyms, specializing in 2 types each, for a total of 14 type-specialized Gym Leaders
+	These Gyms can be approached in a pseudo-linear order of your choosing: 1 or 2, then 3 or 4, then 5 or 6, then 7.
 
 -"Skills" replace HMs and can be obtained from clearing a Pokémon Gym, allowing continuous reasons to return to
 	each area you previously visited or passed-through for access to more Pokémon and items
@@ -41,8 +41,9 @@ FEATURES
 
 -100 hand-selected TMs to aid in Double Battling
 -Over 40 brand-new moves to use in battle
+-Extensive Move Tutors that can easily be redeemed with Battle Points (1 earned for EVERY battle)
 
--Buffs for nearly every single Pokémon obtainable in the game with the goal of making all Pokémon at least fun to use
+-Buffs for nearly every Pokémon obtainable in the game with the goal of making all Pokémon at least fun to use
 -New abilities on older Pokémon and adjustments to "less useful" abilities to make them more viable
 
 -Customizable Pokémon attributes including:
@@ -52,14 +53,16 @@ FEATURES
 	Easily-accessed "competitive" items
 	Move relearner at all Pokémon Centers
 	
--An original story focused on [do not read this part if you're avoiding spoilers]:
+-An original story focused on [do not read this part if you're FULLY avoiding spoilers]:
 	Prophecy
 	The Pokémon League and its creation in other regions
 	Organized crime and charitable groups
 	Young adulthood and family ties
 	Self-worth and life direction
 	
--A soundtrack featuring dozens of iconic songs from previous Pokémon titles, spinoffs, and other series' games
+-A soundtrack featuring dozens of iconic songs from previous Pokémon titles, spinoffs, and other series' games,
+	plenty of which are now using a Black 2 & White 2 Soundfont
+-The wonderful musical talents of numerous Pokémon & Game Musicians from across the internet
 
 -A fully-optional town with tons of extra sidequests to unlock permanent features including:
 	A Berry farm
@@ -530,6 +533,7 @@ MUSICAL ASSOCIATE
 PhotonAqua
 
 MUSIC COMMISSIONS [See the soundtrack section for details on each]
+Toby "Snowy Fox" Wilkinson
 Zame_It - VS Trainer
 Pascal van den Bos - VS Battle Brigade
 

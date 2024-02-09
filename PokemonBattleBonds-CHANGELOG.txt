@@ -248,6 +248,10 @@ NEW: CHERRIM'S DEFENSE is boosted by 1.5x in its [BUD FORM]. In sunlight, CHERRI
 	[BUD FORM] is CHERRIM's form when it is not transformed in sunlight. The DEFENSE boost goes away once CHERRIM
 	enters its [SUNLIGHT FORM] and will return after the sunlight goes away.
 
+STEAM ENGINE & WATER COMPACTION
+Both abilities have been improved and now grant the holder a Resistance to WATER.
+NOTE - if the POKEMON is already weak to WATER, the end result is neutral damage. If the POKEMON is x4 weak, it will result in x2.
+
 
 ---
 X
@@ -684,6 +688,21 @@ BUG - Physical - 25 BP - 10 PP - 100 ACC - 0 Priority - CONTACT attack - Single-
 Multi-hit, 2-5 attacks. Takes the user's Special Defense stat instead of the user's Attack when calculating damage.
 "The user punches the foe with a rapid series of punches. The higher the user's Special Defense stat, the greater the damage."
 
+FAULT SHIFT
+GROUND - Physical - 40 BP - 25 PP - 100 ACC - 0 Priority - Single-target
+A weak, standard Ground attack.
+"The user faults the ground beneath the foe, causing them to slip and take damage."
+
+SPOOK
+GHOST - Special - 40 BP - 25 PP - 100 ACC - 0 Priority - Single-target
+A weak, standard Ghost attack.
+"The user scares the target so thoroughly that they take damage in response."
+
+HOARFROST
+ICE - Status - 0 BP - 5 PP - 101 ACC - 0 Priority - Self-target
+The user heals itself for 50% HP. In a Snowstorm, it will heal 75% of its max HP instead. This effect drops in Harsh Sunlight.
+"The user freezes over, healing its body. The heal effect is stronger in Snow and weaker in Sun."
+
 
 ---
 X
@@ -705,351 +724,525 @@ SERVINE - [CONTRARY] for Ability 2, [DAZZLING] for Hidden Ability
 SERPERIOR - [CONTRARY] for Ability 2, [DAZZLING] for Hidden Ability
 	Special Attack increased by 5, Speed increased by 2
 	Gender ratio is now 50% Female
-CHIMCHAR - [LIMBER] for Hidden Ability
+	
+CHIMCHAR - [IRON FIST] for Ability 2, [LIMBER] for Hidden Ability
 	Attack increased by 1
 	Gender ratio is now 50% Female
-MONFERNO - [LIMBER] for Hidden Ability
+MONFERNO - [IRON FIST] for Ability 2, [LIMBER] for Hidden Ability
 	Attack increased by 5, Defense increased by 2, Special Defense increased by 2
 	Gender ratio is now 50% Female
-INFERNAPE - [LIMBER] for Hidden Ability
+INFERNAPE - [IRON FIST] for Ability 2, [LIMBER] for Hidden Ability
 	Attack increased by 1
 	Gender ratio is now 50% Female
-MUDKIP - [SWIFT SWIM] for Hidden Ability
+	
+MUDKIP - [DAMP] for Ability 2, [SWIFT SWIM] for Hidden Ability
 	Gender ratio is now 50% Female
-MARSHTOMP - [SWIFT SWIM] for Hidden Ability
+MARSHTOMP - [DAMP] for Ability 2, [SWIFT SWIM] for Hidden Ability
 	HP increased by 5, Special Attack increased by 5
 	Gender ratio is now 50% Female
-SWAMPERT - [SWIFT SWIM] for Hidden Ability
+SWAMPERT - [DAMP] for Ability 2, [SWIFT SWIM] for Hidden Ability
 	Gender ratio is now 50% Female
+	
 GEODUDE - N/A
 GRAVELER - Evolution: [BOND BRACE] item
 GOLEM - Special Attack increased by 30, Special Defense increased by 10
-FLABEBE - [NATURAL CURE] for Hidden Ability
+
+FLABEBE - [SYMBIOSIS] for Ability 2, [NATURAL CURE] for Hidden Ability
 	Attack decreased by 8
-FLOETTE - [NATURAL CURE] for Hidden Ability
+FLOETTE - [SYMBIOSIS] for Ability 2, [NATURAL CURE] for Hidden Ability
 	Attack decreased by 5
 	Evolution: [BOND BRACE] item
-FLORGES - [NATURAL CURE] for Hidden Ability
+FLORGES - [SYMBIOSIS] for Ability 2, [NATURAL CURE] for Hidden Ability
 	Attack decreased by 17
-ZUBAT - [MERCILESS] for Hidden Ability
-GOLBAT - [MERCILESS] for Hidden Ability
+	
+ZUBAT - [INFILTRATOR] for Ability 2, [MERCILESS] for Hidden Ability
+GOLBAT - [INFILTRATOR] for Ability 2, [MERCILESS] for Hidden Ability
 	Evolution: [BOND BRACE] item
-CROBAT - [MERCILESS] for Hidden Ability
+CROBAT - [INFILTRATOR] for Ability 2, [MERCILESS] for Hidden Ability
+
 SWINUB - N/A
 PILOSWINE - N/A
 MAMOSWINE - N/A
+
 SNORUNT - N/A
 GLALIE - [INTIMIDATE] for Ability 1
 	Attack increased by 10, Defense decreased by 5, Special Attack increased by 10, Special Defense decreased by 5, 
 	Speed increased by 10
 FROSLASS - [MOODY] for Hidden Ability
 	Attack decreased by 10, Special Attack increased by 20, Special Defense increased by 10
+	
 SPEAROW - [BIG PECKS] for Hidden Ability
 	Special Defense increased by 4
 FEAROW - [BIG PECKS] for Hidden Ability
 	HP increased by 5, Attack increased by 5, Defense increased by 10, Special Defense increased by 4
+	
 CUBONE - Evolution: decreased to Level 26
 MAROWAK - HP increased by 10, Attack increased by 15, Speed increased by 15
+
 GOLETT - [SHEER FORCE] for Hidden Ability
 	Evolution: decreased to Level 40
 	HP increased by 1, Attack increased by 1
 GOLURK - [SHEER FORCE] for Hidden Ability
 	HP increased by 1, Attack increased by 1, Defense increased by 5, Special Defense increased by 5
+	
 BLOOMOO - Brand new POKEMON
 BORODEO - Brand new POKEMON
 BOVINORTH - Brand new POKEMON
+
 MORPEKO - [MOODY] for Hidden Ability
 	NOTE: Selecting [MOODY] as Morpeko's ability will prevent access to [HANGRY FORM] in battle.
 	Special Attack increased by 15, Speed increased by 4
+	
 STUNKY - Evolution: decreased to Level 30
 SKUNTANK - Special Attack increased by 6
-NICKIT - [PICKPOCKET] for Ability 2
+
+NICKIT - [UNBURDEN] moved to Ability 1, [SLEIGHT HAND] for Ability 2
 	Attack increased by 20
-THIEVUL - [PICKPOCKET] for Ability 2
+THIEVUL - [UNBURDEN] moved to Ability 1, [SLEIGHT HAND] for Ability 2
 	Attack increased by 30
+	
 AXEW - [HYPER CUTTER] for Hidden Ability
 	Evolution: decreased to Level 30
 FRAXURE - [HYPER CUTTER] for Hidden Ability
 HAXORUS - [HYPER CUTTER] for Hidden Ability
+
 NOIBAT - Evolution: decreased to Level 36
 NOIVERN - N/A
+
 DRUDDIGON - N/A
+
 TURTONATOR - [FLAME BODY] for Ability 2, [WHITE SMOKE] for Hidden Ability
+
 DRAMPA - N/A
+
 TYNAMO - Evolution: decreased to Level 20
 EELEKTRIK - N/A
 EELEKTROSS - N/A
+
 ZANGOOSE - [QUICK FEET] for Ability 2, [HYPER CUTTER] for Hidden Ability
 	Defense increased by 10, Speed increased by 15
+	
 SEVIPER - [STRONG JAW] for Hidden Ability
 	Special Defense increased by 5, Speed increased by 20
+	
 IGGLYBUFF - [LEVITATE] for Hidden Ability
 JIGGLYPUFF - [LEVITATE] for Hidden Ability
 	Attack increased by 10, Special Attack increased by 15, Special Defense increased by 10
-WIGGLYTUFF - [LEVITATE] for Hidden Ability
+WIGGLYTUFF - [FRIEND GUARD] for Ability 1, [LEVITATE] for Hidden Ability
 	Attack increased by 15, Special Attack increased by 10, Special Defense increased by 10
+	
 LILLIPUP - [BALL FETCH] for Hidden Ability
 HERDIER - N/A
 STOUTLAND - N/A
+
 MINCCINO - [ADORABLE] for Hidden Ability
 CINCCINO - [ADORABLE] for Hidden Ability
+
 AUDINO - [CURIOUS MEDICINE] for Hidden Ability
 	HP increased by 5, Speed increased by 30
+	
 SNUBBULL - N/A
 GRANBULL - [STRONG JAW] for Ability 2
 	Defense increased by 10, Special Defense increased by 10, Speed increased by 10
-KLEFKI - [LEVITATE] for Hidden Ability
+	
+KLEFKI - [VANISHING ACT] for Ability 2, [LEVITATE] for Hidden Ability
+
 DEDENNE - [ELECTRIC SURGE] for Ability 2
 	Defense increased by 2, Special Attack increased by 12, Special Defense increased by 10
+	
 MILCERY - [GOOEY] for Hidden Ability
 	Evolution: food items removed, replaced with Friendship
 ALCREMIE - [GOOEY] for Hidden Ability
+
 TIMBURR - N/A
 GURDURR - Evolution: trade removed, replaced with Friendship
 CONKELDURR - N/A
+
 SCRAGGY - Evolution: decreased to Level 28
 SCRAFTY - N/A
+
 DRIFLOON - N/A
 DRIFBLIM - N/A
+
 SANDYGAST - [SAND STREAM] for Hidden Ability
 PALOSSAND - [SAND STREAM] for Hidden Ability
+
 DHELMISE - N/A
+
 VOLTORB - Attack increased by 20
 ELECTRODE - Special Attack increased by 5
+
 MAGNEMITE - N/A
 MAGNETON - N/A
 MAGNEZONE - N/A
+
 GRIMER - [LIQUID OOZE] for Hidden Ability
 	Evolution: decreased to Level 32
 MUK - [LIQUID OOZE] for Hidden Ability
+
 KLINK - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
 	Evolution: decreased to Level 25
 KLANG - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
 	Evolution: decreased to Level 40
 KLINKLANG - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+
 DURALUDON - N/A
+	(Sorry, but we started development a bit too early for Archaludon to fit into the plans!)
+
 PSYDUCK - Evolution: decreased to Level 28
 GOLDUCK - [PSYCHIC SURGE] for Ability 1
 	Attack increased by 3, Special Attack increased by 2, Special Defense increased by 5
+	
 TENTACOOL - N/A
 TENTACRUEL - N/A
+
 SEEL - Attack increased by 20
-DEWGONG - Attack increased by 20, Defense increased by 5
+DEWGONG - [SLUSH RUSH] for Ability 2
+	Attack increased by 20, Defense increased by 5
+
 WINGULL - N/A
 PELIPPER - HP increased by 10, Attack increased by 5, Defense increased by 5, Special Defense increased by 5
+
 CARVANHA - N/A
 SHARPEDO - N/A
+
 FRILLISH - Evolution: decreased to Level 32
-JELLICENT - N/A
-MAGIKARP - N/A
-GYARADOS - N/A
+JELLICENT - HP increased by 10, Defense increased by 5, Special Attack increased by 10
+
+MAGIKARP - [RATTLED] moved to Ability 2, [RUN AWAY] for Hidden Ability
+GYARADOS - [MOXIE] moved to Ability 2, [HUSTLE] for Hidden ABILITY
+
 DWEBBLE - N/A
 CRUSTLE - N/A
+
 LUNATONE - [MAGIC GUARD] for Ability 2
 	Defense increased by 5, Special Attack increased by 5, Special Defense increased by 5, Speed increased by 5
 SOLROCK - [MAGIC GUARD] for Ability 2
 	Attack increased by 5, Defense increased by 5, Special Defense increased by 5, Speed increased by 5
+	
 BRONZOR - Evolution: decreased to Level 29
-BRONZONG - N/A
+	[SOUNDPROOF] for Hidden Ability
+BRONZONG - [SOUNDPROOF] for Hidden Ability
+
 ILEASI MUNNA - Brand new regional forme
 ILEASI MUSHARNA - Brand new regional forme
+
 CHERUBI - Attack increased by 5, Speed increased by 5
 CHERRIM - Attack increased by 20, Special Defense increased by 2, Speed increased by 3
-CARNIVINE - [STRONG JAW] for Ability 1
+
+CARNIVINE - [STRONG JAW] for Ability 1, [CHLOROPHYLL] for Hidden Ability
 	Attack increased by 5, Special Defense increased by 3, Speed increased by 11
+	
 SEWADDLE - N/A
 SWADLOON - N/A
 LEAVANNY - N/A
+
 APPLIN - Evolution: [LEAF STONE] to evolve into FLAPPLE
 	Evolution: [FIRE STONE] to evolve into APPLETUN
 	Special Defense increased by 10
 FLAPPLE - N/A
 APPLETUN - N/A
-SENTRET - Speed increased by 30
-FURRET - HP increased by 5, Attack increased by 5, Defense increased by 9, Special Defense increased by 16,
+
+SENTRET - [STAKEOUT] for Hidden Ability
+	Speed increased by 30
+FURRET - [STAKEOUT] for Hidden Ability
+	HP increased by 5, Attack increased by 5, Defense increased by 9, Special Defense increased by 16,
 	Speed increased by 5
+	
 DODUO - N/A
-DODRIO - N/A
+DODRIO - HP increased by 5
+
 PORYGON - N/A
 PORYGON2 - N/A
 PORYGON-Z - N/A
+
 GLAMEOW - Evolution: decreased to Level 29
 PURUGLY - HP increased by 2, Attack increased by 5, Defense increased by 5, Special Defense increased by 4,
 	Speed increased by 2
-ESPURR - N/A
-MEOWSTIC (MALE) - Special Attack increased by 5, Special Defense increased by 5
-MEOWSTIC (FEMALE) - Special Attack increased by 5, Special Defense increased by 5
+	
+ESPURR - [COSTAR] for Hidden Ability
+MEOWSTIC (BOTH GENDERS) - [COSTAR] for Hidden Ability
+	Special Attack increased by 5, Special Defense increased by 5
+
 CONKARP - Brand new POKEMON (Convergent POKEMON for MAGIKARP)
 GYARAMAR - Brand new POKEMON (Convergent POKEMON for GYARADOS)
+
 BOUFFALANT - N/A
-LITLEO - [DROUGHT] for Ability 2
+
+LITLEO - [DROUGHT] for Ability 2, [FLAME BODY] for Hidden Ability
 	Evolution: decreased to Level 28
-PYROAR - [DROUGHT] for Ability 2
+PYROAR - [DROUGHT] for Ability 2, [FLAME BODY] for Hidden Ability
+
 HOUNDOUR - [SOLAR POWER] for Ability 2
 HOUNDOOM - [SOLAR POWER] for Ability 2
+
 ILEASI LITWICK - Brand new regional forme
-ILEASI LAMPENT - Brand new regional forme
 NYMPHLAME - Brand new regional evolution
+DISMALICE - Brand new regional evolution
+
 ROLYCOLY - N/A
 CARKOL - N/A
 COALOSSAL - N/A
-HOPPIP - [WIND RIDER] for Ability 1
-SKIPLOOM - [WIND RIDER] for Ability 1
-JUMPLUFF - [WIND RIDER] for Ability 1
+
+HOPPIP - [WIND RIDER] for Ability 1, [SEED SOWER] for Hidden Ability
+SKIPLOOM - [WIND RIDER] for Ability 1, [SEED SOWER] for Hidden Ability
+JUMPLUFF - [WIND RIDER] for Ability 1, [SEED SOWER] for Hidden Ability
 	Attack increased by 5, Special Attack increased by 20
+	
 SKIDDO - Evolution: decreased to Level 30
-GOGOAT - N/A
-BUIZEL - N/A
+	[CUD CHEW] for Hidden Ability
+GOGOAT - [CUD CHEW] for Hidden Ability
+	HP decreased by 3, Defense increased by 17, Special Attack decreased by 21, Speed increased by 7
+
+BUIZEL - [BALL FETCH] for Hidden Ability
 FLOATZEL - Evolution: added, item [WATER STONE]
+	[INFILTRATOR] for Hidden Ability
 DRIFTZEL - Brand new POKEMON
-PYUKUMUKU - HP increased by 5, Attack increased by 10, Defense increased by 5, Special Attack increased by 10,
+
+PYUKUMUKU - [SIMPLE] for Hidden Ability
+	HP increased by 5, Attack increased by 10, Defense increased by 5, Special Attack increased by 10,
 	Special Defense increased by 5
+	
 RELICANTH - Attack increased by 10, Special Defense increased by 5
-DEWPIDER - N/A
-ARAQUANID - Attack increased by 2, Special Attack increased by 4
-PACHIRISU - HP increased by 5, Special Attack increased by 30, Speed increased by 20
-MAREEP - [FLUFFY] for Ability 2
-FLAAFFY - [FLUFFY] for Ability 2
+
+DEWPIDER - [SWARM] for Hidden Ability
+ARAQUANID - [DAUNT] for Hidden Ability
+	Attack increased by 2, Special Attack increased by 4
+
+PACHIRISU - [CHEEK POUCH] for Hidden Ability
+	HP increased by 5, Special Attack increased by 30, Speed increased by 20
+
+MAREEP - [FLUFFY] for Ability 2, [CUD CHEW] for Hidden Ability
+FLAAFFY - [FLUFFY] for Ability 2, [CUD CHEW] for Hidden Ability
 AMPHAROS - DRAGON Type added
-	[MOLD BREAKER] for Ability 2
+	[ILLUMINATE] for Ability 1, [MOLD BREAKER] for Ability 2, [LIGHTNING ROD] for Hidden Ability
+
 VANILLITE - Evolution: decreased to Level 27
-VANILLUXE - Evolution: decreased to Level 45
+VANILLISH - Evolution: decreased to Level 45
+VANILLUXE - N/A
+
 SNEASEL - Evolution: [RAZOR CLAW] requirement removed, replaced with Level-Up while knowing [SLASH]
-WEAVILE - N/A
+	[SHARPNESS] for Hidden Ability
+WEAVILE - [SLEIGHT HAND] for Ability 2, [SHARPNESS] for Hidden Ability
+
 SMOOCHUM - Evolution: decreased to Level 15
-JYNX - Defense increased by 5, Speed increased by 5
+	[LIQUID VOICE] for Hidden Ability
+JYNX - [LIQUID VOICE] for Hidden Ability
+	Defense increased by 5, Speed increased by 5
+	
 CASTFORM - HP increased by 10, Defense increased by 15, Special Attack increased by 15, 
 	Special Defense increased by 15, Speed increased by 10
+	
 MAKUHITA - N/A
 HARIYAMA - Special Defense increased by 15
-RIOLU - Evolution: Sunlight/Daytime requirement removed
+
+RIOLU - Evolution: Dawn Stone
 LUCARIO - N/A
-FALINKS - Special Defense increased by 5
+
+FALINKS - [DEFIANT] moved to Ability 2, [STALWART] for Hidden Ability
+	Special Defense increased by 5
+
 MIENFOO - Evolution: decreased to Level 37
 MIENSHAO - N/A
+
 VENIPEDE - N/A
 WHIRLIPEDE - N/A
 SCOLIPEDE - N/A
+
 FOONGUSS - Evolution: decreased to Level 35
-AMOONGUSS - N/A
+	[REGENERATOR] moved to Ability 2, [CORROSION] for Hidden Ability
+AMOONGUSS - [REGENERATOR] moved to Ability 2, [CORROSION] for Hidden Ability
+
 CROAGUNK - Evolution: decreased to Level 36
-TOXICROAK - N/A
-NINCADA - N/A
-NINJASK - Defense increased by 5, Special Attack increased by 5, Special Defense increased by 5
+	[POISON TOUCH] moved to Ability 2, [TECHNICIAN] for Hidden Ability
+TOXICROAK - [POISON TOUCH] moved to Ability 2, [TECHNICIAN] for Hidden Ability
+
+NINCADA - [RUN AWAY] moved to Ability 2, [OWN TEMPO] for Hidden Ability
+NINJASK - [INFILTRATOR] moved to Ability 2, [GALE WINGS] for Hidden Ability
+	Defense increased by 5, Special Attack increased by 5, Special Defense increased by 5
 SHEDINJA - Special Attack increased by 30, Speed increased by 10
+
 DRILBUR - N/A
 EXCADRILL - N/A
-GLIGAR - [POISON HEAL] for Ability 2
-	Evolution: [RAZOR FANG] requirement removed, replaced with Level-Up while knowing [POISON FANG]
+
+GLIGAR - Evolution: [RAZOR FANG] requirement removed, replaced with Level-Up while knowing [POISON FANG]
+	[POISON HEAL] for Ability 2
 GLISCOR - N/A
+
 TRAPINCH - Evolution: decreased to Level 24
-VIBRAVA - [COMPOUND EYES] for Ability 2
-FLYGON - [COMPOUND EYES] for Ability 2
+	[SHEER FORCE] moved to Ability 2, [STRONG JAW] for Hidden Ability
+VIBRAVA - [COMPOUND EYES] for Ability 2, [TINTED LENS] for Hidden Ability
+FLYGON - [COMPOUND EYES] for Ability 2, [TINTED LENS] for Hidden Ability
+
 LEDYBA - [SHIELD DUST] for Ability 1
 LEDIAN - FIGHTING Type added, replaced FLYING Type
 	[SHIELD DUST] for Ability 1
 	HP increased by 20, Attack increased by 55, Special Attack increased by 5
+	
 COMBEE - Evolution: [VESPIQUEN] if Female, [COMBERDUE] if Male
-VESPIQUEN - HP increased by 5
+	[ADORABLE] for Hidden Ability
+VESPIQUEN - [QUEENLY MAJESTY] for Ability 2, [OPPORTUNIST] for Hidden Ability 
+	HP increased by 5, Attack increased by 5, Defense increased by 3, Special Attack increased by 5,
+	Special Defense increased by 3
 COMBERDUE - Brand new POKEMON
+
 ROOKIDEE - N/A
 CORVISQUIRE - N/A
 CORVIKNIGHT - N/A
+
 DROWZEE - [BAD DREAMS] for Ability 1
 HYPNO - [BAD DREAMS] for Ability 1
 	Attack increased by 10, Special Attack increased by 5
+	
 INKAY - N/A
 MALAMAR - Attack increased by 5, Special Attack increased by 5, Special Defense increased by 3, 
 	Speed decreased by 3
+	
 ELGYEM - ELECTRIC Type added
 	Evolution: decreased to Level 39
 BEEHEEYEM - ELECTRIC Type added
+	[ANALYTIC] moved to Ability 2, [ILLUMINATE] for Hidden Ability
+	
 ILEASI CLEFFA - Brand new regional forme
 ILEASI CLEFAIRY - Brand new regional forme
 CLEFURY - Brand new regional evolution
+
 BLIPBUG - N/A
 DOTTLER - N/A
 ORBEETLE - [COMPOUND EYES] for Ability 1
+
 ARON - Evolution: decreased to Level 25
 LAIRON - N/A
 AGGRON - N/A
-CARBINK - N/A
-LILEEP - N/A
-CRADILY - HP increased by 2, Defense increased by 6, Special Attack increased by 5
+
+CARBINK - [STURDY] moved to Ability 2, [LEVITATE] for Hidden Ability
+
+LILEEP - [STORM DRAIN] moved to Ability 2, [STICKY HOLD] for Hidden Ability
+CRADILY - [STORM DRAIN] moved to Ability 2, [STICKY HOLD] for Hidden Ability
+	HP increased by 2, Defense increased by 6, Special Attack increased by 5
+	
 TYRUNT - Evolution: Sunlight/Daytime requirement removed
-TYRANTRUM - N/A
+	[STURDY] moved to Ability 2, [DAUNT] for Hidden Ability
+TYRANTRUM - [ROCK HEAD] moved to Ability 2, [DAUNT] for Hidden Ability
+
 ARCHEN - N/A
 ARCHEOPS - N/A
+
 ILEASI SPRITZEE - Brand new regional forme
 FUMIGHAST - Brand new regional evolution
+
 DUSKULL - Evolution: decreased to Level 33
+	[FRISK] moved to Ability 2, [MUMMY] for Hidden Ability
 DUSCLOPS - Evolution: [REAPER CLOTH] removed, replaced with [DUSK STONE]
-DUSKNOIR - N/A
+	[FRISK] moved to Ability 2, [MUMMY] for Hidden Ability
+DUSKNOIR - [FRISK] moved to Ability 2, [MUMMY] for Hidden Ability
+
 SINISTEA - Evolution: Both "Tea" items removed for simplicity, replaced with [WATER STONE]
-POLTEAGEIST - N/A
+	[CURSED BODY] moved to Ability 2, [FLARE BOOST] for Hidden Ability
+POLTEAGEIST - [CURSED BODY] moved to Ability 2, [FLARE BOOST] for Hidden Ability
+
 MURKROW - Evolution: replaced with [SHINY STONE]
 HONCHKROW - N/A
-DURANT - N/A
-HEATMOR- N/A
+
+DURANT - [FILTER] for Hidden Ability
+	HP increased by 5
+
+HEATMOR- HP increased by 5
+
 MIMIKYU - N/A
-IMPIDIMP - N/A
-MORGREM - N/A
-GRIMMSNARL - N/A
-LARVITAR - N/A
-PUPITAR - [SAND VEIL] for Ability 2
-TYRANITAR - N/A
-BELDUM - N/A
-METANG - N/A
-METAGROSS - N/A
-ILEASI ZORUA - N/A
-	ILEASI ZORUA is a renaming of HISUIAN ZORUA and has identical stats and abilities
-ILEASI ZOROARK - N/A
-	ILEASI ZOROARK is a renaming of HISUIAN ZOROARK and has identical stats and abilities
+
+IMPIDIMP - [SLEIGHT HAND] for Ability 2, [RUN AWAY] for Hidden Ability
+MORGREM - [SLEIGHT HAND] for Ability 2, [TANGLING HAIR] for Hidden Ability
+GRIMMSNARL - [SLEIGHT HAND] for Ability 2, [TANGLING HAIR] for Hidden Ability
+
+LARVITAR - [DAUNT] for Hidden Ability
+PUPITAR - [SAND VEIL] for Ability 2, [DAUNT] for Hidden Ability
+TYRANITAR - [DAUNT] for Hidden Ability
+
+BELDUM - [LEVITATE] for Hidden Ability
+METANG - [LEVITATE] for Hidden Ability
+METAGROSS - [HEAVY METAL] for Hidden Ability
+
+HISUIAN ZORUA - N/A
+HISUIAN ZOROARK - N/A
+	
 SHAYMIN - N/A
 SHAYMIN-SKY - N/A
+
 MANAPHY - N/A
 PHIONE - All stats increased by 10 each
-DEOXYS-NEUTRAL - [PROTEAN] for Ability 2
+
+DEOXYS-NEUTRAL - [PROTEAN] for Ability 2, [WONDER SKIN] for Hidden Ability
 	HP increased by 25, Attack decreased by 40, Defense increased by 60, Special Attack decreased by 40,
 	Special Defense increased by 60, Speed decreased by 40
-DEOXYS-ATTACK - [PROTEAN] for Ability 2
+DEOXYS-ATTACK - [PROTEAN] for Ability 2, [WONDER SKIN] for Hidden Ability
 	HP increased by 25
-DEOXYS-DEFENSE - [PROTEAN] for Ability 2
+DEOXYS-DEFENSE - [PROTEAN] for Ability 2, [WONDER SKIN] for Hidden Ability
 	HP increased by 25
-DEOXYS-SPEED - [PROTEAN] for Ability 2
+DEOXYS-SPEED - [PROTEAN] for Ability 2, [WONDER SKIN] for Hidden Ability
 	HP increased by 25, Attack increased by 5, Defense decreased by 5, Special Attack increased by 5,
 	Special Defense decreased by 5
+	
 VICTINI - N/A
-ELEKID - 
-ELECTABUZZ - 
-ELECTIVIRE - 
-WAILMER - 
-WAILORD - 
-RUFFLET - 
-BRAVIARY - 
-PICHU - 
-PIKACHU - 
-RAICHU - 
-GROWLITHE - 
-ARCANINE - 
-SIZZLIPEDE - 
-CENTISKORCH - 
-NUMEL - 
-CAMERUPT - 
-BERGMITE - 
-AVALUGG - 
-CUBCHOO - 
-BEARTIC - 
-LAPRAS - 
-SABLEYE - 
-MAWILE - 
-SKRELP - 
-DRAGALGE - 
-STUFFUL - 
-BEWEAR - 
-GOOMY - 
-ILEASI SLIGGOO - 
-ILEASI GOODRA - 
+
+ELEKID - Evolution: decreased to Level 25
+	[BATTERY] for Hidden Ability
+ELECTABUZZ - Evolution: changed to Level 45
+	[BATTERY] for Hidden Ability
+ELECTIVIRE - [BATTERY] for Hidden ability
+	Defense increased by 5
+	
+WAILMER - Defense increased by 5, Special Defense increased by 5
+WAILORD - Defense increased by 15, Special Defense increased by 15
+
+RUFFLET - Evolution: decreased to Level 42
+BRAVIARY - Defense increased by 2, Special Attack decreased by 2, Speed increased by 5
+
+PICHU - [SURGE SURFER] for Hidden Ability
+	HP increased by 5, Attack increased by 5, Special Attack increased by 5
+PIKACHU - [SURGE SURFER] for Hidden Ability
+	HP increased by 5, Attack increased by 5, Special Attack increased by 5
+RAICHU - [SURGE SURFER] for Hidden Ability
+	HP increased by 5, Attack increased by 5, Special Attack increased by 5, Speed increased by 5
+	
+GROWLITHE - N/A
+ARCANINE - N/A
+
+SIZZLIPEDE - N/A
+CENTISKORCH - N/A
+
+NUMEL - N/A
+CAMERUPT - HP increased by 20, Attack increased by 5, Defense increased by 5, Special Attack increased by 5,
+	Special Defense increased by 10
+
+BERGMITE - Evolution: decreased to Level 33
+AVALUGG - [STRONG JAW] for Ability 1
+	Special Attack decreased by 5, Special Defense increased by 5
+
+CUBCHOO - Evolution: decreased to Level 36
+BEARTIC - N/A
+
+LAPRAS - Special Attack increased by 10
+
+SABLEYE - [SCREEN CLEANER] for Ability 1, [MAGIC BOUNCE] for Ability 2
+	HP increased by 20, Attack increased by 5, Defense increased by 5, Special Defense increased by 15,
+	Speed increased by 15
+
+MAWILE - [HUGE POWER] for Ability 1, [DAUNT] for Hidden Ability
+	HP increased by 20, Attack increased by 10, Defense increased by 10, Special Defense increased by 20
+
+SKRELP - Evolution: decreased to Level 38
+	[POISON TOUCH] for Ability 1, [COLOR CHANGE] for Ability 2
+DRAGALGE - [POISON TOUCH] for Ability 1, [COLOR CHANGE] for Ability 2
+	HP increased by 10, Attack decreased by 10, Special Attack increased by 3, Special Defense increased by 2,
+		Speed increased by 1
+
+STUFFUL - [ADORABLE] for Ability 2
+BEWEAR - [ADORABLE] for Ability 2
+
+GOOMY - N/A
+HISUIAN SLIGGOO - Evolution: changed to Level 50 with no further requirements
+HISUIAN GOODRA - N/A
 
 
 
