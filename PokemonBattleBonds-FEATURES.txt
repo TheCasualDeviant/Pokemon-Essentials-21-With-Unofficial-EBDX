@@ -125,7 +125,7 @@ Rearranged by _
 
 06 - A BRIEF SIDE ROUTE
 Theme of "Powdered Trail"
-From Pokémon Diamond, Pearl, and Platinum, used at Snowpoint City
+From Fossil Fighters, used at Coldfeet Glacier
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 07 - SHIVERING DARKNESS
@@ -405,7 +405,7 @@ Ripped and looped as part of ENLS' Pre-Looped Library
 60 - QUANDRY KEEPERS
 Theme of "VS Battlemaster"
 From Pokémon Tradng Card Game (GB), used as the VS Club Master theme
-Ripped and looped by Fossilized_Nerd
+Stereo mix created by BedrockSolid, metadata looping added by Fossilized_Nerd (great work, BRS!)
 
 61 - THIS IS YOUR MOMENT
 Theme of "VS Chairman Gene / VS The Elite Four"
