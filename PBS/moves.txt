@@ -9218,3 +9218,70 @@ Priority = 3
 FunctionCode = RedirectAndAbsorbWaterGrassAttacks
 Flags = Sandbar
 Description = The user forms a sandbar that absorbs incoming Water and Grass-type attacks to heal the user.
+#-------------------------------
+[WAVECRASH]
+Name = Wave Crash
+Type = WATER
+Category = Physical
+Power = 120
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = RecoilThirdOfDamageDealt
+Flags = Contact,CanProtect,CanMirrorMove
+Description =  	The user shrouds itself in water and slams into the target. This damages the user quite a lot. 
+#-------------------------------
+[DOGMA]
+Name = Dogma
+Type = DRAGON
+Category = Status
+Power = 0
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = TEMP
+#-------------------------------
+[5STARCOMBO]
+Name = 5-Star Combo
+Type = BUG
+Category = Physical
+Power = 25
+Accuracy = 100
+TotalPP = 1
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = TEMP
+#-------------------------------
+[ASSIMILATE]
+Name = Assimilate
+Type = PSYCHIC
+Category = Status
+Power = 0
+Accuracy = 100
+TotalPP = 1
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = TEMP
+#-------------------------------
+[GLAZEICE]
+Name = Glaze Ice
+Type = ICE
+Category = Status
+Power = 0
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = TEMP
+#-------------------------------
+[LEGENDARYROAR]
+Name = Legendary Roar
+Type = DRAGON
+Category = Status
+Power = 0
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = TEMP
