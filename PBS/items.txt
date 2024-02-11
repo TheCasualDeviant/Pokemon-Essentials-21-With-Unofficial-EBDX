@@ -6611,3 +6611,13 @@ Pocket = 1
 Price = 20000
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It ensures the holder's multistrike moves hit more times.
+#-------------------------------
+[BONDBRACE]
+Name = Bond Brace
+NamePlural = Bond Brace
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar band that makes certain species of Pokémon evolve. It only works on select foreign species.
