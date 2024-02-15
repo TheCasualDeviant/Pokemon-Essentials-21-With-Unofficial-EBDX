@@ -801,10 +801,10 @@ NICKIT - [UNBURDEN] moved to Ability 1, [SLEIGHT HAND] for Ability 2
 THIEVUL - [UNBURDEN] moved to Ability 1, [SLEIGHT HAND] for Ability 2
 	Attack increased by 30
 	
-AXEW - [HYPER CUTTER] for Hidden Ability
+AXEW - [UNNERVE] moved to Ability 2, [HYPER CUTTER] for Hidden Ability
 	Evolution: decreased to Level 30
-FRAXURE - [HYPER CUTTER] for Hidden Ability
-HAXORUS - [HYPER CUTTER] for Hidden Ability
+FRAXURE - [UNNERVE] moved to Ability 2, [HYPER CUTTER] for Hidden Ability
+HAXORUS - [UNNERVE] moved to Ability 2, [HYPER CUTTER] for Hidden Ability
 
 NOIBAT - Evolution: decreased to Level 36
 NOIVERN - N/A
