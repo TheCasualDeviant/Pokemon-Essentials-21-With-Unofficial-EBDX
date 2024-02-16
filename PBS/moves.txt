@@ -9242,7 +9242,7 @@ Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
 Description = TEMP
 #-------------------------------
-[5STARCOMBO]
+[FSTARCOMBO]
 Name = 5-Star Combo
 Type = BUG
 Category = Physical
@@ -9278,6 +9278,17 @@ Description = TEMP
 [LEGENDARYROAR]
 Name = Legendary Roar
 Type = DRAGON
+Category = Status
+Power = 0
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+Flags = Contact,CanProtect,CanMirrorMove
+Description = TEMP
+#-------------------------------
+[HOARFROST]
+Name = Hoarfrost
+Type = ICE
 Category = Status
 Power = 0
 Accuracy = 100
