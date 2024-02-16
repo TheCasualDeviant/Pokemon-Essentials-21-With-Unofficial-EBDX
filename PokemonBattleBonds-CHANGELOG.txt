@@ -819,14 +819,14 @@ TYNAMO - Evolution: decreased to Level 20
 EELEKTRIK - N/A
 EELEKTROSS - N/A
 
-ZANGOOSE - [QUICK FEET] for Ability 2, [HYPER CUTTER] for Hidden Ability
+ZANGOOSE - [TOXIC BOOST] moved to Ability 1, [QUICK FEET] for Ability 2, [HYPER CUTTER] for Hidden Ability
 	Defense increased by 10, Speed increased by 15
 	
-SEVIPER - [STRONG JAW] for Hidden Ability
+SEVIPER - [INFILTRATOR] moved to Ability 2, [STRONG JAW] for Hidden Ability
 	Special Defense increased by 5, Speed increased by 20
 	
-IGGLYBUFF - [LEVITATE] for Hidden Ability
-JIGGLYPUFF - [LEVITATE] for Hidden Ability
+IGGLYBUFF - [FRIENDGUARD] moved to Ability 1, [LEVITATE] for Hidden Ability
+JIGGLYPUFF - [FRIENDGUARD] moved to Ability 1, [LEVITATE] for Hidden Ability
 	Attack increased by 10, Special Attack increased by 15, Special Defense increased by 10
 WIGGLYTUFF - [FRIEND GUARD] for Ability 1, [LEVITATE] for Hidden Ability
 	Attack increased by 15, Special Attack increased by 10, Special Defense increased by 10
@@ -835,8 +835,8 @@ LILLIPUP - [BALL FETCH] for Hidden Ability
 HERDIER - N/A
 STOUTLAND - N/A
 
-MINCCINO - [ADORABLE] for Hidden Ability
-CINCCINO - [ADORABLE] for Hidden Ability
+MINCCINO - [SKILL LINK] moved to Ability 2, [ADORABLE] for Hidden Ability
+CINCCINO - [SKILL LINK] moved to Ability 2, [ADORABLE] for Hidden Ability
 
 AUDINO - [CURIOUS MEDICINE] for Hidden Ability
 	HP increased by 5, Speed increased by 30
