@@ -864,8 +864,8 @@ SCRAFTY - N/A
 DRIFLOON - N/A
 DRIFBLIM - N/A
 
-SANDYGAST - [SAND STREAM] for Hidden Ability
-PALOSSAND - [SAND STREAM] for Hidden Ability
+SANDYGAST - [SAND VEIL] moved to Ability 2, [SAND STREAM] for Hidden Ability
+PALOSSAND - [SAND VEIL] moved to Ability 2, [SAND STREAM] for Hidden Ability
 
 DHELMISE - N/A
 
