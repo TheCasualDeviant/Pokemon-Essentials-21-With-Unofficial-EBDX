@@ -9296,3 +9296,16 @@ TotalPP = 10
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
 Description = TEMP
+#-------------------------------
+[TRAILBLAZE]
+Name = Trailblaze
+Type = Grass
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = RaiseUserSpeed1
+Flags = Contact,CanProtect,CanMirrorMove
+EffectChance = 100
+Description = The user leaps from conjured grasses into the target, boosting its Speed at the time.

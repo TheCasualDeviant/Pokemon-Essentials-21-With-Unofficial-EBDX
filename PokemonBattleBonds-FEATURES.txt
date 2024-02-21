@@ -330,10 +330,12 @@ Theme of "VS The Ivy Boys"
 From Fossil Fighters Champions, used as the theme of VS Bare Bones Brigade
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
-46 - SOMETHING IS WRONG...
+46 - ENCOUNTERS WITH ODD ONES
 Theme of "Encounters with Odd Ones"
 From Pokémon Fire Red and Leaf Green, used as the Encounter - Deoxys theme
+From Fossil Fighters, used as Raptin's theme
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+Arranged into one track using Audacity
 
 47 - RUN!
 Theme of "Crisis Unfolding"

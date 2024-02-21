@@ -876,15 +876,15 @@ MAGNEMITE - N/A
 MAGNETON - N/A
 MAGNEZONE - N/A
 
-GRIMER - [LIQUID OOZE] for Hidden Ability
+GRIMER - [POISON TOUCH] moved to Ability 2, [LIQUID OOZE] for Hidden Ability
 	Evolution: decreased to Level 32
-MUK - [LIQUID OOZE] for Hidden Ability
+MUK - [POISON TOUCH] moved to Ability 2, [LIQUID OOZE] for Hidden Ability
 
-KLINK - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+KLINK - [CLEARBODY] moved to Ability 1, [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
 	Evolution: decreased to Level 25
-KLANG - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+KLANG - [CLEARBODY] moved to Ability 1, [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
 	Evolution: decreased to Level 40
-KLINKLANG - [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
+KLINKLANG - [CLEARBODY] moved to Ability 1, [MOTOR DRIVE] for Ability 2, [BATTERY] for Hidden Ability
 
 DURALUDON - N/A
 	(Sorry, but we started development a bit too early for Archaludon to fit into the plans!)
