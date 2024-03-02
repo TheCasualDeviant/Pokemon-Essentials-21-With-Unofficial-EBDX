@@ -171,7 +171,7 @@ Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = RaiseUserMainStats1
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 10
 Description = The foe is attacked with powdery scales blown by wind. It may also raise all the user's stats.
 #-------------------------------
@@ -1069,7 +1069,7 @@ Accuracy = 100
 TotalPP = 20
 Target = AllNearFoes
 FunctionCode = FlinchTargetDoublePowerIfTargetInSky
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 20
 Description = The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch.
 #-------------------------------
@@ -1663,7 +1663,7 @@ Accuracy = 100
 TotalPP = 30
 Target = NearOther
 FunctionCode = None
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 Description = The user stirs up a fairy wind and strikes the target with it.
 #-------------------------------
 [NATURESMADNESS]
@@ -2596,7 +2596,7 @@ Accuracy = 100
 TotalPP = 5
 Target = AllNearFoes
 FunctionCode = BurnTarget
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 10
 Description = The user attacks by exhaling hot breath on the opposing team. It may also leave targets with a burn.
 #-------------------------------
@@ -2883,7 +2883,7 @@ Accuracy = 70
 TotalPP = 10
 Target = Other
 FunctionCode = ConfuseTargetAlwaysHitsInRainHitsTargetInSky
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 30
 Description = The user wraps its foe in a fierce wind that flies up into the sky. It may also confuse the foe.
 #-------------------------------
@@ -2896,7 +2896,7 @@ Accuracy = 95
 TotalPP = 5
 Target = Other
 FunctionCode = None
-Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
+Flags = CanProtect,CanMirrorMove,HighCriticalHitRate,Wind
 Description = A vortex of air is shot at the target to inflict damage. Critical hits land more easily.
 #-------------------------------
 [BEAKBLAST]
@@ -3008,7 +3008,7 @@ Accuracy = 100
 TotalPP = 25
 Target = AllNearFoes
 FunctionCode = None
-Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
+Flags = CanProtect,CanMirrorMove,HighCriticalHitRate,Wind
 Description = The user launches razor-like wind to slash the opposing team. Critical hits land more easily.
 #-------------------------------
 [PLUCK]
@@ -3080,7 +3080,7 @@ Accuracy = 100
 TotalPP = 35
 Target = Other
 FunctionCode = DoublePowerIfTargetInSky
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 Description = A gust of wind is whipped up by wings and launched at the target to inflict damage.
 #-------------------------------
 [PECK]
@@ -3145,6 +3145,7 @@ Accuracy = 0
 TotalPP = 15
 Target = UserSide
 FunctionCode = StartUserSideDoubleSpeed
+Flags = Wind
 Description = The user whips up a turbulent whirlwind that ups the Speed of all party Pokémon for four turns.
 #-------------------------------
 [ASTRALBARRAGE]
@@ -3291,7 +3292,7 @@ Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = RaiseUserMainStats1
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 10
 Description = The user blasts the target with a gust of repulsive wind. It may also raise all the user's stats at once.
 #-------------------------------
@@ -3563,7 +3564,7 @@ Accuracy = 100
 TotalPP = 15
 Target = AllNearOthers
 FunctionCode = None
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 Description = The user stirs up a violent petal blizzard and attacks everything around it.
 #-------------------------------
 [APPLEACID]
@@ -4351,7 +4352,7 @@ Accuracy = 75
 TotalPP = 5
 Target = AllNearFoes
 FunctionCode = FreezeTargetAlwaysHitsInHail
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 10
 Description = A howling blizzard is summoned to strike the opposing Pokemon. May also leave the targets frostbitten.
 #-------------------------------
@@ -4492,7 +4493,7 @@ Accuracy = 100
 TotalPP = 15
 Target = AllNearFoes
 FunctionCode = LowerTargetSpeed1
-Flags = CanProtect,CanMirrorMove
+Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 75
 Description = The user attacks with a gust of chilled air. It may also lower the targets' Speed stat.
 #-------------------------------
@@ -4911,7 +4912,7 @@ Accuracy = 100
 TotalPP = 10
 Target = AllNearFoes
 FunctionCode = TwoTurnAttack
-Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
+Flags = CanProtect,CanMirrorMove,HighCriticalHitRate,Wind
 Description = A two-turn attack. Blades of wind hit the foe on the second turn. Critical hits land more easily.
 #-------------------------------
 [SLAM]
@@ -6622,7 +6623,7 @@ TotalPP = 20
 Target = NearOther
 Priority = -6
 FunctionCode = SwitchOutTargetStatusMove
-Flags = CanMirrorMove
+Flags = CanMirrorMove,Wind
 Description = The foe is blown away, to be replaced by another Pokémon in its party. In the wild, the battle ends.
 #-------------------------------
 [WISH]
@@ -8878,7 +8879,7 @@ Accuracy = 100
 TotalPP = 5
 Target = AllNearFoes
 FunctionCode = TwoTurnAttackStartRain
-Flags = CanProtect,CanMirrorMove,CannotMetronome
+Flags = CanProtect,CanMirrorMove,CannotMetronome,Wind
 EffectChance = 100
 Description = The user siphons warm air, then unleashes a downpour. This causes the weather to become rainy.
 #-------------------------------
@@ -9229,7 +9230,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = RecoilThirdOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
-Description =  	The user shrouds itself in water and slams into the target. This damages the user quite a lot. 
+Description = The user shrouds itself in water and slams into the target. This damages the user quite a lot. 
 #-------------------------------
 [DOGMA]
 Name = Dogma
@@ -9238,7 +9239,7 @@ Category = Status
 Power = 0
 Accuracy = 100
 TotalPP = 10
-Target = NearOther
+Target = User
 FunctionCode = BypassAllTypeImmunities
 Flags = CanProtect,CanMirrorMove
 Description = TEMP
