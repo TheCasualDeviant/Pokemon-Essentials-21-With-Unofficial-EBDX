@@ -308,7 +308,7 @@ Rearranged by Fossilized_Nerd using MIDI & Synthfont
 41 - WORKING UP A SWEAT
 Theme of "The Carkol Mines"
 From Pokémon White 2, used at Reversal Mountain
-Ripped and looped as part of ENLS' Pre-Looped Library
+Rearranged by Fossilized_Nerd using MIDI and Synthfont
 
 42 - THE GATES TO GLORY
 Theme of "Durantown"
@@ -361,7 +361,7 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 51 - UNCHARTED FOREST
 Theme of "Zone Seven - Uncharted Forest"
 From Pokémon Black and White, used at Celestial Tower and Dragonspiral Tower
-Ripped and looped as part of ENLS' Pre-Looped Library
+Rearranged by Fossilized_Nerd using MIDI and Synthfont
 
 52 - THE CRATER
 Theme of "The Heart of Zone Seven - The Crater"
