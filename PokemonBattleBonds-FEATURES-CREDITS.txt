@@ -158,7 +158,7 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 12 - RECLAIMED BEAUTY
 Theme of "Ileas City Skyway"
 From Pokémon Black and White, used at Lacunosa Town
-Ripped and looped as part of ENLS' Pre-Looped Library
+Rearranged by Fossilized_Nerd using MIDI & Synthfont
 
 13 - GEAR UP!
 Theme of "Battle Brigade HQ"
@@ -218,7 +218,7 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 24 - IT'S MODEST WORK
 Theme of "Man-Tow Port"
 From Pokémon Black and White, used at Nacrene City
-Ripped and looped as part of ENLS' Pre-Looped Library
+Rearranged by Fossilized_Nerd using MIDI & Synthfont
 
 25 - STRIKE A POSE AND READ THIS, WILL YA?
 Theme of "Man-Tow Port Gym"
