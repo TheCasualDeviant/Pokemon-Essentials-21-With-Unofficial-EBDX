@@ -166,7 +166,7 @@ From Pokémon Black, used at Opelucid City
 Ripped and looped as part of ENLS' Pre-Looped Library
 
 14 - VICTORY LIES BEFORE US
-Theme of "Battle Brigade - Hopeful / Exiter Point"
+Theme of "Battle Brigade - Hopeful"
 From Pokémon White, used at Opelucid City
 Ripped and looped as part of ENLS' Pre-Looped Library
 
@@ -293,7 +293,7 @@ Musical assistance provided by PhotonAqua
 38 - HEAR THE TREES SING
 Theme of "Outcast Hovel"
 From Pokémon White, used at White Forest
-Ripped and looped as part of ENLS' Pre-Looped Library
+Rearranged by Fossilized_Nerd using MIDI and Synthfont
 
 39 - ANOTHER REALM
 Theme of "Outcast Hovel Gym"
@@ -503,6 +503,11 @@ Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd usi
 Theme of friendly encounters
 From Etrian Odyssey III, theme of Cityscape
 Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+
+80 - THE PINNACLE OF ILEAS
+Theme of Exiter Point
+From Pokémon White, used at Opelucid City
+Rearranged by Fossilized_Nerd using MIDI and Synthfont
 
 ---
 x
