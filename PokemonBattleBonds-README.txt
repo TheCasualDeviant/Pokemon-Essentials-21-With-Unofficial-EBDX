@@ -16,18 +16,18 @@ GAME HANDLING
 	a fun, sharable, and nuanced take on a game formula we all enjoy.
 	
 All rights of Pokémon belong to Nintendo Co. Ltd., GAMEFREAK, The Pokémon Company, Creatures, and all other related companies. Please support the
-	official series and its offshoots!
+	official series, release, and its offshoots!
 
 Violations of the rights of all shareholders and companies that own Pokémon are heavily discouraged and frowned-upon by Team Tri Attack.
 	"Pokémon: Battle Bonds" is a fan-created project that has never had - and will never have - any intention of deriving profit, funding, or monetary
 	gain/advantage via sale, distribution, or acquisition of materials utilizing the Pokémon brand and name. This game is intended to be free for
-	all to access, now and forever.
+	all to access, now and forever - along with all of the original materials featured in this game.
 	
 If you obtained this game and/or its files by directly paying the file holder, a website, an individual, or other source any sort of money
-	or transactional good, such transaction was made illegally and violates the rights of the Pokémon license holders, RPGMaker's developers, and
-	the developers of this game. Please request an immediate refund, contact your nation's authorities, and contact the developers of 
-	Pokémon: Battle Bonds. You are fully within your rights to deny a legitimate purchase was made if you acquired this game as a "product" and spent 
-	money or some other form of currency to obtain it.
+	or transactional good, such transaction was made illegally and violates the legal boundaries of the Pokémon license holders, RPGMaker's developers, 
+	and the developers of this game. Please request an immediate refund, contact the relevant authorities of the platform you spent money on, and 
+	contact the developers of Pokémon: Battle Bonds. You are fully within your rights to deny a legitimate purchase was made if you acquired this game 
+	as a "product" and spent money or some other form of currency to obtain it.
 
 Please respect the well-wishes of this game, its developers, and the Pokémon fan game community by not involving yourself or others in such illegal
 	monetary behaviors and actions. These actions have the potential to damage communities, the RPGMaker brand, and the Pokémon brand, and are not
@@ -39,18 +39,25 @@ CONTENT CREATION
 ---
 
 
-We give full authority for all creators to make content about/on "Pokémon: Battle Bonds." However, when creating content, we request all content
-	creators follow the below terms:
+We give full authority for all "content creators" to make content about/on "Pokémon: Battle Bonds." 
+However, when creating content, we request all content creators follow the below terms:
 	
-	1. Content created about "Pokémon: Battle Bonds" cannot contain any insensitive material including slurs, derogatory terminology, or hate speech.
+	1. Articles, reports, and other news-related media cannot publish works on this game without prior approval from Team Tri Attack.
+		This request is made solely for the purposes of accessibility and shareability. "Mainstream" and video games journalism attention will bring
+		undue media attention to our project in a manner that we are not actively seeking out, and will alert lawyers to our game in ways that the 
+		development team is, as with any fan game, unprepared to face.
+		This request is made with no ill-will, but instead the goal of our game persisting as long as possible and with accessibility to everyone.
+		We hope you understand.
 	
-	2. Content created about "Pokémon: Battle Bonds" cannot be used to harm other creators, individuals, or images of others.
+	2. Content created about "Pokémon: Battle Bonds" cannot contain any insensitive material including slurs, derogatory terminology, or hate speech.
 	
-	3. Content with "Pokémon: Battle Bonds" imagery in thumbnails or promotional items cannot misrepresent the contents of the game, mislead players
+	3. Content created about "Pokémon: Battle Bonds" cannot be used to harm other creators, individuals, or images of others.
+	
+	4. Content with "Pokémon: Battle Bonds" imagery in thumbnails or promotional items cannot misrepresent the contents of the game, mislead players
 		into information about the game that is false, or attempt to convince players to purchase materials related to the game, as no
 		merchandising or monetary acquisition of the game is authorized under any circumstances.
 	
-	4. Content with "Pokémon: Battle Bonds" imagery in thumbnails or promotional items cannot contain "Not Safe For Work" imagery including suggestions
+	5. Content with "Pokémon: Battle Bonds" imagery in thumbnails or promotional items cannot contain "Not Safe For Work" imagery including suggestions
 		to or presence of pornography, nudity, endangerment, child abuse, drug consumption and/or paraphernalia, and other common "Not Safe For Work"
 		categories and subject matters. If you need to ask "is this not safe for work?" then it probably is. (Pro-LGBTQ+ content does not apply to NSFW)
 		
