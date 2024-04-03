@@ -18223,7 +18223,7 @@ Evolutions = SLIGGOO,Level,40
 #-------------------------------X29
 [SLIGGOO]
 Name = Sliggoo
-FormName = Ileasi
+FormName = Hisuian
 Types = DRAGON,STEEL
 BaseStats = 68,75,53,60,83,113
 GenderRatio = Female50Percent
@@ -18250,7 +18250,7 @@ Evolutions = GOODRA,LevelRain,50
 #-------------------------------X30
 [GOODRA]
 Name = Goodra
-FormName = Ileasi
+FormName = Hisuian
 Types = DRAGON,STEEL
 BaseStats = 90,100,70,80,110,150
 GenderRatio = Female50Percent
