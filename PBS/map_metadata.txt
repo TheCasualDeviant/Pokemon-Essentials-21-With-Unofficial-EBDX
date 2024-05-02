@@ -104,6 +104,10 @@ MapSize = 1,11
 #-------------------------------
 [022]   # Zone Zero - The Valley of Dragons
 Name = Zone Zero
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -154,6 +158,13 @@ ShowArea = true
 MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
+#-------------------------------
+[032]   # Scale Tunnel
+Name = Scale Tunnel
+ShowArea = true
+Bicycle = true
+BattleBack = DARKCAVE
+Environment = Cave
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
