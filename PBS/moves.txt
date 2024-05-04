@@ -9242,7 +9242,7 @@ TotalPP = 10
 Target = User
 FunctionCode = BypassAllTypeImmunities
 Flags = CanProtect,CanMirrorMove
-Description = TEMP
+Description = The user establishes the field as its domain, bypassing defensive type immunities for 4 turns.
 #-------------------------------
 [FSTARCOMBO]
 Name = 5-Star Combo
@@ -9253,7 +9253,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
-Description = TEMP
+Description = The user unleashes a fury of 2-5 punches that utilize its Special Defense for attack power.
 #-------------------------------
 [ASSIMILATE]
 Name = Assimilate
@@ -9264,7 +9264,7 @@ Accuracy = 100
 TotalPP = 1
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
-Description = TEMP
+Description = Anything on the field will be forced to transform into the user in 3 turns unless they flee.
 #-------------------------------
 [GLAZEICE]
 Name = Glaze Ice
@@ -9277,7 +9277,7 @@ Target = BothSides
 Priority = 6
 FunctionCode = TrapAllBattlersInBattleDuringSameTurn
 Flags = CannotMetronome
-Description = TEMP
+Description = The user spreads a thin ice layer that disrupts all switching and swapping for one turn.
 #-------------------------------
 [LEGENDARYROAR]
 Name = Legendary Roar
@@ -9289,7 +9289,7 @@ TotalPP = 10
 Target = AllNearOthers
 FunctionCode = SwitchOutAllExceptUser
 Flags = Sound
-Description = TEMP
+Description = The user charges a mighty roar that forces out all other Pokémon on the next turn.
 #-------------------------------
 [HOARFROST]
 Name = Hoarfrost
@@ -9300,7 +9300,7 @@ Accuracy = 100
 TotalPP = 10
 Target = User
 FunctionCode = HealUserDependingOnHailWeather
-Description = TEMP
+Description = The user recuperates its health using the bitter cold. Will recover more in a Snowstorm.
 #-------------------------------
 [TRAILBLAZE]
 Name = Trailblaze
