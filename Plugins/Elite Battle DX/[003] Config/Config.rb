@@ -7,7 +7,7 @@
 module EliteBattle
 
   # Waiting period (in seconds) before battle "camera" starts moving
-  BATTLE_MOTION_TIMER = 90
+  BATTLE_MOTION_TIMER = 20
 
   # used to scale the trainer bitmaps (front sprites) to 200%
   TRAINER_SPRITE_SCALE = 1
@@ -19,7 +19,7 @@ module EliteBattle
   BACK_SPRITE_SCALE = 2
 
   # configures the scale of the room to account for the vector motion
-  ROOM_SCALE = 2.25
+  ROOM_SCALE = 2.00
 
   # set this to true to use the low HP bgm when player's Pokemon HP reaches 25%
   USE_LOW_HP_BGM = false

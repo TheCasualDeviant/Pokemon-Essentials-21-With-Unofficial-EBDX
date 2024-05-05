@@ -5,4 +5,4 @@ WINTER
     BattleEnv   = SNOW
 #-------------------------------
 [032]
-BattleEnv       = CAVE
+BattleEnv       = DARKCAVE

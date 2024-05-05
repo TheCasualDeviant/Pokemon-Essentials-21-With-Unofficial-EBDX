@@ -163,7 +163,7 @@ MapSize = 2,1101
 Name = Scale Tunnel
 ShowArea = true
 Bicycle = true
-BattleBack = DARKCAVE
+BattleBack = cave1
 Environment = Cave
 #-------------------------------
 [034]   # Ice Cave
