@@ -197,8 +197,8 @@ Rearranged by _
 
 20 - STAY SAFE, HON!
 Theme of "Pokémon Center"
-From Pokémon Colosseum, used at Pokémon Centers
-Reformatted in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+From Fossil Fighters Champions
+Rearranged in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
 21 - A QUAINT, NEW TOWN
 Theme of "Whitecliff Village"
@@ -412,7 +412,7 @@ Stereo mix created by BedrockSolid, metadata looping added by Fossilized_Nerd (g
 61 - THIS IS YOUR MOMENT
 Theme of "VS Chairman Gene / VS The Elite Four"
 From Pokémon Trading Card Game (GB), used as the VS Club Master theme
-Rearranged by _
+Rearranged by IsabelleChiming (thanks for taking our commission!)
 
 62 - ALMOST THERE!
 Theme of "Victory Lies Before You"
