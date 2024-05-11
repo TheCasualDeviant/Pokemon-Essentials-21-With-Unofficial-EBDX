@@ -20,15 +20,19 @@ FEATURES
 
 -A full roster of Double Battle-focused trainers
 
--The fully-original Ileas region, inspired by several different places of the real-world and the world of Pokémon
+-The fully-original Ileas region, inspired by several different places of the real-world and the world of Pokémon, 
+	such as:
+	Kanto, Johto, Orre, Hoenn, Unova, Paldea, Vivosaur Island, the world of Pokémon Mystery Dungeon
+	Philadelphia, New York City, Nevada, Iceland, Scotland, England, Spain, Chicago, Baltimore, the Appalachian Mountains
 
--Open-ended exploration, including:
-	Wide "routes" designed in a similar manner to the Wild Area, most comparable in size to Safari Zones
-	Towns that you can adventure to at any time you want (you might wander into a place that is too strong for you!)
+-Pseudo open-ended exploration, including:
+	Wide "routes" designed in a similar manner to the Wild Area, most comparable in size to Safari Zones & called "Zones"
+	Towns that you can adventure to at almost any time you want (you might wander into a place that is too strong for you!)
 	A cab service that connects all major settlements in the region
 	
 -250 region-local Pokémon to capture & continuous rewards for Dex Completion
 -30 additional Pokémon you can obtain before the end of the main campaign - these do not count towards completion
+-Brand-new animated sprites for several post-DS Pokémon provided by a talented lineup of artists
 
 -7 Gyms, specializing in 2 types each, for a total of 14 type-specialized Gym Leaders
 	These Gyms can be approached in a pseudo-linear order of your choosing: 1 or 2, then 3 or 4, then 5 or 6, then 7.
@@ -36,15 +40,16 @@ FEATURES
 -"Skills" replace HMs and can be obtained from clearing a Pokémon Gym, allowing continuous reasons to return to
 	each area you previously visited or passed-through for access to more Pokémon and items
 	
--Adjustments to the Ice, Water, Bug, Fairy, Rock, and Poison types
+-Adjustments to the Ice, Water, Bug, Fairy, Rock, and Poison types (Ice, Bug, Rock, and Poison are all improvements)
 -Frostbite from Pokémon Legends Arceus and Snow from Pokémon Scarlet and Violet
+-New items to coincide with the addition of Frostbite & some new healing items
 
--100 hand-selected TMs to aid in Double Battling
+-100 hand-selected TMs and Tutor Moves to aid in Double Battling
 -Over 40 brand-new moves to use in battle
 -Extensive Move Tutors that can easily be redeemed with Battle Points (1 earned for EVERY battle)
 
--Buffs for nearly every Pokémon obtainable in the game with the goal of making all Pokémon at least fun to use
--New abilities on older Pokémon and adjustments to "less useful" abilities to make them more viable
+-Buffs for nearly every Pokémon obtainable in the game (with the goal of making all Pokémon at least fun to use)
+-New abilities on older Pokémon and adjustments to "less useful" abilities to make them more viable and/or fun
 
 -Customizable Pokémon attributes including:
 	Manually-allocated Effort Values (EVs)
@@ -60,8 +65,8 @@ FEATURES
 	Young adulthood and family ties
 	Self-worth and life direction
 	
--A soundtrack featuring dozens of iconic songs from previous Pokémon titles, spinoffs, and other series' games,
-	plenty of which are now using a Black 2 & White 2 Soundfont
+-A soundtrack featuring dozens of reorchestations of previous Pokémon titles, spinoffs, and other series' games,
+	all of which are now using a Black 2 & White 2 Soundfont to make them sound like Generation 5's music
 -The wonderful musical talents of numerous Pokémon & Game Musicians from across the internet
 
 -A fully-optional town with tons of extra sidequests to unlock permanent features including:
@@ -78,7 +83,7 @@ FEATURES
 	Rematches against the Pokémon League with [REDACTED] changes
 	An "ultimate fight" against [REDACTED]
 	
-	Oh, come on, we're not going to spoil the postgame story! That'd be ridiculous!
+	Oh, come on, we're not going to spoil the postgame story! That would be ridiculous!
 	
 
 ---
@@ -91,9 +96,11 @@ SOUNDTRACK
 Below is the full soundtrack, including all composers, songs of origin, and connecting themes in the game.
 Do NOT READ THIS PART if you are avoiding spoilers!
 
-Note: tracks are mostly included in-order of appearance in the game, but some are not. Also, all standard
-	trainer encounter music is taken from Pokémon Black and White, ripped by ENLS as part of their 
-	Pre-Looped Library.
+Note: tracks are *mostly* included in-order of appearance in the game. Also, all standard trainer encounter 
+	music is taken from Pokémon Black and White, ripped by ENLS as part of their Pre-Looped Library.
+	Items that are "reformatted" barely received changes and were essentially copy/pasted with a new set of
+	instruments.
+	Items that are "reorchestrated" had instruments heavily altered, tempo/pitch adjusted, and more.
 	
 
 01 - CONGRATULATIONS!
@@ -111,17 +118,20 @@ Reformatted in the Pokémon Black and White 2 soundfont by Fossilized_Nerd using
 03 - I'VE GOT THIS!
 Theme of "VS Battle Brigade / Rival"
 From Pokémon Trading Card Game (GB), used as Ronald's Theme
-Rearranged by Pascal Van Den Bos in Generation 5 style (thanks for taking our commission!)
+Rearranged by Pascal Van Den Bos in Generation 5 style 
+(thanks for taking our commission!)
 
 04 - ILEAS STYLE!
 Theme of "VS Trainer"
 From Pokémon Trading Card Game (GB), used as the theme of VS Player/Trainer
-Rearranged by Zame_It in Generation 5 style (thanks for taking our commission!)
+Rearranged by Zame_It in Generation 5 style 
+(thanks for taking our commission!)
 
 05 - BUCKLE IN!
 Theme of "VS Wild Pokémon"
 From Pokémon XD Gale of Darkness, used as the theme of VS Trainer
-Composed by LaunchpadVGM (thanks for taking our commission!)
+Composed by LaunchpadVGM 
+(thanks for taking our commission!)
 
 06 - A BRIEF SIDE ROUTE
 Theme of "Powdered Trail"
@@ -412,7 +422,8 @@ Stereo mix created by BedrockSolid, metadata looping added by Fossilized_Nerd (g
 61 - THIS IS YOUR MOMENT
 Theme of "VS Chairman Gene / VS The Elite Four"
 From Pokémon Trading Card Game (GB), used as the VS Club Master theme
-Rearranged by IsabelleChiming (thanks for taking our commission!)
+Rearranged by IsabelleChiming 
+(thanks for taking our commission!)
 
 62 - ALMOST THERE!
 Theme of "Victory Lies Before You"
@@ -533,6 +544,7 @@ Theme of The Item Factory
 From Pokémon Mystery Dungeon: Explorers, used at Craggy Coast
 Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
 
+
 ---
 x
 ---
@@ -564,23 +576,70 @@ MUSICAL ASSOCIATE
 PhotonAqua
 
 
-MUSIC COMMISSIONS [See the soundtrack section for details on each]
-Toby "Snowy Fox" Wilkinson
+MUSIC AND COMMISSIONS [See the soundtrack section for details on each]
+Fossilized_Nerd - numerous
+Toby "Snowy Fox" Wilkinson - numerous
+PhotonAqua - numerous
 Zame_It - VS Trainer
 Pascal van den Bos - VS Battle Brigade
+LaunchpadVGM - VS Wild Pokémon
+IsabelleChiming - VS Leaguemaster
 
 
-THE POKEMON ESSENTIALS TEAM
+THE POKEMON ESSENTIALS TEAM - v21.1 & hotfixes
 Maruno
 -teamhere-
 
 
 PLUGINS & CREATORS
--pluginshere-
+EliteBattleDX + "Unofficial Port"
+Luka S.J.
+Maruno
+Marin
+Pokecheck.org
+PinkCatDragon
+Tebited15
+BadSamaritan
+WolfPP
+redblueyellow
+Damien
+Issei Hyoudou
+Nasasu
+luckygirl88
+NikDie
+Manurocker95
+
+Encounter List UI
+ThatWelshOne_
+raZ
+Marin
+Maruno
+Nuri Yuri
+PurpleZaffre
+Savordez
+Vendily
+
+Generation 9 Pack Scripts
+Caruban
+
+Luka's Scripting Utilities
+Luka S.J.
+
+Modern Quest System + UI
+ThatWelshOne_
+mej71
+derFischae
+Marin
+
+Mr. Gela's HGSS Trainer Card "Port"
+Mr.Gela
+DeepBlue
+PacificWaves
 
 
 ARTWORK - TILES / OVERWORLD
 Ekat's Public Gen 3 Tileset - Featuring the works of the following artists:
+Thank you all for such a wonderful public resource!
 Ekat
 Heartless Dragoon
 Morlockhater
@@ -605,9 +664,8 @@ Aveontrainer
 Idillio
 Dasani
 Shyin
-Thank you all for such a wonderful public resource!
 
-Modified "Valley of Dragons" tileset edited/assembled by Fossilized_Nerd with various Ekat tilesets
+Tileset modifications created by Fossilized_Nerd
 
 
 THE MUSICAL TALENTS BEHIND THE FOLLOWING WORKS:
@@ -631,6 +689,12 @@ Fire Emblem: Shin Monshou no Nazo ~ Hikari to Kage no Eiyuu (AKA "New Mystery of
 Ghost Trick: Phantom Detective
 Super Mario RPG: Legend of the Seven Stars
 
+THE CREATIVE INDIVIDUALS WHO WERE RESPONSIBLE FOR THE FOLLOWING CHARACTERS:
+Juan
+Lenora
+Volkner
+Colress
+All Pokémon from Generations 1-9
 
 
 
