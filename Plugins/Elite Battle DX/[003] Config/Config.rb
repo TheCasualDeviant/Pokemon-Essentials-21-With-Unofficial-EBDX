@@ -7,7 +7,7 @@
 module EliteBattle
 
   # Waiting period (in seconds) before battle "camera" starts moving
-  BATTLE_MOTION_TIMER = 20
+  BATTLE_MOTION_TIMER = 90
 
   # used to scale the trainer bitmaps (front sprites) to 200%
   TRAINER_SPRITE_SCALE = 1
@@ -19,7 +19,7 @@ module EliteBattle
   BACK_SPRITE_SCALE = 2
 
   # configures the scale of the room to account for the vector motion
-  ROOM_SCALE = 2.00
+  ROOM_SCALE = 2.25
 
   # set this to true to use the low HP bgm when player's Pokemon HP reaches 25%
   USE_LOW_HP_BGM = false
@@ -75,11 +75,20 @@ module EliteBattle
   # ZUD plugins clear cached data so EBDX gets stuck. Setting this to true skips the cache and directly loads the game.
   SKIP_CACHED_DATA = false
 
-  # In 21.1 coroutines need to be used and setting this option makes a bottleneck = "lag"
-  USE_EBDX_INITIAL_TRANSITION = false
-
   #if set to false, pokemon_metrics.txt is checked first (default Essentials file). If not, that file is skipped.
   FORCE_EBDX_ALTITUDE = true
+
+  #if set to false, the original "frame system" is used instead of the new deltaTime. The "original" has a hotfix as well based on waiting frames.
+  USE_DELTA_TIME_HOTFIX = true
+
+  #Target framerate to check the current Graphics.frame_rate. Duration for pbWait is calculated by frames / current fps and the multiplier by current fps / target rate. 60/60 = 1 so mult doesn't apply.
+  DEFAULT_FRAMERATE = 60
+
+  # Apply extra offsets based to pbShowOpponent and pbHideOpponent (still in test).
+  USE_TRAINER_OUT_OF_PLACE_HOTFIX = false
+
+  # If true, it always check the species count in GameData. If the full count is detected to be less than expected, it reinitilize the pokemon species list.
+  TRY_TO_ALWAYS_INITIALIZE = true
 end
 #-------------------------------------------------------------------------------
 # Adds additional "camera" vectors for when the camera is idling

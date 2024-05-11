@@ -58,8 +58,9 @@ class PokemonEggHatch_Scene
     @viewport.color = Color.new(0,0,0,0)
     # initial fading transition
     16.times do
-      @viewport.color.alpha += 16
-      pbWait(1)
+      pbWait(0.01) do |delta_t|
+        @viewport.color.alpha += 16
+      end 
     end
     # initializes bars for cutting the screen off
     @sprites["bar1"] = Sprite.new(@viewport)
@@ -260,10 +261,33 @@ class PokemonEggHatch_Scene
   #-----------------------------------------------------------------------------
   # frame wait function
   #-----------------------------------------------------------------------------
-  def wait(frames = 1)
+  def wait_old(frames = 1)
     frames.times do
       Graphics.update
       self.update
+    end
+  end
+  
+  def wait(frames = 1)
+    mult = Graphics.frame_rate/EliteBattle::DEFAULT_FRAMERATE 
+    frames = frames * mult
+    if EliteBattle::USE_DELTA_TIME_HOTFIX
+      duration = frames / Graphics.frame_rate
+      duration = 0.01 if duration <= 0
+      pbWaitFix(duration) do |deltaTime|
+        # do sth
+        self.update
+        Graphics.update
+     end 
+    else
+      wait_old(frames)
+    end
+  end
+
+  def pbWaitFix(duration)
+    timer_start = System.uptime
+    until System.uptime - timer_start >= duration
+      yield System.uptime - timer_start if block_given?
     end
   end
   #-----------------------------------------------------------------------------
@@ -277,8 +301,9 @@ class PokemonEggHatch_Scene
     end
     pbDisposeSpriteHash(@sprites)
     16.times do
-      @viewport.color.alpha -= 16
-      pbWait(1)
+      pbWait(0.01) do |delta_t|
+        @viewport.color.alpha -= 16
+      end 
     end
     @viewport.dispose
   end

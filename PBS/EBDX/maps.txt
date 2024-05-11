@@ -3,6 +3,3 @@
 BattleEnv       = MOUNTAIN
 WINTER
     BattleEnv   = SNOW
-#-------------------------------
-[032]
-BattleEnv       = DARKCAVE
