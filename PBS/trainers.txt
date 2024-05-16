@@ -23,6 +23,36 @@ Pokemon = ONIX,14
     Shiny = true
     Ball = HEAVYBALL
 #-------------------------------
+[CAMPER,Shuckle Master]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Shuckle lmao.
+Pokemon = SHUCKLE,100
+    Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
+    AbilityIndex = 0
+	Item = LEFTOVERS
+    Gender = male
+    IV = 20,20,20,20,20,20
+	Shiny = true
+Pokemon = SHUCKLE,100
+    Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    Gender = female
+    IV = 20,20,20,20,20,20
+    Shiny = true
+Pokemon = SHUCKLE,100
+    Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
+    AbilityIndex = 0
+	Item = LEFTOVERS
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = SHUCKLE,100
+    Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
+    AbilityIndex = 0
+	Item = LEFTOVERS
+    Gender = female
+    IV = 20,20,20,20,20,20
+#-------------------------------
 [LEADER_SaigeLudger,Saige and 'Long John' Ludger]
 Items = FULLRESTORE,FULLRESTORE
 LoseText = Very good.
