@@ -1,6 +1,7 @@
-...
+#============================================================================================================================
 PROJECT: BATTLE BONDS
 FEATURES DOCUMENT
+#============================================================================================================================
 
 Below is a list encompassing all features included in Project: Battle Bonds.
 This does NOT include Pokémon adjustments and balance changes. Please seek out the CHANGELOG document for
@@ -11,10 +12,10 @@ Below the Features list is our full Soundtrack list. Do not read all of the soun
 	avoiding story spoilers!
 	
 Credits are also included beneath the Soundtrack. This is a 1:1 copy of what you will find in the game's credits.
-...
 
-
-FEATURES
+#============================================================================================================================
+# FEATURES
+#============================================================================================================================
 
 -Approximate _ _ hours of "main-campaign" playtime
 
@@ -84,14 +85,13 @@ FEATURES
 	An "ultimate fight" against [REDACTED]
 	
 	Oh, come on, we're not going to spoil the postgame story! That would be ridiculous!
-	
-
----
-x
----
+#============================================================================================================================
 
 
-SOUNDTRACK
+
+#============================================================================================================================
+# SOUNDTRACK
+#============================================================================================================================
 
 Below is the full soundtrack, including all composers, songs of origin, and connecting themes in the game.
 Do NOT READ THIS PART if you are avoiding spoilers!
@@ -543,16 +543,15 @@ Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd 
 Theme of The Item Factory
 From Pokémon Mystery Dungeon: Explorers, used at Craggy Coast
 Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd using MIDI & Synthfont
+#============================================================================================================================
 
 
----
-x
----
 
+#============================================================================================================================
+# CREDITS
+#============================================================================================================================
 
-CREDITS
-
-ALL RIGHTS OF Pokémon, ITS CREATURES, AND THE SPRITE WORK FEATURED IN Pokémon Black 2 and Pokémon White 2 BELONG
+ALL RIGHTS OF Pokémon, ITS CREATURES, AND THE ART/SPRITE WORK FEATURED IN Pokémon Black 2 and Pokémon White 2 BELONG
 EXCLUSIVELY TO THE Pokémon Company, Gamefreak, Nintendo, CreaturesLTD, AND OTHER RELATED CORPORATIONS AND INDIVIDUALS.
 PLEASE SUPPORT THE OFFICIAL RELEASE.
 
@@ -665,7 +664,11 @@ Idillio
 Dasani
 Shyin
 
-Tileset modifications created by Fossilized_Nerd
+GBA Snow Tileset - CinnaYva
+
+Scizor User's Sewer Tileset - Scizor User
+
+Tileset modifications and arrangements created by Fossilized_Nerd
 
 
 THE MUSICAL TALENTS BEHIND THE FOLLOWING WORKS:
