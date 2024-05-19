@@ -249,6 +249,14 @@ BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
 #-------------------------------
+[048]   # Dustington
+Name = Dustington
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 48,39,28
+Weather = Snow,100
+#-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
 Bicycle = true
