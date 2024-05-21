@@ -418,3 +418,12 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[078]   # Powdered Trail
+Name = Powdered Trail
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+BattleBack = 
+Environment = Snow
