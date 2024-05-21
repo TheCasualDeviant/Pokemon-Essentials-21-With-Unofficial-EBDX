@@ -162,3 +162,8 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = Good test.
+Pokemon = BULBASAUR, 1
+Pokemon = SQUIRTLE, 2

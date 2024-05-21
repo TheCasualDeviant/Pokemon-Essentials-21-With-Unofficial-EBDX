@@ -404,5 +404,5 @@ VictoryBGM = Battle victory leader
 Name = Champion
 Gender = Male
 BaseMoney = 100
-BattleBGM = Battle Champion
+BattleBGM = CMNEW-LOOP
 VictoryBGM = Battle victory leader
