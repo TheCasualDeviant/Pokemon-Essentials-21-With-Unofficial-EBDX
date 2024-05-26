@@ -637,7 +637,7 @@ PacificWaves
 
 
 ARTWORK - TILES / OVERWORLD
-Ekat's Public Gen 3 Tileset - Featuring the works of the following artists:
+Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
 Thank you all for such a wonderful public resource!
 Ekat
 Heartless Dragoon
@@ -663,6 +663,8 @@ Aveontrainer
 Idillio
 Dasani
 Shyin
+
+Ekat's additional works not included in the Public Tileset collection (Skyscraper)
 
 GBA Snow Tileset - CinnaYva
 
