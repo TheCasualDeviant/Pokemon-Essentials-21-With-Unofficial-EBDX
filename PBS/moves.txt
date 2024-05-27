@@ -9263,8 +9263,8 @@ Category = Status
 Power = 0
 Accuracy = 100
 TotalPP = 5
-Target = NearOther
-Flags = Contact,CanProtect,CanMirrorMove
+Target = AllNearOthers
+FunctionCode = StartAssimilateCountsForAllBattlers
 Description = Anything on the field will be forced to transform into the user in 3 turns unless they flee.
 #-------------------------------
 [GLAZEICE]
