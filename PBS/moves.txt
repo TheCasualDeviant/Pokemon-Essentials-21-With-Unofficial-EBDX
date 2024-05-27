@@ -9250,9 +9250,10 @@ Type = BUG
 Category = Physical
 Power = 25
 Accuracy = 100
-TotalPP = 1
+TotalPP = 15
 Target = NearOther
-Flags = Contact,CanProtect,CanMirrorMove
+FunctionCode = HitTwoToFiveTimesUseSpDefStat
+Flags = Contact,CanProtect,CanMirrorMove,Punching
 Description = The user unleashes a fury of 2-5 punches that utilize its Special Defense for attack power.
 #-------------------------------
 [ASSIMILATE]
@@ -9261,7 +9262,7 @@ Type = PSYCHIC
 Category = Status
 Power = 0
 Accuracy = 100
-TotalPP = 1
+TotalPP = 5
 Target = NearOther
 Flags = Contact,CanProtect,CanMirrorMove
 Description = Anything on the field will be forced to transform into the user in 3 turns unless they flee.
