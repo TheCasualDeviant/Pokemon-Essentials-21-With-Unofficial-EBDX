@@ -715,10 +715,11 @@ class Battle::Move::SwitchOutUserStartHailWeather < Battle::Move::StartHailWeath
   
   def pbEndOfMoveUsageEffect(user, targets, numHits, switchedBattlers)
     return if user.fainted? || numHits == 0
-	return if @battle.field.effects[PBEffects::GlazeIce] > 0
+	return if @battle.field.effects[PBEffects::GlazeIce] > 0 && !user.hasActiveAbility?(:LIMBER)
     return if !@battle.pbCanChooseNonActive?(user.index)
     @battle.pbDisplay(_INTL("{1} went back to {2}!", user.pbThis, @battle.pbGetOwnerName(user.index)))
     @battle.pbPursuit(user.index)
+	@battle.pbGlazeIce(user.index)
     return if user.fainted? 
     newPkmn = @battle.pbGetReplacementPokemonIndex(user.index)
     return if newPkmn < 0
@@ -765,10 +766,11 @@ class Battle::Move::UserMakeSubstituteSwitchOut < Battle::Move
 
   def pbEndOfMoveUsageEffect(user, targets, numHits, switchedBattlers)
     return if user.fainted? || numHits == 0
-	return if @battle.field.effects[PBEffects::GlazeIce] > 0
+	return if @battle.field.effects[PBEffects::GlazeIce] > 0 && !user.hasActiveAbility?(:LIMBER)
     return if !@battle.pbCanChooseNonActive?(user.index)
     @battle.pbDisplay(_INTL("{1} went back to {2}!", user.pbThis, @battle.pbGetOwnerName(user.index)))
     @battle.pbPursuit(user.index)
+	@battle.pbGlazeIce(user.index)
     oldSub = user.effects[PBEffects::Substitute]
     return if user.fainted?
     newPkmn = @battle.pbGetReplacementPokemonIndex(user.index)
