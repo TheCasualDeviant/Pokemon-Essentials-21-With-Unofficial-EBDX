@@ -7822,7 +7822,7 @@ Evolutions = HARIYAMA,Level,24
 [HARIYAMA]
 Name = Hariyama
 Types = FIGHTING
-BaseStats = 144,120,60,50,40,60
+BaseStats = 144,120,60,50,40,75
 GenderRatio = Female25Percent
 GrowthRate = Fluctuating
 BaseExp = 166
