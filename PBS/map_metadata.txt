@@ -425,5 +425,11 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Snow,100
+Environment = Snow
+#-------------------------------
+[079]   # Powdered Cave F1
+Name = Powdered Cave
+ShowArea = true
+MapPosition = 0,2,12
 BattleBack = 
 Environment = Snow
