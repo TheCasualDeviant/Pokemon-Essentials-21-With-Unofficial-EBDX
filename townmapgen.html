@@ -1,10 +1,10 @@
 <body>
 <div id="map">
-  <img name="map" src="Graphics/Pictures/mapRegion0.png" alt="" width="480" height="320"/>
+  <img name="map" src="Graphics/UI/Town Map/Regions/mapRegion0.png" alt=""/>
 </div>
 <form name="mf" action="javascript:void(null)">
   <div>
-    Map Filename (in Graphics/Pictures/): <input type="text" name="filename" value="mapRegion0.png"/>&nbsp;
+    Map Filename (in Graphics/UI/Town Map): <input type="text" name="filename" value="mapRegion0.png"/>&nbsp;
     <input type="button" name="btnChange" value="Change"/><br/ >
     Square width: <input type="text" name="sqwidth" size="4" min="1" max="16" value="16"/>&nbsp;
     Square height: <input type="text" name="sqheight" size="4" min="1" max="16" value="16"/>&nbsp;
@@ -18,24 +18,28 @@
   <table>
     <tr>
       <td>Current Position:</td>
-	  <td><input type="text" name="curpos" readonly="readonly"/></td>
-	</tr>
+	    <td><input type="text" name="curpos" readonly="readonly" title="The Current Position being hovered over or selected is displayed here."/></td>
+	  </tr>
     <tr>
       <td>Name:</td>
-	  <td><input type="text" name="locname"/><td>
-	</tr>
+	    <td><input type="text" name="locname" title="The name of the Location"/><td>
+	  </tr>
     <tr>
       <td>Point of Interest:</td>
-	  <td><input type="text" name="poi"/><td>
-	</tr>
+	    <td><input type="text" name="poi" title=""/><td>
+	  </tr>
     <tr>
       <td>Fly Destination:</td>
-	  <td><input type="text" name="healing"/><td>
-	</tr>
+	    <td><input type="text" name="healing" title="Format: Map ID, X Position, Y Position"/><td>
+	  </tr>
     <tr>
       <td>Switch:</td>
-	  <td><input type="text" name="swtch"/><td>
-	</tr>
+	    <td><input type="text" name="swtch" title="The Game Switch ID"/><td>
+	  </tr>
+    <tr>
+      <td>Image Name:</td>
+      <td><input type="text" name="image" title="Enter the name of the Location's Image located in Town Map/Highlights and Town Map/Unvisited (The name should be the same for both images)."/></td>
+    </tr>
   </table>
   <div>
     <input type="button" name="btnSave" value="Save" disabled="disabled"/> 
@@ -117,20 +121,7 @@
   }
 
   function qstr(text){
-    var temp; 
-    temp = text.toString();
-    while (true){
-      if (temp == '') return text;
-      if (temp.indexOf("'") >= 0) break;
-      if (temp.indexOf('"') >= 0) break;
-      if (temp.indexOf(' ') >= 0) break;
-      if (temp.indexOf(',') >= 0) break;
-      return temp;
-    }
- //   temp = temp.replace(/\'/g,"''");
- //   temp = temp.replace(/\"/g,"\"\"");
-    return temp
- //   return "\"" + temp + "\"";
+    return text.toString();
   }
 
   function CsvNextToken(dataobj){
@@ -167,11 +158,11 @@
         value = value + c;
         continue;  
       }
-//      if ((c == '"') || (c == "'")){
-//        inside = true;
-//        q = c;
-//        continue;
-//      }
+      if ((c == '"') || (c == "'")){
+        inside = true;
+        q = c;
+        continue;
+      }
       if (c == ',') break;
       value = value + c;
     }
@@ -194,7 +185,7 @@
         }
         if(e[1]=="Filename"){
           o=document.getElementById("map")
-          o.innerHTML='<img name="map" src="Graphics/Pictures/'+e[2]+'" alt="" width="480" height="320"/'+'>' 
+          o.innerHTML='<img name="map" src="Graphics/UI/Town Map/Regions/'+e[2]+'" alt=""/'+'>'; 
         } else if(e[1]=="Name"){
           document.mf.name.value=e[2]
         } else if(e[1]=="Point"){
@@ -206,6 +197,7 @@
           mappt[3]=CsvNextToken(data)
           mappt[4]=[CsvNextToken(data),CsvNextToken(data),CsvNextToken(data)]
           mappt[5]=CsvNextToken(data)
+          mappt[6]=CsvNextToken(data)
           mappoints[mappoints.length]=mappt
         }
       }
@@ -241,25 +233,26 @@
     }
   }
 
-  function MapMouseMove(e){
-    if(choiceX==-1 && choiceY==-1){
-      elempos=elementPosObject(e,document.getElementById("map"))
-      if (elempos[0]>=0 && elempos[0]<480 && elempos[1]>=0 && elempos[1]<320){
-        setMapPoint(Math.floor(elempos[0]/document.mf.sqwidth.value),
-                    Math.floor(elempos[1]/document.mf.sqheight.value))
-      }
+  function MapMouseMove(e) {
+    if (choiceX === -1 && choiceY === -1) {
+      elempos = elementPosObject(e, document.getElementById("map"));
+      setMapPoint(
+        Math.floor(elempos[0] / document.mf.sqwidth.value),
+        Math.floor(elempos[1] / document.mf.sqheight.value)
+      );
     }
   }
 
-  function MapClick(e){
-    elempos=elementPosObject(e,document.getElementById("map"))
-    if(elempos[0]>=0 && elempos[0]<480 && elempos[1]>=0 && elempos[1]<320){
-      choiceX=Math.floor(elempos[0]/document.mf.sqwidth.value)
-      choiceY=Math.floor(elempos[1]/document.mf.sqheight.value)
-      setMapPoint(Math.floor(elempos[0]/document.mf.sqwidth.value),
-                  Math.floor(elempos[1]/document.mf.sqheight.value))
-      document.f.btnSave.disabled=false
-      showMapPoints()
+  function MapClick(e) {
+    elempos = elementPosObject(e, document.getElementById("map"));
+    var x = Math.floor(elempos[0] / document.mf.sqwidth.value);
+    var y = Math.floor(elempos[1] / document.mf.sqheight.value);
+    if (x >= 0 && x < document.images.map.width / document.mf.sqwidth.value && y >= 0 && y < document.images.map.height / document.mf.sqheight.value) {
+      choiceX = x;
+      choiceY = y;
+      setMapPoint(x, y);
+      document.f.btnSave.disabled = false;
+      showMapPoints();
     }
   }
 
@@ -283,7 +276,8 @@
            mappoints[i][4][0]!=null?mappoints[i][4][0]:"",
            mappoints[i][4][1]!=null?mappoints[i][4][1]:"",
            mappoints[i][4][2]!=null?mappoints[i][4][2]:"",
-           mappoints[i][5]]+"\r\n"
+           mappoints[i][5],
+           mappoints[i][6]!=null?mappoints[i][6]:""]+"\r\n"
     }
     document.f.data.value=ret
     showMapPoints()
@@ -297,6 +291,7 @@
         document.f.poi.value=mappoints[i][3]
         document.f.healing.value=mappoints[i][4]
         document.f.swtch.value=mappoints[i][5]
+        document.f.image.value=mappoints[i][6]
         return
       }
     }
@@ -304,6 +299,7 @@
     document.f.poi.value=""
     document.f.healing.value=""
     document.f.swtch.value=""
+    document.f.image.value=""
   }
 
   function addMapPoint(x,y){
@@ -313,6 +309,7 @@
         mappoints[i][3]=document.f.poi.value
         mappoints[i][4]=document.f.healing.value.split(",")
         mappoints[i][5]=document.f.swtch.value
+        mappoints[i][6]=document.f.image.value
         return
       }
     }
@@ -321,6 +318,7 @@
                                  document.f.poi.value,
                                  document.f.healing.value.split(","),
                                  document.f.swtch.value,
+                                 document.f.image.value
     ]
   }
 
@@ -356,7 +354,7 @@
       showMapPoints()
     })
     attachEvent(document.mf.btnChange,"click",function(e){
-      document.images.map.src="Graphics/Pictures/"+document.mf.filename.value
+      document.images.map.src="Graphics/UI/Town Map/Regions/"+document.mf.filename.value
       genMapPoints()
       showMapPoints()
     })

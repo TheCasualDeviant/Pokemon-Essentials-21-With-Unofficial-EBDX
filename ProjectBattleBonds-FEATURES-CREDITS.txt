@@ -551,8 +551,9 @@ Reorchestrated in the Pokémon Black 2 and White 2 soundfont by Fossilized_Nerd 
 # CREDITS
 #============================================================================================================================
 
-ALL RIGHTS OF Pokémon, ITS CREATURES, AND THE ART/SPRITE WORK FEATURED IN Pokémon Black 2 and Pokémon White 2 BELONG
-EXCLUSIVELY TO THE Pokémon Company, Gamefreak, Nintendo, CreaturesLTD, AND OTHER RELATED CORPORATIONS AND INDIVIDUALS.
+ALL RIGHTS OF Pokémon AND THE ART/SPRITE WORK FEATURED IN Pokémon Black 2 and Pokémon White 2 BELONG EXCLUSIVELY TO:
+The Pokémon Company International, Gamefreak, Nintendo, Creatures LTD, 
+AND OTHER RELATED CORPORATIONS AND INDIVIDUALS.
 PLEASE SUPPORT THE OFFICIAL RELEASE.
 
 ~~TEAM TRI ATTACK~~
@@ -568,30 +569,38 @@ Game "Feel"
 Feebelle
 
 CODEMASTER - Ruby, Game Engineering
-Game Balancer
+Game Balancer, "The Second Opinion"
 TheCasualDeviant
 
 MUSICAL ASSOCIATE
 PhotonAqua
 
+--------------------------------------------------------------------------
+# MUSIC AND COMMISSIONS [See the soundtrack section for details on each] #
+--------------------------------------------------------------------------
 
-MUSIC AND COMMISSIONS [See the soundtrack section for details on each]
 Fossilized_Nerd - numerous
 Toby "Snowy Fox" Wilkinson - numerous
 PhotonAqua - numerous
-Zame_It - VS Trainer
-Pascal van den Bos - VS Battle Brigade
-LaunchpadVGM - VS Wild Pokémon
-IsabelleChiming - VS Leaguemaster
+Zame_It - "VS Trainer"
+Pascal van den Bos - "VS Battle Brigade"
+LaunchpadVGM - "VS Wild Pokémon"
+IsabelleChiming - "VS Leaguemaster"
 
 
-THE POKEMON ESSENTIALS TEAM - v21.1 & hotfixes
+---------------------------------------------------
+# THE POKEMON ESSENTIALS TEAM - v21.1 & hotfixes  #
+---------------------------------------------------
+
 Maruno
 -teamhere-
 
 
-PLUGINS & CREATORS
-EliteBattleDX + "Unofficial Port"
+----------------------
+# PLUGINS & CREATORS #
+----------------------
+
+>EliteBattleDX + "Unofficial Port"
 Luka S.J.
 Maruno
 Marin
@@ -608,7 +617,7 @@ luckygirl88
 NikDie
 Manurocker95
 
-Encounter List UI
+>Encounter List UI
 ThatWelshOne_
 raZ
 Marin
@@ -618,27 +627,36 @@ PurpleZaffre
 Savordez
 Vendily
 
-Generation 9 Pack Scripts
+>Generation 9 Pack Scripts
 Caruban
 
-Luka's Scripting Utilities
+>Luka's Scripting Utilities
 Luka S.J.
 
-Modern Quest System + UI
+>Modern Quest System + UI
 ThatWelshOne_
 mej71
 derFischae
 Marin
 
-Mr. Gela's HGSS Trainer Card "Port"
+>Mr. Gela's HGSS Trainer Card "Port"
 Mr.Gela
 DeepBlue
 PacificWaves
 
+>Arcky's Utilities, Region Map, and Poké Mart Script
+Arcky (and thank you SO much for the thorough Gitbooks, too!)
 
-ARTWORK - TILES / OVERWORLD
-Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
-Thank you all for such a wonderful public resource!
+>In-Depth Pokedex Data Page & Modular UI Scenes
+Ludicious89
+
+
+-------------------------------
+# ARTWORK - TILES / OVERWORLD #
+-------------------------------
+
+>Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
+>Thank you all for such a wonderful public resource!
 Ekat
 Heartless Dragoon
 Morlockhater
@@ -664,16 +682,22 @@ Idillio
 Dasani
 Shyin
 
-Ekat's additional works not included in the Public Tileset collection (Skyscraper)
+>Ekat's additional works not included in the Public Tileset collection (Skyscraper)
+Ekat
 
-GBA Snow Tileset - CinnaYva
+>GBA Snow Tileset
+CinnaYva
 
-Scizor User's Sewer Tileset - Scizor User
+>Scizor User's Sewer Tileset
+Scizor User
 
-Tileset modifications and arrangements created by Fossilized_Nerd
+>Additional Tileset modifications and arrangements created by:
+Fossilized_Nerd
 
 
-THE MUSICAL TALENTS BEHIND THE FOLLOWING WORKS:
+---------------------------------------------------
+# THE MUSICAL TALENTS BEHIND THE FOLLOWING WORKS: #
+---------------------------------------------------
 
 Pokémon Trading Card Game (GB)
 Pokémon Colosseum
@@ -694,7 +718,11 @@ Fire Emblem: Shin Monshou no Nazo ~ Hikari to Kage no Eiyuu (AKA "New Mystery of
 Ghost Trick: Phantom Detective
 Super Mario RPG: Legend of the Seven Stars
 
-THE CREATIVE INDIVIDUALS WHO WERE RESPONSIBLE FOR THE FOLLOWING CHARACTERS:
+
+-------------------------------------------------------------------------------
+# THE CREATIVE INDIVIDUALS WHO WERE RESPONSIBLE FOR THE FOLLOWING CHARACTERS: #
+-------------------------------------------------------------------------------
+
 Juan
 Lenora
 Volkner
