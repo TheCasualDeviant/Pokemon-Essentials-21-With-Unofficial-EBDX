@@ -870,6 +870,9 @@ Weight = 23.5
 Pokedex = Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.
 Generation = 6
 #-------------------------------
+[MAWILE,2]
+FormName = Mineral Skin
+#-------------------------------
 [AGGRON,1]
 FormName = Mega Aggron
 MegaStone = AGGRONITE
