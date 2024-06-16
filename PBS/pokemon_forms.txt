@@ -747,6 +747,9 @@ Weight = 62.5
 Pokedex = A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles.
 Generation = 6
 #-------------------------------
+[SNEASEL,2]
+FormName = Mineral Skin
+#-------------------------------
 [CORSOLA,1]
 FormName = Galarian
 Types = GHOST
