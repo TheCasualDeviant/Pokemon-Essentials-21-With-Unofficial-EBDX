@@ -1313,6 +1313,9 @@ FormName = Fairy Type
 Types = FAIRY
 Generation = 6
 #-------------------------------
+[SNIVY,1]
+FormName = Mineral Skin
+#-------------------------------
 [AUDINO,1]
 FormName = Mega Audino
 MegaStone = AUDINITE
