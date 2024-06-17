@@ -176,6 +176,9 @@ Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = SNOWBALL
 #-------------------------------
+[ZUBAT,1]
+FormName = Mineral Skin
+#-------------------------------
 [DIGLETT,1]
 FormName = Alolan
 Types = GROUND,STEEL
