@@ -11758,7 +11758,7 @@ Shape = BipedalTail
 Category = Emanation
 Pokedex = The nerves in Riolu's dark appendages on its head help it pick up emotions, desires, and energy from others. This is called Aura.
 Generation = 4
-Evolutions = LUCARIO,HappinessDay,
+Evolutions = LUCARIO,Item,DAWNSTONE
 #-------------------------------172
 [LUCARIO]
 Name = Lucario
