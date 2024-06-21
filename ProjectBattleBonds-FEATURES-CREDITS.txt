@@ -557,23 +557,21 @@ AND OTHER RELATED CORPORATIONS AND INDIVIDUALS.
 PLEASE SUPPORT THE OFFICIAL RELEASE.
 
 ~~TEAM TRI ATTACK~~
-Fossilized_Nerd
-Feebelle
-TheCasualDeviant
+	Feebelle
+	Fossilized_Nerd
+	TheCasualDeviant
 
 DIRECTOR - Design, Audio, Game Balance, Script, Concepts
-Fossilized_Nerd
+	Fossilized_Nerd
 
-DIRECTOR - Aesthetic Design, Character Design, Animation, New Cries
-Game "Feel"
-Feebelle
+DIRECTOR - Aesthetic Design, Character Design, Animation, New Cries, Game "Feel"
+	Feebelle
 
-CODEMASTER - Ruby, Game Engineering
-Game Balancer, "The Second Opinion"
-TheCasualDeviant
+CODEMASTER - Ruby, Game Engineering, Game Balancer, "The Second Opinion"
+	TheCasualDeviant
 
 MUSICAL ASSOCIATE
-PhotonAqua
+	PhotonAqua
 
 --------------------------------------------------------------------------
 # MUSIC AND COMMISSIONS [See the soundtrack section for details on each] #
@@ -600,55 +598,140 @@ Maruno
 # PLUGINS & CREATORS #
 ----------------------
 
->EliteBattleDX + "Unofficial Port"
-Luka S.J.
-Maruno
-Marin
-Pokecheck.org
-PinkCatDragon
-Tebited15
+# EliteBattleDX + "Unofficial Port"
+-----------------------------------
 BadSamaritan
-WolfPP
-redblueyellow
 Damien
 Issei Hyoudou
-Nasasu
 luckygirl88
-NikDie
+Luka S.J.
 Manurocker95
+Marin
+Maruno
+Nasasu
+NikDie
+PinkCatDragon
+Pokecheck.org
+redblueyellow
+Tebited15
+WolfPP
 
->Encounter List UI
-ThatWelshOne_
-raZ
+# Encounter List UI
+-------------------
 Marin
 Maruno
 Nuri Yuri
 PurpleZaffre
+raZ
 Savordez
+ThatWelshOne_
 Vendily
 
->Generation 9 Pack Scripts
+# Generation 9 Pack Scripts
+---------------------------
 Caruban
 
->Luka's Scripting Utilities
+# Luka's Scripting Utilities
+----------------------------
 Luka S.J.
 
->Modern Quest System + UI
-ThatWelshOne_
-mej71
+# Modern Quest System + UI
+--------------------------
 derFischae
 Marin
+mej71
+ThatWelshOne_
 
->Mr. Gela's HGSS Trainer Card "Port"
-Mr.Gela
+# Mr. Gela's HGSS Trainer Card "Port"
+-------------------------------------
 DeepBlue
+Mr.Gela
 PacificWaves
 
->Arcky's Utilities, Region Map, and Poké Mart Script
+# Arcky's Utilities, Region Map, and Poké Mart Script
+-----------------------------------------------------
 Arcky (and thank you SO much for the thorough Gitbooks, too!)
 
->In-Depth Pokedex Data Page & Modular UI Scenes
+# In-Depth Pokedex Data Page & Modular UI Scenes
+-----------------------------------------------
 Ludicious89
+
+# Following Pokemon EX
+----------------------
+Akizakura16
+Armin (Fairies Resource Pack)
+Chubbichu
+Golisopod User
+Help-14
+Maruno
+mej71
+PurpleZaffre
+Rayd12smitty
+Thundaga
+Venom12
+zingzags
+
+# Generation 8 Resource Pack
+----------------------------
+>Note: We did not use this plugin's Script or Battler Sprites as the project is in v21.1
+>All associated individuals are credited as "Other"
+
+Compiled by: 
+	Golisopod User
+	UberDunsparce
+
+Overworld Sprites: 
+	2and2makes5
+	Anarlaurendil
+	Chocosrawlooid
+	cSc-A7X
+	Fernandojl
+	Gallanty
+	Getsuei-H
+	Gizamimi-Pichu
+	help-14
+	kdiamo11
+	Kid1513
+	Kymoyonian
+	Kyt666
+	Larry Turbo
+	LunarDusk
+	Milomilotic11
+	MissingLukey
+	piphybuilder88
+	Pokegirl4ever
+	princess-pheonix
+	SageDeoxys
+	Silver-Skies
+	spritesstealer
+	Syledude
+	tammyclaydon
+	TintjeMadelintje101
+	TyranitarDark
+	Wolfang62
+	Zyon17
+
+Icons:
+	Alaguesia
+	harveydentmd
+	Larry Turbo
+	Leparagon
+	MapleBranchWing
+	Marin
+	StarrWolf
+	Contributors to the DS Styled Gen 7+ Repository
+	Pokemon Shattered Light Team
+
+Cries:
+	Marin
+	Rhyden
+	Zeak6464
+	
+Other:
+	Golisopod User
+	Luka S.J.
+	veekun
+	all contributors to the Smogon Sprite Project
 
 
 -------------------------------
