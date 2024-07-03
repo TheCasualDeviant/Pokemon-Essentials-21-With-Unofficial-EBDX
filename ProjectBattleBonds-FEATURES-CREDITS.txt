@@ -738,8 +738,10 @@ Other:
 # ARTWORK - TILES / OVERWORLD #
 -------------------------------
 
->Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
->Thank you all for such a wonderful public resource!
+# Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
+------------------------------------------------------------------------------
+Thank you all for such a wonderful public resource!
+
 Ekat
 Heartless Dragoon
 Morlockhater
@@ -768,14 +770,15 @@ Shyin
 >Ekat's additional works not included in the Public Tileset collection (Skyscraper)
 Ekat
 
->GBA Snow Tileset
+# GBA Snow Tileset
+------------------
 CinnaYva
 
->Scizor User's Sewer Tileset
+# Scizor User's Sewer Tileset
+-----------------------------
 Scizor User
 
->Additional Tileset modifications and arrangements created by:
-Fossilized_Nerd
+All Tileset modifications to the previously credited sets and arrangements of those sets created by Fossilized_Nerd
 
 
 ---------------------------------------------------
