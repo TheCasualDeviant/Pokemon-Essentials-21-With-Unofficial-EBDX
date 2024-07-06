@@ -47,6 +47,15 @@ Weight = 101.1
 Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
 Generation = 6
 #-------------------------------
+[CATERPIE,1]
+FormName = Mineral Skin
+#-------------------------------
+[METAPOD,1]
+FormName = Mineral Skin
+#-------------------------------
+[BUTTERFREE,1]
+FormName = Mineral Skin
+#-------------------------------
 [BEEDRILL,1]
 FormName = Mega Beedrill
 MegaStone = BEEDRILLITE
@@ -100,6 +109,15 @@ Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = PECHABERRY
 #-------------------------------
+[SPEAROW,1]
+FormName = Mineral Skin
+#-------------------------------
+[FEAROW,1]
+FormName = Mineral Skin
+#-------------------------------
+[PIKACHU,2]
+FormName = Mineral Skin
+#-------------------------------
 [RAICHU,1]
 FormName = Alolan
 Types = ELECTRIC,PSYCHIC
@@ -113,6 +131,9 @@ Weight = 21.0
 Color = Brown
 Pokedex = It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.
 Generation = 7
+#-------------------------------
+[RAICHU,2]
+FormName = Mineral Skin
 #-------------------------------
 [SANDSHREW,1]
 FormName = Alolan
@@ -146,6 +167,13 @@ Pokedex = It runs across snow-covered plains at high speeds. It developed thick,
 Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
+[CLEFAIRY,1]
+FormName = Mineral Skin
+#-------------------------------
+[CLEFABLE,1]
+Name = Clefury
+FormName = Mineral Skin
+#-------------------------------
 [VULPIX,1]
 FormName = Alolan
 Types = ICE
@@ -175,6 +203,12 @@ Pokedex = It lives on mountains perpetually covered in snow and is revered as a 
 Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = SNOWBALL
+#-------------------------------
+[JIGGLYPUFF,1]
+FormName = Mineral Skin
+#-------------------------------
+[WIGGLYTUFF,1]
+FormName = Mineral Skin
 #-------------------------------
 [ZUBAT,1]
 FormName = Mineral Skin
@@ -253,6 +287,18 @@ Pokedex = Its round face is a symbol of wealth. Persian that have bigger, plumpe
 Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
+[PSYDUCK,1]
+FormName = Mineral Skin
+#-------------------------------
+[GOLDUCK,1]
+FormName = Mineral Skin
+#-------------------------------
+[GROWLITHE,1]
+FormName = Mineral Skin
+#-------------------------------
+[ARCANINE,1]
+FormName = Mineral Skin
+#-------------------------------
 [ALAKAZAM,1]
 FormName = Mega Alakazam
 MegaStone = ALAKAZITE
@@ -263,9 +309,30 @@ HiddenAbilities = TRACE
 Height = 1.2
 Pokedex = Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.
 Generation = 6
+#-------------------------------
+[TENTACOOL,1]
+FormName = Mineral Skin
+#-------------------------------
+[TENTACRUEL,1]
+FormName = Mineral Skin
 #-------------------------------010
 [GEODUDE,1]
 FormName = Alolan
+Types = ROCK,ELECTRIC
+Abilities = GALVANIZE,STURDY
+HiddenAbilities = MAGNETPULL
+Moves = 1,TACKLE,1,DEFENSECURL,4,CHARGE,7,ROCKPOLISH,10,ROLLOUT,13,SPARK,16,SMACKDOWN,19,ELECTRICTERRAIN,22,THUNDERPUNCH,25,ROCKBLAST,28,STEALTHROCK,31,BODYSLAM,34,WILDCHARGE,37,STONEEDGE,40,DOUBLEEDGE,43,EXPLOSION																					
+TutorMoves = BODYSLAM,BRICKBREAK,BRUTALSWING,BULLDOZE,CIRCLETHROW,COUNTER,DISCHARGE,DOUBLEEDGE,EARTHQUAKE,ELECTRICTERRAIN,FEVERPITCH,FLING,FRESHCEMENT,HEADLOCK,KNOCKOFF,MUDBOMB,PARABOLICCHARGE,POWERCATALYST,POWERGEM,POWERIMPULSE,PROTECT,PUNYPOWER,REST,RETURN,ROCKSLIDE,SAFEGUARD,SANDSTORM,SHOCKCOIL,SLEEPTALK,SMACKDOWN,STATICCLING,STEALTHROCK,STONEEDGE,SUBSTITUTE,SWIFT,THUNDER,THUNDERBOLT,THUNDERWAVE,TORMENT,VOLTSWITCH,WIDEGUARD,WILDCHARGE																					
+EggMoves = AUTOTOMIZE,BLOCK,COUNTER,CURSE,ENDURE,FLAIL,MAGNETRISE,ROCKCLIMB,SCREECH,WIDEGUARD
+Weight = 20.3
+Color = Gray
+Pokedex = Once foreign to Ileas, Alolan Geodude invaded the canyons of Zone One after escaping visiting tourists and never left.
+Generation = 7
+Flags = InheritFormWithEverStone
+WildItemUncommon = CELLBATTERY
+#-------------------------------
+[GEODUDE,2]
+FormName = Mineral Skin
 Types = ROCK,ELECTRIC
 Abilities = GALVANIZE,STURDY
 HiddenAbilities = MAGNETPULL
@@ -292,9 +359,38 @@ Pokedex = Graveler's magnetic stones are dangerous for nearby airborne Pokémon 
 Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = CELLBATTERY
+#-------------------------------
+[GRAVELER,2]
+FormName = Mineral Skin
+Types = ROCK,ELECTRIC
+Abilities = GALVANIZE,STURDY
+HiddenAbilities = MAGNETPULL
+Moves = 0,STEAMROLLER,1,TACKLE,1,DEFENSECURL,1,CHARGE,1,STEAMROLLER,5,CHARGE,8,ROCKPOLISH,11,ROLLOUT,15,SPARK,18,SMACKDOWN,21,ELECTRICTERRAIN,25,THUNDERPUNCH,28,ROCKBLAST,31,STEALTHROCK,35,BODYSLAM,38,WILDCHARGE,41,STONEEDGE,45,DOUBLEEDGE,48,EXPLOSION																					
+TutorMoves = ASSURANCE,BODYSLAM,BRICKBREAK,BRUTALSWING,BULLDOZE,CIRCLETHROW,COUNTER,DISCHARGE,DOUBLEEDGE,EARTHPOWER,EARTHQUAKE,ELECTRICTERRAIN,FEVERPITCH,FLING,FEVERPITCH,FRESHCEMENT,HEADLOCK,KNOCKOFF,MUDBOMB,PARABOLICCHARGE,POWERCATALYST,POWERGEM,POWERIMPULSE,PROTECT,REST,RETURN,ROCKSLIDE,SAFEGUARD,SANDSTORM,SHOCKCOIL,SLEEPTALK,SMACKDOWN,STATICCLING,STEALTHROCK,STOMPINGTANTRUM,STONEEDGE,SUBSTITUTE,SWIFT,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,TORMENT,VOLTSWITCH,WIDEGUARD,WILDCHARGE																					
+Weight = 110.0
+Color = Gray
+Pokedex = Graveler's magnetic stones are dangerous for nearby airborne Pokémon and Steel-types. They're seemingly always hungry.
+Generation = 7
+Flags = InheritFormWithEverStone
+WildItemUncommon = CELLBATTERY
 #-------------------------------012
 [GOLEM,1]
 FormName = Alolan
+Types = ROCK,ELECTRIC
+Abilities = GALVANIZE,STURDY
+HiddenAbilities = MAGNETPULL
+Moves = 1,TACKLE,1,DEFENSECURL,1,CHARGE,1,STEAMROLLER,1,ROCKWRECKER,1,ZAPCANNON,7,CHARGE,10,ROCKPOLISH,13,ROLLOUT,17,SPARK,20,SMACKDOWN,23,ELECTRICTERRAIN,27,THUNDERPUNCH,30,ROCKBLAST,33,STEALTHROCK,37,BODYSLAM,40,WILDCHARGE,43,STONEEDGE,47,DOUBLEEDGE,50,EXPLOSION,53,ROCKWRECKER																					
+TutorMoves = ASSURANCE,BODYSLAM,BRICKBREAK,BRUTALSWING,BULLDOZE,CIRCLETHROW,COUNTER,DISCHARGE,DOUBLEEDGE,EARTHPOWER,EARTHQUAKE,ELECTRICTERRAIN,FEVERPITCH,FLASHCANNON,FLING,FRESHCEMENT,GIGAIMPACT,HEADLOCK,HYPERBEAM,IRONHEAD,KNOCKOFF,MUDBOMB,PARABOLICCHARGE,POWERCATALYST,POWERGEM,POWERIMPULSE,PROTECT,REST,RETURN,ROCKSLIDE,SAFEGUARD,SANDSTORM,SHOCKCOIL,SLEEPTALK,SMACKDOWN,STATICCLING,STEALTHROCK,STOMPINGTANTRUM,STONEEDGE,SUBSTITUTE,SWIFT,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,TORMENT,VOLTSWITCH,WIDEGUARD,WILDCHARGE																					
+Height = 1.7
+Weight = 316.0
+Color = Gray
+Pokedex = The iron filings on Golem's head are magnetically drawn to its body. Strangely, they are almost never seen in the wild.
+Generation = 7
+Flags = InheritFormWithEverStone
+WildItemCommon = CELLBATTERY
+#-------------------------------
+[GOLEM,2]
+FormName = Mineral Skin
 Types = ROCK,ELECTRIC
 Abilities = GALVANIZE,STURDY
 HiddenAbilities = MAGNETPULL
@@ -373,6 +469,12 @@ Shape = HeadArms
 Pokedex = Having been swallowed whole by Shellder, Slowbro now has an iron defense. It's pretty comfortable in there, too.
 Generation = 6
 #-------------------------------
+[MAGNEMITE,1]
+FormName = Mineral Skin
+#-------------------------------
+[MAGNETON,1]
+FormName = Mineral Skin
+#-------------------------------
 [FARFETCHD,1]
 FormName = Galarian
 Types = FIGHTING
@@ -389,6 +491,18 @@ Flags = InheritFormWithEverStone
 WildItemCommon = LEEK
 Evolutions = SIRFETCHD,BattleDealCriticalHit,3
 #-------------------------------
+[DODUO,1]
+FormName = Mineral Skin
+#-------------------------------
+[DODRIO,1]
+FormName = Mineral Skin
+#-------------------------------
+[SEEL,1]
+FormName = Mineral Skin
+#-------------------------------
+[DEWGONG,1]
+FormName = Mineral Skin
+#-------------------------------
 [GRIMER,1]
 FormName = Alolan
 Types = POISON,DARK
@@ -404,6 +518,9 @@ Pokedex = A Grimer, which had been brought in to solve a problem with garbage, d
 Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
+[GRIMER,2]
+FormName = Mineral Skin
+#-------------------------------
 [MUK,1]
 FormName = Alolan
 Types = POISON,DARK
@@ -418,6 +535,9 @@ Pokedex = The garbage it eats causes continuous chemical changes in its body, wh
 Generation = 7
 Flags = InheritFormWithEverStone
 #-------------------------------
+[MUK,2]
+FormName = Mineral Skin
+#-------------------------------
 [GENGAR,1]
 FormName = Mega Gengar
 MegaStone = GENGARITE
@@ -428,6 +548,18 @@ HiddenAbilities = SHADOWTAG
 Height = 1.4
 Pokedex = The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.
 Generation = 6
+#-------------------------------
+[DROWZEE,1]
+FormName = Mineral Skin
+#-------------------------------
+[HYPNO,1]
+FormName = Mineral Skin
+#-------------------------------
+[VOLTORB,1]
+FormName = Mineral Skin
+#-------------------------------
+[ELECTRODE,1]
+FormName = Mineral Skin
 #-------------------------------
 [EXEGGUTOR,1]
 FormName = Alolan
@@ -445,6 +577,9 @@ Generation = 7
 Generation = 7
 Evolutions = MAROWAK,LevelNight,28
 #-------------------------------
+[CUBONE,2]
+FormName = Mineral Skin
+#-------------------------------
 [MAROWAK,1]
 FormName = Alolan
 Types = FIRE,GHOST
@@ -456,6 +591,9 @@ Weight = 34.0
 Color = Purple
 Pokedex = Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.
 Generation = 7
+#-------------------------------
+[MAROWAK,2]
+FormName = Mineral Skin
 #-------------------------------
 [WEEZING,1]
 FormName = Galarian
@@ -499,6 +637,12 @@ Generation = 8
 Flags = InheritFormWithEverStone
 Evolutions = MRRIME,Level,42
 #-------------------------------
+[JYNX,1]
+FormName = Mineral Skin
+#-------------------------------
+[ELECTABUZZ,1]
+FormName = Mineral Skin
+#-------------------------------
 [PINSIR,1]
 FormName = Mega Pinsir
 MegaStone = PINSIRITE
@@ -513,6 +657,13 @@ Shape = MultiWinged
 Pokedex = It zips around at blistering speeds, looking for an opening to skewer its opponent on its giant pincers.
 Generation = 6
 #-------------------------------
+[PINSIR,2]
+Name = Encombered
+FormName = Mineral Skin
+#-------------------------------
+[MAGIKARP,2]
+FormName = Mineral Skin
+#-------------------------------
 [GYARADOS,1]
 FormName = Mega Gyarados
 MegaStone = GYARADOSITE
@@ -524,6 +675,15 @@ HiddenAbilities = MOLDBREAKER
 Weight = 305.0
 Pokedex = It zooms out of the water at Mach speeds. Even large ships caught in its path are split cleanly in two!
 Generation = 6
+#-------------------------------
+[GYARADOS,2]
+FormName = Mineral Skin
+#-------------------------------
+[LAPRAS,1]
+FormName = Mineral Skin
+#-------------------------------
+[PORYGON,1]
+FormName = Mineral Skin
 #-------------------------------
 [AERODACTYL,1]
 FormName = Mega Aerodactyl
