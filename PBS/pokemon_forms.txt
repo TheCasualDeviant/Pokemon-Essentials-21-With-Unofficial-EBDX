@@ -115,7 +115,7 @@ FormName = Mineral Skin
 [FEAROW,1]
 FormName = Mineral Skin
 #-------------------------------
-[PIKACHU,2]
+[PIKACHU,3]
 FormName = Mineral Skin
 #-------------------------------
 [RAICHU,1]
@@ -132,7 +132,7 @@ Color = Brown
 Pokedex = It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.
 Generation = 7
 #-------------------------------
-[RAICHU,2]
+[RAICHU,3]
 FormName = Mineral Skin
 #-------------------------------
 [SANDSHREW,1]
@@ -171,7 +171,6 @@ Flags = InheritFormWithEverStone
 FormName = Mineral Skin
 #-------------------------------
 [CLEFABLE,1]
-Name = Clefury
 FormName = Mineral Skin
 #-------------------------------
 [VULPIX,1]
@@ -658,7 +657,6 @@ Pokedex = It zips around at blistering speeds, looking for an opening to skewer 
 Generation = 6
 #-------------------------------
 [PINSIR,2]
-Name = Encombered
 FormName = Mineral Skin
 #-------------------------------
 [MAGIKARP,2]
@@ -766,10 +764,40 @@ Weight = 33.0
 Pokedex = Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.
 Generation = 6
 #-------------------------------
+[SENTRET,1]
+FormName = Mineral Skin
+#-------------------------------
+[FURRET,1]
+FormName = Mineral Skin
+#-------------------------------
+[LEDYBA,1]
+FormName = Mineral Skin
+#-------------------------------
+[LEDIAN,1]
+FormName = Mineral Skin
+#-------------------------------
+[CROBAT,1]
+FormName = Mineral Skin
+#-------------------------------
 [PICHU,2]
 FormName = Spiky-Eared
 Generation = 4
 Evolutions = PIKACHU,None,
+#-------------------------------
+[PICHU,3]
+FormName = Mineral Skin
+#-------------------------------
+[CLEFFA,1]
+FormName = Mineral Skin
+#-------------------------------
+[IGGLYBUFF,1]
+FormName = Mineral Skin
+#-------------------------------
+[MAREEP,2]
+FormName = Mineral Skin
+#-------------------------------
+[FLAAFFY,2]
+FormName = Mineral Skin
 #-------------------------------
 [AMPHAROS,1]
 FormName = Mega Ampharos
@@ -781,6 +809,21 @@ Abilities = MOLDBREAKER
 HiddenAbilities = MOLDBREAKER
 Pokedex = Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
 Generation = 6
+#-------------------------------
+[AMPHAROS,2]
+FormName = Mineral Skin
+#-------------------------------
+[HOPPIP,1]
+FormName = Mineral Skin
+#-------------------------------
+[SKIPLOOM,1]
+FormName = Mineral Skin
+#-------------------------------
+[JUMPLUFF,1]
+FormName = Mineral Skin
+#-------------------------------
+[MURKROW,1]
+FormName = Mineral Skin
 #-------------------------------
 [SLOWKING,1]
 FormName = Galarian
@@ -878,6 +921,9 @@ Generation = 3
 FormName = !
 Generation = 3
 #-------------------------------
+[GLIGAR,1]
+FormName = Mineral Skin
+#-------------------------------
 [STEELIX,1]
 FormName = Mega Steelix
 MegaStone = STEELIXITE
@@ -888,6 +934,12 @@ HiddenAbilities = SANDFORCE
 Height = 10.5
 Weight = 740.0
 Generation = 6
+#-------------------------------
+[SNUBBULL,1]
+FormName = Mineral Skin
+#-------------------------------
+[GRANBULL,1]
+FormName = Mineral Skin
 #-------------------------------
 [SCIZOR,1]
 FormName = Mega Scizor
@@ -916,6 +968,12 @@ Generation = 6
 [SNEASEL,2]
 FormName = Mineral Skin
 #-------------------------------
+[SWINUB,1]
+FormName = Mineral Skin
+#-------------------------------
+[PILOSWINE,1]
+FormName = Mineral Skin
+#-------------------------------
 [CORSOLA,1]
 FormName = Galarian
 Types = GHOST
@@ -932,6 +990,9 @@ Generation = 8
 Flags = InheritFormWithEverStone
 Evolutions = CURSOLA,Level,38
 #-------------------------------
+[HOUNDOUR,2]
+FormName = Mineral Skin
+#-------------------------------
 [HOUNDOOM,1]
 FormName = Mega Houndoom
 MegaStone = HOUNDOOMINITE
@@ -944,6 +1005,21 @@ Weight = 49.5
 Pokedex = Its red claws and the tips of its tail are melting from high internal temperatures that are painful to Houndoom itself.
 Generation = 6
 #-------------------------------
+[HOUNDOOM,2]
+FormName = Mineral Skin
+#-------------------------------
+[PORYGON2,1]
+FormName = Mineral Skin
+#-------------------------------
+[ELEKID,1]
+FormName = Mineral Skin
+#-------------------------------
+[LARVITAR,2]
+FormName = Mineral Skin
+#-------------------------------
+[PUPITAR,2]
+FormName = Mineral Skin
+#-------------------------------
 [TYRANITAR,1]
 FormName = Mega Tyranitar
 MegaStone = TYRANITARITE
@@ -954,6 +1030,9 @@ Height = 2.5
 Weight = 255.0
 Pokedex = Due to the colossal power poured into it, this Pokémon's back split right open. Its destructive instincts are the only thing keeping it moving.
 Generation = 6
+#-------------------------------
+[TYRANITAR,2]
+FormName = Mineral Skin
 #-------------------------------
 [SCEPTILE,1]
 FormName = Mega Sceptile
@@ -975,6 +1054,12 @@ BaseExp = 315
 Abilities = SPEEDBOOST
 Generation = 6
 #-------------------------------
+[MUDKIP,2]
+FormName = Mineral Skin
+#-------------------------------
+[MARSHTOMP,2]
+FormName = Mineral Skin
+#-------------------------------
 [SWAMPERT,1]
 FormName = Mega Swampert
 MegaStone = SWAMPERTITE
@@ -985,6 +1070,9 @@ HiddenAbilities = SWIFTSWIM
 Height = 1.9
 Weight = 102.0
 Generation = 6
+#-------------------------------
+[SWAMPERT,2]
+FormName = Mineral Skin
 #-------------------------------
 [ZIGZAGOON,1]
 FormName = Galarian
@@ -1007,6 +1095,12 @@ Generation = 8
 Flags = InheritFormWithEverStone
 Evolutions = OBSTAGOON,LevelNight,35
 #-------------------------------
+[WINGULL,1]
+FormName = Mineral Skin
+#-------------------------------
+[PELIPPER,1]
+FormName = Mineral Skin
+#-------------------------------
 [GARDEVOIR,1]
 FormName = Mega Gardevoir
 MegaStone = GARDEVOIRITE
@@ -1015,6 +1109,21 @@ BaseExp = 309
 Abilities = PIXILATE
 HiddenAbilities = PIXILATE
 Generation = 6
+#-------------------------------
+[NINCADA,1]
+FormName = Mineral Skin
+#-------------------------------
+[NINJASK,1]
+FormName = Mineral Skin
+#-------------------------------
+[SHEDINJA,1]
+FormName = Mineral Skin
+#-------------------------------
+[MAKUHITA,1]
+FormName = Mineral Skin
+#-------------------------------
+[HARIYAMA,1]
+FormName = Mineral Skin
 #-------------------------------
 [SABLEYE,1]
 FormName = Mega Sableye
@@ -1026,6 +1135,9 @@ HiddenAbilities = MAGICBOUNCE
 Weight = 161.0
 Pokedex = Supporting a giant heavy jewel, it can't change direction very nimbly and is vulnerable to attack from behind.
 Generation = 6
+#-------------------------------
+[SABLEYE,2]
+FormName = Mineral Skin
 #-------------------------------
 [MAWILE,1]
 FormName = Mega Mawile
@@ -1042,6 +1154,12 @@ Generation = 6
 [MAWILE,2]
 FormName = Mineral Skin
 #-------------------------------
+[ARON,2]
+FormName = Mineral Skin
+#-------------------------------
+[LAIRON,2]
+FormName = Mineral Skin
+#-------------------------------
 [AGGRON,1]
 FormName = Mega Aggron
 MegaStone = AGGRONITE
@@ -1052,6 +1170,9 @@ HiddenAbilities = FILTER
 Height = 2.2
 Weight = 395.0
 Generation = 6
+#-------------------------------
+[AGGRON,2]
+FormName = Mineral Skin
 #-------------------------------
 [MEDICHAM,1]
 FormName = Mega Medicham
@@ -1073,6 +1194,9 @@ Weight = 44.0
 Pokedex = Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt.
 Generation = 6
 #-------------------------------
+[CARVANHA,2]
+FormName = Mineral Skin
+#-------------------------------
 [SHARPEDO,1]
 FormName = Mega Sharpedo
 MegaStone = SHARPEDONITE
@@ -1085,6 +1209,18 @@ Weight = 130.3
 Pokedex = The yellow patterns it bears are old scars. The energy from Mega Evolution runs through them, causing it sharp pain and suffering.
 Generation = 6
 #-------------------------------
+[SHARPEDO,2]
+FormName = Mineral Skin
+#-------------------------------
+[WAILMER,1]
+FormName = Mineral Skin
+#-------------------------------
+[WAILORD,1]
+FormName = Mineral Skin
+#-------------------------------
+[NUMEL,1]
+FormName = Mineral Skin
+#-------------------------------
 [CAMERUPT,1]
 FormName = Mega Camerupt
 MegaStone = CAMERUPTITE
@@ -1096,6 +1232,18 @@ Height = 2.5
 Weight = 320.5
 Generation = 6
 #-------------------------------
+[CAMERUPT,2]
+FormName = Mineral Skin
+#-------------------------------
+[TRAPINCH,1]
+FormName = Mineral Skin
+#-------------------------------
+[VIBRAVA,1]
+FormName = Mineral Skin
+#-------------------------------
+[FLYGON,1]
+FormName = Mineral Skin
+#-------------------------------
 [ALTARIA,1]
 FormName = Mega Altaria
 MegaStone = ALTARIANITE
@@ -1106,6 +1254,30 @@ Abilities = PIXILATE
 HiddenAbilities = PIXILATE
 Height = 1.5
 Generation = 6
+#-------------------------------
+[ZANGOOSE,1]
+FormName = Mineral Skin
+#-------------------------------
+[SEVIPER,1]
+FormName = Mineral Skin
+#-------------------------------
+[LUNATONE,1]
+FormName = Mineral Skin
+#-------------------------------
+[SOLROCK,1]
+FormName = Mineral Skin
+#-------------------------------
+[LILEEP,1]
+FormName = Mineral Skin
+#-------------------------------
+[CRADILY,1]
+FormName = Mineral Skin
+#-------------------------------
+[FEEBAS,1]
+FormName = Mineral Skin
+#-------------------------------
+[MILOTIC,1]
+FormName = Mineral Skin
 #-------------------------------
 [CASTFORM,1]
 FormName = Sunny Form
@@ -1125,6 +1297,9 @@ Types = ICE
 Color = White
 Pokedex = This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near -5 degrees Celsius.
 #-------------------------------
+[CASTFORM,4]
+FormName = Mineral Skin
+#-------------------------------
 [BANETTE,1]
 FormName = Mega Banette
 MegaStone = BANETTITE
@@ -1137,6 +1312,12 @@ Weight = 13.0
 Pokedex = Extraordinary energy amplifies its cursing power to such an extent that it can't help but curse its own Trainer.
 Generation = 6
 #-------------------------------
+[DUSKULL,1]
+FormName = Mineral Skin
+#-------------------------------
+[DUSCLOPS,1]
+FormName = Mineral Skin
+#-------------------------------
 [ABSOL,1]
 FormName = Mega Absol
 MegaStone = ABSOLITE
@@ -1147,6 +1328,9 @@ HiddenAbilities = MAGICBOUNCE
 Weight = 49.0
 Pokedex = When this Pokémon whips the winglike fur on its back as though beating its wings, it sends an intimidating aura flying at its opponents.
 Generation = 6
+#-------------------------------
+[SNORUNT,2]
+FormName = Mineral Skin
 #-------------------------------
 [GLALIE,1]
 FormName = Mega Glalie
@@ -1160,6 +1344,12 @@ Weight = 350.2
 Pokedex = It envelops prey in its mouth, freezing them instantly. But its jaw is dislocated, so it's unable to eat them.
 Generation = 6
 #-------------------------------
+[GLALIE,2]
+FormName = Mineral Skin
+#-------------------------------
+[RELICANTH,1]
+FormName = Mineral Skin
+#-------------------------------
 [SALAMENCE,1]
 FormName = Mega Salamence
 MegaStone = SALAMENCITE
@@ -1172,6 +1362,12 @@ Weight = 112.6
 Pokedex = It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features.
 Generation = 6
 #-------------------------------
+[BELDUM,2]
+FormName = Mineral Skin
+#-------------------------------
+[METANG,2]
+FormName = Mineral Skin
+#-------------------------------
 [METAGROSS,1]
 FormName = Mega Metagross
 MegaStone = METAGROSSITE
@@ -1183,6 +1379,9 @@ Height = 2.5
 Weight = 942.9
 Pokedex = Its intellect surpasses its previous level, resulting in battles so cruel, they'll make you want to cover your eyes.
 Generation = 6
+#-------------------------------
+[METAGROSS,2]
+FormName = Mineral Skin
 #-------------------------------
 [LATIAS,1]
 FormName = Mega Latias
@@ -1256,6 +1455,9 @@ EVs = SPEED,3
 Moves = 1,LEER,1,WRAP,7,NIGHTSHADE,13,DOUBLETEAM,19,KNOCKOFF,25,TOXICSPIKES,31,PSYCHIC,37,SWIFT,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,AGILITY,61,RECOVER,67,PSYCHOBOOST,73,EXTREMESPEED
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BODYSLAM,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,COUNTER,CUT,DARKPULSE,DOUBLEEDGE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,DYNAMICPUNCH,ENDURE,ENERGYBALL,FACADE,FIREPUNCH,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HEADBUTT,HIDDENPOWER,HYPERBEAM,ICEBEAM,ICEPUNCH,KNOCKOFF,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,MEGAKICK,MEGAPUNCH,MIMIC,MUDSLAP,NASTYPLOT,NATURALGIFT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SECRETPOWER,SEISMICTOSS,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,SWIFT,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
 #-------------------------------
+[DEOXYS,4]
+FormName = Mineral Skin
+#-------------------------------
 [CHIMCHAR,1]
 FormName = Mineral Skin
 #-------------------------------
@@ -1291,10 +1493,31 @@ Moves = 0,QUIVERDANCE,1,METALBURST,1,SUCKERPUNCH,1,TACKLE,1,PROTECT,1,BUGBITE,10
 TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,CAPTIVATE,CONFIDE,DIG,DOUBLEEDGE,DOUBLETEAM,DREAMEATER,ELECTROWEB,ENDEAVOR,ENDURE,FACADE,FLASH,FLASHCANNON,FRUSTRATION,GIGADRAIN,GIGAIMPACT,GUNKSHOT,GYROBALL,HIDDENPOWER,HYPERBEAM,INFESTATION,IRONDEFENSE,IRONHEAD,MAGNETRISE,MIMIC,NATURALGIFT,PROTECT,PSYCHIC,PSYCHUP,RAINDANCE,REST,RETURN,ROUND,SAFEGUARD,SECRETPOWER,SHADOWBALL,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNORE,SOLARBEAM,STEALTHROCK,STRINGSHOT,STRUGGLEBUG,SUBSTITUTE,SUCKERPUNCH,SUNNYDAY,SWAGGER,TELEKINESIS,THIEF,UPROAR,VENOSHOCK
 Color = Red
 #-------------------------------
+[COMBEE,2]
+FormName = Mineral Skin
+#-------------------------------
+[COMBEE,3]
+FormName = Mineral Skin
+#-------------------------------
+[VESPIQUEN,3]
+FormName = Mineral Skin
+#-------------------------------
+[PACHIRISU,1]
+FormName = Mineral Skin
+#-------------------------------
+[BUIZEL,1]
+FormName = Mineral Skin
+#-------------------------------
+[FLOATZEL,1]
+FormName = Mineral Skin
+#-------------------------------
 [CHERRIM,1]
 FormName = Sunshine Form
 Color = Pink
 Pokedex = After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.
+#-------------------------------
+[CHERRIM,2]
+FormName = Mineral Skin
 #-------------------------------
 [SHELLOS,1]
 FormName = East Sea
@@ -1305,6 +1528,48 @@ Pokedex = Its appearance changes depending on the environment. One theory sugges
 FormName = East Sea
 Color = Blue
 Pokedex = Its body is covered in a sticky slime. It's very susceptible to dehydration, so it can't spend too much time on land.
+#-------------------------------
+[DRIFLOON,1]
+FormName = Mineral Skin
+#-------------------------------
+[DRIFBLIM,1]
+FormName = Mineral Skin
+#-------------------------------
+[HONCHKROW,1]
+FormName = Mineral Skin
+#-------------------------------
+[GLAMEOW,1]
+FormName = Mineral Skin
+#-------------------------------
+[PURUGLY,1]
+FormName = Mineral Skin
+#-------------------------------
+[STUNKY,1]
+FormName = Mineral Skin
+#-------------------------------
+[SKUNTANK,1]
+FormName = Mineral Skin
+#-------------------------------
+[BRONZOR,1]
+FormName = Mineral Skin
+#-------------------------------
+[BRONZONG,1]
+FormName = Mineral Skin
+#-------------------------------
+[RIOLU,1]
+FormName = Mineral Skin
+#-------------------------------
+[LUCARIO,1]
+FormName = Mineral Skin
+#-------------------------------
+[CROAGUNK,1]
+FormName = Mineral Skin
+#-------------------------------
+[TOXICROAK,1]
+FormName = Mineral Skin
+#-------------------------------
+[CARNIVINE,1]
+FormName = Mineral Skin
 #-------------------------------
 [LOPUNNY,1]
 FormName = Mega Lopunny
@@ -1354,6 +1619,21 @@ Generation = 6
 [WEAVILE,1]
 FormName = Mineral Skin
 #-------------------------------
+[MAGNEZONE,1]
+FormName = Mineral Skin
+#-------------------------------
+[ELECTIVIRE,1]
+FormName = Mineral Skin
+#-------------------------------
+[GLISCOR,1]
+FormName = Mineral Skin
+#-------------------------------
+[MAMOSWINE,1]
+FormName = Mineral Skin
+#-------------------------------
+[PORYGONZ,1]
+FormName = Mineral Skin
+#-------------------------------
 [GALLADE,1]
 FormName = Mega Gallade
 MegaStone = GALLADITE
@@ -1363,6 +1643,12 @@ Abilities = INNERFOCUS
 HiddenAbilities = INNERFOCUS
 Weight = 56.4
 Generation = 6
+#-------------------------------
+[DUSKNOIR,1]
+FormName = Mineral Skin
+#-------------------------------
+[FROSLASS,2]
+FormName = Mineral Skin
 #-------------------------------
 [ROTOM,1]
 FormName = Heat Rotom
@@ -1408,6 +1694,12 @@ TutorMoves = AERIALACE,AIRCUTTER,ANCIENTPOWER,AQUATAIL,AURASPHERE,BODYSLAM,BREAK
 Height = 6.9
 Weight = 650.0
 Shape = Serpentine
+#-------------------------------
+[PHIONE,1]
+FormName = Mineral Skin
+#-------------------------------
+[MANAPHY,1]
+FormName = Mineral Skin
 #-------------------------------246
 [SHAYMIN,1]
 FormName = Sky Forme
@@ -1417,6 +1709,9 @@ EVs = SPEED,3,DEFENSE,1,SPECIAL_DEFENSE,1
 Abilities = SERENEGRACE
 Height = 0.4
 Weight = 5.2
+#-------------------------------
+[SHAYMIN,2]
+FormName = Mineral Skin
 #-------------------------------
 [ARCEUS,1]
 FormName = Fighting Type
@@ -1491,7 +1786,37 @@ FormName = Fairy Type
 Types = FAIRY
 Generation = 6
 #-------------------------------
+[VICTINI,1]
+FormName = Mineral Skin
+#-------------------------------
 [SNIVY,1]
+FormName = Mineral Skin
+#-------------------------------
+[SERVINE,1]
+FormName = Mineral Skin
+#-------------------------------
+[SERPERIOR,1]
+FormName = Mineral Skin
+#-------------------------------
+[LILLIPUP,1]
+FormName = Mineral Skin
+#-------------------------------
+[HERDIER,1]
+FormName = Mineral Skin
+#-------------------------------
+[STOUTLAND,1]
+FormName = Mineral Skin
+#-------------------------------
+[MUNNA,1]
+FormName = Mineral Skin
+#-------------------------------
+[MUSHARNA,1]
+FormName = Mineral Skin
+#-------------------------------
+[DRILBUR,1]
+FormName = Mineral Skin
+#-------------------------------
+[EXCADRILL,1]
 FormName = Mineral Skin
 #-------------------------------
 [AUDINO,1]
@@ -1506,6 +1831,36 @@ Height = 1.5
 Weight = 32.0
 Color = White
 Generation = 6
+#-------------------------------
+[AUDINO,2]
+FormName = Mineral Skin
+#-------------------------------
+[TIMBURR,1]
+FormName = Mineral Skin
+#-------------------------------
+[GURDURR,1]
+FormName = Mineral Skin
+#-------------------------------
+[CONKELDURR,1]
+FormName = Mineral Skin
+#-------------------------------
+[SEWADDLE,1]
+FormName = Mineral Skin
+#-------------------------------
+[SWADLOON,1]
+FormName = Mineral Skin
+#-------------------------------
+[LEAVANNY,1]
+FormName = Mineral Skin
+#-------------------------------
+[VENIPEDE,1]
+FormName = Mineral Skin
+#-------------------------------
+[WHIRLIPEDE,1]
+FormName = Mineral Skin
+#-------------------------------
+[SCOLIPEDE,1]
+FormName = Mineral Skin
 #-------------------------------
 [BASCULIN,1]
 FormName = Blue-Striped
@@ -1566,6 +1921,18 @@ Category = Zen Charm
 Pokedex = Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately.
 Generation = 8
 #-------------------------------
+[DWEBBLE,1]
+FormName = Mineral Skin
+#-------------------------------
+[CRUSTLE,1]
+FormName = Mineral Skin
+#-------------------------------
+[SCRAGGY,1]
+FormName = Mineral Skin
+#-------------------------------
+[SCRAFTY,1]
+FormName = Mineral Skin
+#-------------------------------
 [YAMASK,1]
 FormName = Galarian
 Types = GROUND,GHOST
@@ -1577,6 +1944,33 @@ Pokedex = A clay slab with cursed engravings took possession of a Yamask. The sl
 Generation = 8
 Flags = InheritFormWithEverStone
 Evolutions = RUNERIGUS,EventAfterDamageTaken,2
+#-------------------------------
+[ARCHEN,1]
+FormName = Mineral Skin
+#-------------------------------
+[ARCHEOPS,1]
+FormName = Mineral Skin
+#-------------------------------
+[ZORUA,1]
+FormName = Mineral Skin
+#-------------------------------
+[ZOROARK,1]
+FormName = Mineral Skin
+#-------------------------------
+[MINCCINO,1]
+FormName = Mineral Skin
+#-------------------------------
+[CINCCINO,1]
+FormName = Mineral Skin
+#-------------------------------
+[VANILLITE,1]
+FormName = Mineral Skin
+#-------------------------------
+[VANILLISH,1]
+FormName = Mineral Skin
+#-------------------------------
+[VANILLUXE,1]
+FormName = Mineral Skin
 #-------------------------------
 [DEERLING,1]
 FormName = Summer Form
@@ -1599,6 +1993,66 @@ FormName = Autumn Form
 [SAWSBUCK,3]
 FormName = Winter Form
 #-------------------------------
+[FOONGUS,1]
+FormName = Mineral Skin
+#-------------------------------
+[AMOONGUSS,1]
+FormName = Mineral Skin
+#-------------------------------
+[FRILLISH,1]
+FormName = Mineral Skin
+#-------------------------------
+[JELLICENT,1]
+FormName = Mineral Skin
+#-------------------------------
+[KLINK,1]
+FormName = Mineral Skin
+#-------------------------------
+[KLANG,1]
+FormName = Mineral Skin
+#-------------------------------
+[KLINKLANG,1]
+FormName = Mineral Skin
+#-------------------------------
+[TYNAMO,1]
+FormName = Mineral Skin
+#-------------------------------
+[EELEKTRIK,1]
+FormName = Mineral Skin
+#-------------------------------
+[EELEKTROSS,1]
+FormName = Mineral Skin
+#-------------------------------
+[ELGYEM,1]
+FormName = Mineral Skin
+#-------------------------------
+[BEHEEYEM,1]
+FormName = Mineral Skin
+#-------------------------------
+[LITWICK,1]
+FormName = Mineral Skin
+#-------------------------------
+[LAMPENT,1]
+FormName = Mineral Skin
+#-------------------------------
+[CHANDELURE,1]
+FormName = Mineral Skin
+#-------------------------------
+[AXEW,1]
+FormName = Mineral Skin
+#-------------------------------
+[FRAXURE,1]
+FormName = Mineral Skin
+#-------------------------------
+[HAXORUS,1]
+FormName = Mineral Skin
+#-------------------------------
+[CUBCHOO,1]
+FormName = Mineral Skin
+#-------------------------------
+[BEARTIC,1]
+FormName = Mineral Skin
+#-------------------------------
 [STUNFISK,1]
 FormName = Galarian
 Types = GROUND,STEEL
@@ -1613,6 +2067,36 @@ Color = Green
 Pokedex = Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
 Generation = 8
 Flags = InheritFormWithEverStone
+#-------------------------------
+[MIENFOO,1]
+FormName = Mineral Skin
+#-------------------------------
+[MIENSHAO,1]
+FormName = Mineral Skin
+#-------------------------------
+[DRUDDIGON,1]
+FormName = Mineral Skin
+#-------------------------------
+[GOLETT,1]
+FormName = Mineral Skin
+#-------------------------------
+[GOLURK,1]
+FormName = Mineral Skin
+#-------------------------------
+[BOUFFALANT,1]
+FormName = Mineral Skin
+#-------------------------------
+[RUFFLET,1]
+FormName = Mineral Skin
+#-------------------------------
+[BRAVIARY,1]
+FormName = Mineral Skin
+#-------------------------------
+[HEATMOR,1]
+FormName = Mineral Skin
+#-------------------------------
+[DURANT,1]
+FormName = Mineral Skin
 #-------------------------------
 [TORNADUS,1]
 FormName = Therian Forme
@@ -1682,6 +2166,9 @@ Height = 3.3
 [KELDEO,1]
 FormName = Resolute Form
 Pokedex = The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything.
+#-------------------------------
+[KELDEO,2]
+FormName = Mineral Skin
 #-------------------------------
 [MELOETTA,1]
 FormName = Pirouette Forme
@@ -1771,6 +2258,15 @@ FormName = Fancy Pattern
 [VIVILLON,19]
 FormName = Poké Ball Pattern
 #-------------------------------
+[LITLEO,1]
+FormName = Mineral Skin
+#-------------------------------
+[PYROAR,1]
+FormName = Mineral Skin
+#-------------------------------
+[PYROAR,2]
+FormName = Mineral Skin
+#-------------------------------
 [FLABEBE,1]
 FormName = Yellow Flower
 #-------------------------------
@@ -1782,6 +2278,9 @@ FormName = Blue Flower
 #-------------------------------
 [FLABEBE,4]
 FormName = White Flower
+#-------------------------------
+[FLABEBE,6]
+FormName = Mineral Skin
 #-------------------------------
 [FLOETTE,1]
 FormName = Yellow Flower
@@ -1804,6 +2303,9 @@ EggGroups = Undiscovered
 Pokedex = The flower it's holding can no longer be found blooming anywhere. It's also thought to contain terrifying power.
 Evolutions = FLORGES,None,
 #-------------------------------
+[FLOETTE,6]
+FormName = Mineral Skin
+#-------------------------------
 [FLORGES,1]
 FormName = Yellow Flower
 #-------------------------------
@@ -1815,6 +2317,15 @@ FormName = Blue Flower
 #-------------------------------
 [FLORGES,4]
 FormName = White Flower
+#-------------------------------
+[FLORGES,6]
+FormName = Mineral Skin
+#-------------------------------
+[SKIDDO,1]
+FormName = Mineral Skin
+#-------------------------------
+[GOGOAT,1]
+FormName = Mineral Skin
 #-------------------------------
 [FURFROU,1]
 FormName = Heart Trim
@@ -1843,8 +2354,22 @@ FormName = Kabuki Trim
 [FURFROU,9]
 FormName = Pharaoh Trim
 #-------------------------------
+[ESPURR,2]
+FormName = Mineral Skin
+#-------------------------------
 [MEOWSTIC,1]
 FormName = Female
+HiddenAbilities = COSTAR
+Moves = 0,LUSTERPURGE,1,SCRATCH,1,LEER,1,FAKEOUT,1,DISARMINGVOICE,9,CONFUSION,12,STOREDPOWER,15,CHARGEBEAM,18,COVET,21,PSYBEAM,24,SUCKERPUNCH,27,ROLEPLAY,30,EXTRASENSORY,33,CALMMIND,36,ASSIMILATE,40,PSYSHOCK,44,SHADOWBALL,48,PSYCHIC,52,EXPANDINGFORCE,55,FUTURESIGHT																					
+TutorMoves = ALLYSWITCH,BLACKOUT,BLIZZARD,COVET,DAZZLINGGLEAM,DISARMINGVOICE,ENCORE,ENERGYBALL,EXPANDINGFORCE,FAKEOUT,FEVERPITCH,FLING,FOULPLAY,GIGAIMPACT,GRAVITY,HAIL,HEADACHE,HYPERBEAM,HYPERVOICE,HYPNOSIS,ICYWIND,KIAI,LIGHTSCREEN,MANIACALLAUGH,MIGRAINE,MISTYTERRAIN,PROTECT,PROTECT,PSYCHIC,PSYCHICFANGS,PSYCHICTERRAIN,PSYCHUP,PSYSHOCK,RAINDANCE,REFLECT,REST,RETURN,ROUND,SHADOWBALL,SIMPLEBEAM,SLEEPTALK,SOLARBEAM,STATICCLING,SUBSTITUTE,SUNNYDAY,SWIFT,THUNDER,THUNDERBOLT,THUNDERWAVE,TRICK,TRICKROOM,WEATHERBALL,WILDFLOWERS																					
+Color = White
+Pokedex = Meowstic's societal variations are clear - males defend the young, females hunt. Scientists have yet to determine why colors vary.
+#-------------------------------
+[MEOWSTIC,2]
+FormName = Mineral Skin
+#-------------------------------
+[MEOWSTIC,3]
+FormName = Mineral Skin
 HiddenAbilities = COSTAR
 Moves = 0,LUSTERPURGE,1,SCRATCH,1,LEER,1,FAKEOUT,1,DISARMINGVOICE,9,CONFUSION,12,STOREDPOWER,15,CHARGEBEAM,18,COVET,21,PSYBEAM,24,SUCKERPUNCH,27,ROLEPLAY,30,EXTRASENSORY,33,CALMMIND,36,ASSIMILATE,40,PSYSHOCK,44,SHADOWBALL,48,PSYCHIC,52,EXPANDINGFORCE,55,FUTURESIGHT																					
 TutorMoves = ALLYSWITCH,BLACKOUT,BLIZZARD,COVET,DAZZLINGGLEAM,DISARMINGVOICE,ENCORE,ENERGYBALL,EXPANDINGFORCE,FAKEOUT,FEVERPITCH,FLING,FOULPLAY,GIGAIMPACT,GRAVITY,HAIL,HEADACHE,HYPERBEAM,HYPERVOICE,HYPNOSIS,ICYWIND,KIAI,LIGHTSCREEN,MANIACALLAUGH,MIGRAINE,MISTYTERRAIN,PROTECT,PROTECT,PSYCHIC,PSYCHICFANGS,PSYCHICTERRAIN,PSYCHUP,PSYSHOCK,RAINDANCE,REFLECT,REST,RETURN,ROUND,SHADOWBALL,SIMPLEBEAM,SLEEPTALK,SOLARBEAM,STATICCLING,SUBSTITUTE,SUNNYDAY,SWIFT,THUNDER,THUNDERBOLT,THUNDERWAVE,TRICK,TRICKROOM,WEATHERBALL,WILDFLOWERS																					
@@ -1856,6 +2381,48 @@ FormName = Blade Forme
 BaseStats = 60,140,50,60,140,50
 EVs = ATTACK,2,SPECIAL_ATTACK,1
 Pokedex = Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.
+#-------------------------------
+[SPRITZEE,1]
+FormName = Mineral Skin
+#-------------------------------
+[AROMATISSE,1]
+FormName = Mineral Skin
+#-------------------------------
+[INKAY,1]
+FormName = Mineral Skin
+#-------------------------------
+[MALAMAR,1]
+FormName = Mineral Skin
+#-------------------------------
+[SKRELP,1]
+FormName = Mineral Skin
+#-------------------------------
+[DRAGALGE,1]
+FormName = Mineral Skin
+#-------------------------------
+[TYRUNT,1]
+FormName = Mineral Skin
+#-------------------------------
+[TYRANTRUM,1]
+FormName = Mineral Skin
+#-------------------------------
+[DEDENNE,1]
+FormName = Mineral Skin
+#-------------------------------
+[CARBINK,1]
+FormName = Mineral Skin
+#-------------------------------
+[GOOMY,1]
+FormName = Mineral Skin
+#-------------------------------
+[SLIGGOO,1]
+FormName = Mineral Skin
+#-------------------------------
+[GOODRA,1]
+FormName = Mineral Skin
+#-------------------------------
+[KLEFKI,1]
+FormName = Mineral Skin
 #-------------------------------
 [PUMPKABOO,1]
 FormName = Average Size
@@ -1908,6 +2475,18 @@ Pokedex = Supersized Gourgeist aren't picky. They will forcefully drag anyone of
 WildItemCommon = MIRACLESEED
 WildItemUncommon = MIRACLESEED
 WildItemRare = MIRACLESEED
+#-------------------------------
+[BERGMITE,1]
+FormName = Mineral Skin
+#-------------------------------
+[AVALUGG,1]
+FormName = Mineral Skin
+#-------------------------------
+[NOIBAT,1]
+FormName = Mineral Skin
+#-------------------------------
+[NOIVERN,1]
+FormName = Mineral Skin
 #-------------------------------
 [XERNEAS,1]
 FormName = Active Mode
@@ -2021,6 +2600,27 @@ Height = 8.2
 Weight = 78.6
 Shape = MultiBody
 Pokedex = Weak Wishiwashi school together to concentrate their power. Their united force makes them the demon of the sea, feared near and far.
+#-------------------------------
+[DEWPIDER,1]
+FormName = Mineral Skin
+#-------------------------------
+[ARAQUANID,1]
+FormName = Mineral Skin
+#-------------------------------
+[STUFFUL,1]
+FormName = Mineral Skin
+#-------------------------------
+[BEWEAR,1]
+FormName = Mineral Skin
+#-------------------------------
+[SANDYGAST,1]
+FormName = Mineral Skin
+#-------------------------------
+[PALOSSAND,1]
+FormName = Mineral Skin
+#-------------------------------
+[PYUKUMUKU,1]
+FormName = Mineral Skin
 #-------------------------------
 [SILVALLY,1]
 FormName = Type: Fighting
@@ -2164,9 +2764,25 @@ Color = Purple
 Pokedex = If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.
 Flags = InheritFormFromMother
 #-------------------------------
+[TURTONATOR,1]
+FormName = Mineral Skin
+#-------------------------------
 [MIMIKYU,1]
 FormName = Busted Form
 Pokedex = Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.
+#-------------------------------
+[MIMIKYU,2]
+FormName = Mineral Skin
+#-------------------------------
+[MIMIKYU,3]
+FormName = Mineral Skin Busted
+Pokedex = Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.
+#-------------------------------
+[DRAMPA,1]
+FormName = Mineral Skin
+#-------------------------------
+[DHELMISE,1]
+FormName = Mineral Skin
 #-------------------------------
 [NECROZMA,1]
 FormName = Dusk Mane
@@ -2217,6 +2833,48 @@ FormName = Original Color
 Color = Red
 Pokedex = This gorgeous Magearna looks as it did at the time of its invention. Its luxurious decoration pleased the king's daughter.
 #-------------------------------
+[ROOKIDEE,1]
+FormName = Mineral Skin
+#-------------------------------
+[CORVISQUIRE,1]
+FormName = Mineral Skin
+#-------------------------------
+[CORVIKNIGHT,1]
+FormName = Mineral Skin
+#-------------------------------
+[BLIPBUG,1]
+FormName = Mineral Skin
+#-------------------------------
+[DOTTLER,1]
+FormName = Mineral Skin
+#-------------------------------
+[ORBEETLE,1]
+FormName = Mineral Skin
+#-------------------------------
+[NICKIT,1]
+FormName = Mineral Skin
+#-------------------------------
+[THIEVUL,1]
+FormName = Mineral Skin
+#-------------------------------
+[ROLYCOLY,1]
+FormName = Mineral Skin
+#-------------------------------
+[CARKOL,1]
+FormName = Mineral Skin
+#-------------------------------
+[COALOSSAL,1]
+FormName = Mineral Skin
+#-------------------------------
+[APPLIN,1]
+FormName = Mineral Skin
+#-------------------------------
+[FLAPPLE,1]
+FormName = Mineral Skin
+#-------------------------------
+[APPLETUN,1]
+FormName = Mineral Skin
+#-------------------------------
 [CRAMORANT,1]
 FormName = Gulping Form
 Pokedex = Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.
@@ -2232,14 +2890,38 @@ Moves = 0,SPARK,1,EERIEIMPULSE,1,BELCH,1,TEARFULLOOK,1,NUZZLE,1,GROWL,1,FLAIL,1,
 TutorMoves = ATTRACT,CAPTIVATE,CONFIDE,DOUBLEEDGE,DOUBLETEAM,DRAINPUNCH,EERIEIMPULSE,ELECTROBALL,ENCORE,ENDURE,FACADE,FIREPUNCH,FLING,FRUSTRATION,GIGAIMPACT,GUNKSHOT,HEX,HIDDENPOWER,HYPERBEAM,HYPERVOICE,MEGAKICK,MEGAPUNCH,MIMIC,NATURALGIFT,PAYBACK,POISONJAB,PROTECT,REST,RETURN,RISINGVOLTAGE,ROUND,SCARYFACE,SCREECH,SECRETPOWER,SLEEPTALK,SLUDGEBOMB,SLUDGEWAVE,SNARL,SNORE,STOREDPOWER,SUBSTITUTE,SWAGGER,SWIFT,TAUNT,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TOXIC,UPROAR,VENOMDRENCH,VOLTSWITCH,WILDCHARGE
 Pokedex = Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
 #-------------------------------
+[SIZZLIPEDE,1]
+FormName = Mineral Skin
+#-------------------------------
+[CENTISKORCH,1]
+FormName = Mineral Skin
+#-------------------------------
 [SINISTEA,1]
 FormName = Antique Form
 Pokedex = The swirl pattern in this Pokémon's body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy.
 Evolutions = POLTEAGEIST,Item,CHIPPEDPOT
 #-------------------------------
+[SINISTEA,2]
+FormName = Mineral Skin
+#-------------------------------
 [POLTEAGEIST,1]
 FormName = Antique Form
 Pokedex = Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.
+#-------------------------------
+[POLTEAGEIST,2]
+FormName = Mineral Skin
+#-------------------------------
+[IMPIDIMP,1]
+FormName = Mineral Skin
+#-------------------------------
+[MORGREM,1]
+FormName = Mineral Skin
+#-------------------------------
+[GRIMMSNARL,1]
+FormName = Mineral Skin
+#-------------------------------
+[MILCERY,63]
+FormName = Mineral Skin
 #-------------------------------
 [ALCREMIE,7]
 FormName = Ruby Cream
@@ -2423,6 +3105,18 @@ PokedexForm = 56
 [ALCREMIE,62]
 PokedexForm = 56
 #-------------------------------
+[ALCREMIE,63]
+FormName = Mineral Skin
+#-------------------------------
+[FALINKS,1]
+FormName = Mineral Skin
+#-------------------------------
+[SNOM,1]
+FormName = Mineral Skin
+#-------------------------------
+[FROSMOTH,1]
+FormName = Mineral Skin
+#-------------------------------
 [EISCUE,1]
 FormName = Noice Face
 BaseStats = 75,80,70,130,65,50
@@ -2442,6 +3136,17 @@ Pokedex = They diligently serve people and Pokémon so they can gather feelings 
 FormName = Hangry Mode
 Color = Purple
 Pokedex = Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds.
+#-------------------------------
+[MORPEKO,2]
+FormName = Mineral Skin
+#-------------------------------
+[MORPEKO,3]
+FormName = Hangry Mineral Skin
+Color = Purple
+Pokedex = Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds.
+#-------------------------------
+[DURALUDON,1]
+FormName = Mineral Skin
 #-------------------------------
 [ZACIAN,1]
 FormName = Crowned Sword
