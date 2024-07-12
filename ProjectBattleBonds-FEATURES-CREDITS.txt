@@ -767,8 +767,20 @@ Idillio
 Dasani
 Shyin
 
->Ekat's additional works not included in the Public Tileset collection (Skyscraper)
+# Additional Ekat-associated works not included in the Public Tileset collection 
+--------------------------------------------------------------------------------
+(Skyscraper)
 Ekat
+
+(Shore Town)
+Ekat
+Anonalpaca
+Heartlessdragoon
+Idilio
+Kingtapir
+Thewilddeadhero
+Vurtax
+Zeo
 
 # GBA Snow Tileset
 ------------------

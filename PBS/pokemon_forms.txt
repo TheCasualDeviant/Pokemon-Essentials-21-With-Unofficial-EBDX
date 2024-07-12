@@ -1556,10 +1556,10 @@ FormName = Mineral Skin
 [BRONZONG,1]
 FormName = Mineral Skin
 #-------------------------------
-[RIOLU,1]
+[RIOLU,2]
 FormName = Mineral Skin
 #-------------------------------
-[LUCARIO,1]
+[LUCARIO,2]
 FormName = Mineral Skin
 #-------------------------------
 [CROAGUNK,1]
