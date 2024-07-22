@@ -573,6 +573,7 @@ CODEMASTER - Ruby, Game Engineering, Game Balancer, "The Second Opinion"
 MUSICAL ASSOCIATE
 	PhotonAqua
 
+
 --------------------------------------------------------------------------
 # MUSIC AND COMMISSIONS [See the soundtrack section for details on each] #
 --------------------------------------------------------------------------
@@ -791,6 +792,13 @@ CinnaYva
 Scizor User
 
 All Tileset modifications to the previously credited sets and arrangements of those sets created by Fossilized_Nerd
+
+
+------------------------------------------------------------------
+# PEOPLE WHO HELPED WITHOUT REALIZING THEY DID FROM HELP THREADS #
+------------------------------------------------------------------
+catwithnojob - Mineral Skins advice
+
 
 
 ---------------------------------------------------
