@@ -739,6 +739,14 @@ Other:
 # ARTWORK - TILES / OVERWORLD #
 -------------------------------
 
+# Custom Fog Animations
+-----------------------
+(Scale Tunnel Dripping Ceiling)
+Feebelle
+Fossilized_Nerd
+
+
+
 # Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
 ------------------------------------------------------------------------------
 Thank you all for such a wonderful public resource!
@@ -794,11 +802,12 @@ Scizor User
 All Tileset modifications to the previously credited sets and arrangements of those sets created by Fossilized_Nerd
 
 
-------------------------------------------------------------------
-# PEOPLE WHO HELPED WITHOUT REALIZING THEY DID FROM HELP THREADS #
-------------------------------------------------------------------
-catwithnojob - Mineral Skins advice
-
+--------------------------------------------------------------------------------
+# PEOPLE WHO HELPED WITHOUT REALIZING THEY DID FROM EEVEE EXPO SUPPORT THREADS #
+--------------------------------------------------------------------------------
+catwithnojob - Mineral Skins logicbase
+Vendily - animated fog
+rainefall - wide radius Flash lighting
 
 
 ---------------------------------------------------
