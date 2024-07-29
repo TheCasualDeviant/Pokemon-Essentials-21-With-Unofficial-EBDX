@@ -747,8 +747,8 @@ Fossilized_Nerd
 
 
 
-# Ekat's Public Gen 3 Tilesets - Featuring the works of the following artists:
-------------------------------------------------------------------------------
+# Ekat's Public Gen 3 Tilesets Pack - Featuring the works of the following artists:
+-----------------------------------------------------------------------------------
 Thank you all for such a wonderful public resource!
 
 Ekat
@@ -797,9 +797,18 @@ CinnaYva
 
 # Scizor User's Sewer Tileset
 -----------------------------
+(Autotiles)
 Scizor User
 
-All Tileset modifications to the previously credited sets and arrangements of those sets created by Fossilized_Nerd
+# Sewer Tileset
+---------------
+Aveontrainer
+
+
+# All modifications to the previously credited Tilesets, Autotiles, and arrangements of those sets created by:
+--------------------------------------------------------------------------------------------------------------
+Fossilized_Nerd
+(Seriously, thank you all for all these resources, it was a blast editing, using, and assembling them to make sets of our own!)
 
 
 --------------------------------------------------------------------------------
