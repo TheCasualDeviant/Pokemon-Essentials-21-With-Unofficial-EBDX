@@ -102,13 +102,6 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
-[022]   # Zone Zero - The Valley of Dragons
-Name = Zone Zero
-Outdoor = true
-ShowArea = true
-Bicycle = true
-Environment = Grass
-#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -227,9 +220,9 @@ MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
 [043]   # Scale Tunnel B2
+Name = Scale Tunnel B2
 Bicycle = true
 DarkMap = true
-BattleBack = 
 Environment = Cave
 #-------------------------------
 [044]   # Route 6
@@ -445,3 +438,26 @@ Name = Powdered Cave
 ShowArea = true
 MapPosition = 0,2,12
 Environment = Snow
+#-------------------------------
+[022]   # Zone Zero - West
+Outdoor = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[082]   # Zone Zero - North
+Outdoor = true
+Bicycle = true
+MapPosition = 0,5,11
+Environment = Grass
+#-------------------------------
+[083]   # Zone Zero - East
+Outdoor = true
+Bicycle = true
+MapPosition = 0,8,14
+Environment = Grass
+#-------------------------------
+[085]   # Zone Zero - South
+Outdoor = true
+Bicycle = true
+MapPosition = 0,6,14
+Environment = Grass

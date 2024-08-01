@@ -38,7 +38,17 @@
 41,South,6,45,North,0
 # Battle Frontier (52) - Route 7 (47)
 52,West,0,47,East,8
-# Route 8 (69) - Safari Zone outside (66)
-69,North,0,66,South,10
 # Dustington (48) - Powdered Trail (78)
 48,West,0,78,East,32
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Zone Zero - South (83) - Zone Zero - East (82)
+83,North,49,82,South,0
+# Zone Zero - North (85) - Zone Zero - East (82)
+85,East,0,82,West,0
+# Zone Zero - South (83) - Zone Zero - West (22)
+83,West,0,22,East,58
+# Zone Zero - North (85) - Zone Zero - West (22)
+85,West,0,22,East,0
+# Zone Zero - North (85) - Zone Zero - South (83)
+85,South,0,83,North,0
