@@ -102,6 +102,12 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Zone Zero - West
+Name = Zone Zero - West
+Outdoor = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -159,7 +165,7 @@ Bicycle = true
 BattleBack = cave1
 Environment = Cave
 #-------------------------------
-[033]   # Scale Tunnel B1
+[033]
 Name = Scale Tunnel B1
 Bicycle = true
 DarkMap = true
@@ -219,7 +225,7 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
-[043]   # Scale Tunnel B2
+[043]
 Name = Scale Tunnel B2
 Bicycle = true
 DarkMap = true
@@ -433,31 +439,63 @@ Bicycle = true
 Weather = Snow,100
 Environment = Snow
 #-------------------------------
-[079]   # Powdered Cave F1
-Name = Powdered Cave
+[079]   # Scale Tunnel B1
+Name = Scale Tunnel - B1
 ShowArea = true
-MapPosition = 0,2,12
-Environment = Snow
-#-------------------------------
-[022]   # Zone Zero - West
-Outdoor = true
 Bicycle = true
-Environment = Grass
+MapPosition = 0,2,12
+DarkMap = true
+BattleBack = 
+Environment = Cave
 #-------------------------------
-[082]   # Zone Zero - North
+[080]   # Scale Tunnel B2
+Name = Scale Tunnel - B2
+ShowArea = true
+Bicycle = true
+DarkMap = true
+MapSize = 0,
+Environment = Cave
+#-------------------------------
+[082]   # Zone Zero - East
+Name = Zone Zero - East
 Outdoor = true
 Bicycle = true
 MapPosition = 0,5,11
 Environment = Grass
 #-------------------------------
-[083]   # Zone Zero - East
+[083]   # Zone Zero - South
+Name = Zone Zero - South
 Outdoor = true
 Bicycle = true
 MapPosition = 0,8,14
 Environment = Grass
 #-------------------------------
-[085]   # Zone Zero - South
+[084]   # BlockStreet
+Name = Block Street - Ileas City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[085]   # Zone Zero - North
+Name = Zone Zero - North
 Outdoor = true
 Bicycle = true
 MapPosition = 0,6,14
 Environment = Grass
+#-------------------------------
+[086]   # ScaleExit
+Outdoor = true
+Bicycle = true
+Environment = Grass
+#-------------------------------
+[087]   # Powdered Cave F1
+Name = Powdered Cave - F1
+ShowArea = true
+BattleBack = 
+Environment = Cave
+#-------------------------------
+[088]   # Powdered Cave B1
+Name = Powdered Cave - B1
+ShowArea = true
+Environment = Ice
