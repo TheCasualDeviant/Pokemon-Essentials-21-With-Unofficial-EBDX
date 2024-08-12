@@ -718,6 +718,20 @@ From Pokémon Black, White, Black 2, and White 2 - theme of Undella Town (not Su
 Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 
 
+87 - The Showdown
+#----------------
+Theme of "VS Synthesizer Boss"
+From Rhythm Heaven (DS) - theme of Remix Eight
+Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
+
+
+88 - Project: Battle Bonds
+#-------------------------
+Theme of "VS [REDACTED]"
+From Etrian Odyssey III - theme of Wireless Battle
+Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
+
+
 #============================================================================================================================
 
 
