@@ -317,7 +317,7 @@ Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 31 - 'Round the Clock
 #--------------------
 Theme of "Factory Street"
-From Kirby 64: The Crystal Shards (N64) - theme of "Factory Inspection"
+From Mario & Luigi: Partners in Time - theme of Vim Factory
 Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 
 
@@ -1043,6 +1043,7 @@ Fossil Fighters Champions
 Etrian Odyssey III
 Fire Emblem: Shin Monshou no Nazo ~ Hikari to Kage no Eiyuu (AKA "New Mystery of the Emblem")
 Ghost Trick: Phantom Detective
+Mario & Luigi: Partners in Time
 Super Mario RPG: Legend of the Seven Stars
 
 
