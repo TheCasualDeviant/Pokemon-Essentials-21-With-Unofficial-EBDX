@@ -9315,3 +9315,15 @@ FunctionCode = RaiseUserSpeed1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
 Description = The user leaps from conjured grasses into the target, boosting its Speed at the time.
+#-------------------------------
+[SONOROUSSUNDIAL]
+Name = Sonorous Sundial
+Type = GHOST
+Category = Special
+Power = 120
+Accuracy = 100
+Total PP = 5
+Target = NearOther
+FunctionCode = EffectDependsOnFormHeal
+Flags = CanProtect
+Description = The user rolls back time to inflict damage and lower its defenses. Heals upon failure.
