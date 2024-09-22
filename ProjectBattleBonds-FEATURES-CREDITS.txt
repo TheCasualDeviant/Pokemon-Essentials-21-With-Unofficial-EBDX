@@ -416,7 +416,7 @@ From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Eterna Forest
 Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 
 
-45 - and they will let you hear them sing.
+45 - and they will sing for you.
 #-----------------------------------------
 Theme of "Outcast Hovel"
 From Pokémon White and White 2 (DS) - theme of White Forest
@@ -730,6 +730,13 @@ Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 #-------------------------
 Theme of "VS [REDACTED]"
 From Etrian Odyssey III - theme of Wireless Battle
+Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
+
+
+89 - A drop will do.
+#-------------------
+Theme of "Whitecliff Village Mineral Spring"
+From Etrian Odyssey III - theme of the First Stratum
 Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 
 
