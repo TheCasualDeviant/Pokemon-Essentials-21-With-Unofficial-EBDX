@@ -1883,8 +1883,8 @@ Flags = InheritFormWithEverStone
 Evolutions = DARMANITAN,Item,ICESTONE
 #-------------------------------
 [DARMANITAN,1]
-FormName = Zen Mode
-Types = FIRE,PSYCHIC
+FormName = Dormant Forme
+Types = ROCK
 BaseStats = 105,30,105,55,140,105
 BaseExp = 189
 EVs = SPECIAL_ATTACK,2

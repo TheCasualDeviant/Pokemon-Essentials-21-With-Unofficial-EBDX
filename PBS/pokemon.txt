@@ -14454,8 +14454,8 @@ Generation = 5
 Evolutions = DARMANITAN,Level,35
 #-------------------------------
 [DARMANITAN]
-Name = Darmanitan
-FormName = Standard Mode
+Name = Klokotal
+FormName = Omen Forme
 Types = FIRE
 BaseStats = 105,140,55,95,30,55
 GenderRatio = Female50Percent

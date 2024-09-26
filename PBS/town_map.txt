@@ -2,7 +2,7 @@
 #-------------------------------
 [0]
 Name = Ileas
-Filename = mapRegion0.png
+Filename = NewIleas.png
 #-------------------------------
 [1]
 Name = Tiall
