@@ -409,15 +409,15 @@ From Fossil Fighters (DS) - theme of "Cleaning"
 Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
 
 
-44 - Ask the trees to hum
+44 - The hum of the trees
 #------------------------
 Theme of "Zone Six - Outcast Forest"
 From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Eterna Forest
-Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
+Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
 
 
-45 - and they will sing for you.
-#-----------------------------------------
+45 - The chorus of solitude
+#--------------------------
 Theme of "Outcast Hovel"
 From Pokémon White and White 2 (DS) - theme of White Forest
 Reorchestrated by Fossilized_Nerd using direct file-rip MIDI & Synthfont
@@ -430,7 +430,7 @@ From Pokémon Black 2 and White 2 (DS) - theme of Driftveil City Gym
 Ripped and looped as part of ENLS' Pre-Looped Library
 
 
-47 - Step into your Mind
+47 - Step Into Your Mind
 #-----------------------
 Theme of "Outcast Hovel Gym"
 From Pokémon Black 2 and White 2 (DS) - theme of Castelia City Gym
