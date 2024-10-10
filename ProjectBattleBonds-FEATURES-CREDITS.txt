@@ -1006,6 +1006,10 @@ Scizor User
 ---------------
 Aveontrainer
 
+# Ripped assets from Ruin Valley (FRLG)
+---------------------------------------
+FrenchOrange via The Spriters Resource
+
 
 # All modifications to the previously credited Tilesets, Autotiles, and arrangements of those sets created by:
 --------------------------------------------------------------------------------------------------------------
