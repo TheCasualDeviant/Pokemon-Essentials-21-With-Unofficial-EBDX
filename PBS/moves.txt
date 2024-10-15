@@ -9316,6 +9316,19 @@ Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 100
 Description = The user leaps from conjured grasses into the target, boosting its Speed at the time.
 #-------------------------------
+[GNARLEDKNOCK]
+Name = Gnarled Knock
+Type = FAIRY
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = RaiseUserSpDef1
+Flags = Contact,CanProtect,CanMirrorMove
+EffectChance = 100
+Description = The user conjures gnarled energy under the foe to attack, boosting the user's Special Defense.
+#-------------------------------
 [SONOROUSSUNDIAL]
 Name = Sonorous Sundial
 Type = GHOST
