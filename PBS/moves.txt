@@ -9340,3 +9340,15 @@ Target = NearOther
 FunctionCode = EffectDependsOnFormHeal
 Flags = CanProtect
 Description = The user rolls back time to inflict damage and lower its defenses. Heals during Zen Mode.
+#-------------------------------
+[TAKEHEART]
+Name = Take Heart
+Type = WATER
+Category = Status
+Power = 0
+Accuracy = 100
+TotalPP = 15
+Target = User
+FunctionCode = RaiseUserSpAtkSpDef1CureStatus
+Description = The user lifts its spirits, curing its own status conditions and boosting Sp. Atk and Sp. Def.
+#-------------------------------
