@@ -4563,13 +4563,13 @@ Description = A consecutive three-kick attack that becomes more powerful with ea
 Name = Sheer Cold
 Type = ICE
 Category = Special
-Power = 1
-Accuracy = 30
+Power = 150
+Accuracy = 100
 TotalPP = 5
 Target = NearOther
-FunctionCode = OHKOIce
+FunctionCode = AttackAndSkipNextTurn
 Flags = CanProtect,CanMirrorMove
-Description = The foe is attacked with a blast of absolute-zero cold. The target instantly faints if it hits.
+Description = The foe is attacked with a blast of absolute-zero cold. The user will need to recharge.
 #-------------------------------
 [AURORAVEIL]
 Name = Aurora Veil
