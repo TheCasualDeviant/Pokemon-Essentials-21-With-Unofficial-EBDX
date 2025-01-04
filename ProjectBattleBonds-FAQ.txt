@@ -9,10 +9,10 @@ Note: If you read any sort of public facing forum post from Fossilized_Nerd or F
 
 Q - How long has Project: Battle Bonds been in development?
 A - Since December of 2022. Development originally began with just spreadsheeting - as a result of a literal dream the director had.
-	Not exaggerating; he was awoken from sleep after dreaming of the exact concept of what you experience here. He scrambled to write down as
+	Not exaggerating; he was awoken from sleep after dreaming of the exact concept of what you'll experience here. He scrambled to write down as
 	much as humanly possible and then got back to bed, then finished the concept the next morning after finishing that night of sleep.
 	
-	The project's art director joined in February of 2023, followed by some code assistance in Autumn of that same year.
+	The project's art director joined in February of 2023, followed by our codemaster in Autumn of that same year.
 	
 Q - Is the Ileas region based on a real world location?
 A - Not exactly, in terms of geography. The geography is all original.
@@ -24,7 +24,8 @@ A - All battles against Trainers are Double battles. Wild Pokémon battles will 
 	
 	As for the WHY doubles - there is no "core" Pokémon experience that has pushed Doubles as the primary method of play since the GameCube duology.
 	The team wanted to create a new Doubles-focused experience. The game is designed entirely around this, including movepools and level-ups.
-	Please, if you do not play Doubles often, give it a shot! You will enjoy  the experience if you have an open mind, we promise.
+	Please, if you do not play Doubles often, give it a shot! You will enjoy  the experience if you have an open mind about Doubles, we promise.
+	
 	**NOTE: This game concept was conceived of before we knew that the DLC "The Hidden Treasure of Area Zero" would strongly promote Double Battling.
 	What a funny timeline we ended up in, huh? But we're glad they did it!
 	
@@ -42,7 +43,15 @@ A - Almost all of our artwork was made using Aseprite, with some exceptions. We 
 Q - Was AI used in making this game?
 A - Absolutely not. We're repulsed by the idea of even attempting that.
 
-Q - Where can I see who made what for this game?
+Q - Where can I donate to the team for this game?
+A - You can't. We're not accepting donations related to this project. This is a free game. We couldn't accept money for it even if we wanted to and were
+	allowed to by law, anyways - so we're not going to.
+	
+Q - If you are not accepting donations, how was this project funded?
+A - Good question - it was just funded by our director's personal money. The entire development team has "real world" jobs. Some of us, multiple at once.
+	In this specific case, the Director funded everything. No monetary contributions from anyone else were involved (and were not sought out, either).
+
+Q - Where can I see who made what things for this game?
 A - Aside from the Credits sequence, we put a detailed list of who made which assets in the FEATURES-CREDITS Text file included with this game.
 
 Q - Can I make content about this game? (Fan art, fan fiction, video, etc.)
@@ -61,7 +70,7 @@ A - Check the CHANGELOG file! This will be used in the future to provide updates
 			All other balance changes were made with the intent of adjusting things to be either more fun or more useful at a minimum.
 
 Q - I think I found a bug, what do I do?
-A - You can report crashes and bugs to our Discord channel #issues, we'll investigate. We need you to screenshot the error code pop-up if you get one.
+A - You can report crashes and bugs to our Discord channel #issues, and we'll investigate. We need you to screenshot the error code pop-up if you get one.
 
 Q - Can I play this with a Mac or other non-Windows device?
 A - We cannot reliably guarantee that your Linux devices will work, but they SHOULD.
