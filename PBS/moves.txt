@@ -9352,3 +9352,12 @@ Target = User
 FunctionCode = RaiseUserSpAtkSpDef1CureStatus
 Description = The user lifts its spirits, curing its own status conditions and boosting Sp. Atk and Sp. Def.
 #-------------------------------
+[SHELTER]
+Name = Shelter
+Type = STEEL
+Category = Status
+Accuracy = 0
+TotalPP = 15
+Target = User
+FunctionCode = RaiseUserDefense2
+Description = The user hardens its body's surface like iron, sharply raising its Defense stat.
