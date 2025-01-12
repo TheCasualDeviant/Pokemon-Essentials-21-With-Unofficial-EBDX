@@ -31,7 +31,7 @@ Credits are also included beneath the Soundtrack. This is a 1:1 copy of what you
 	Towns that you can adventure to at almost any time you want (you might wander into a place that is too strong for you!)
 	A cab service that connects all major settlements in the region
 	
--250 region-local Pokémon to capture & continuous rewards for Dex Completion
+-251 region-local Pokémon to capture & continuous rewards for Dex Completion
 -30 additional Pokémon you can obtain before the end of the main campaign - these do not count towards completion
 -Brand-new animated sprites for several post-DS Pokémon provided by a talented lineup of artists
 
@@ -41,7 +41,7 @@ Credits are also included beneath the Soundtrack. This is a 1:1 copy of what you
 -"Skills" replace HMs and can be obtained from clearing a Pokémon Gym, allowing continuous reasons to return to
 	each area you previously visited or passed-through for access to more Pokémon and items
 	
--Adjustments to the Ice, Water, Bug, Fairy, Rock, and Poison types (Ice, Bug, Rock, and Poison are all improvements)
+-Adjustments to the Ice, Water, Bug, Fairy, Rock, and Poison types (Ice, Bug, Rock, and Poison are all improved)
 -Frostbite from Pokémon Legends Arceus and Snow from Pokémon Scarlet and Violet
 -New items to coincide with the addition of Frostbite & some new healing items
 
@@ -54,7 +54,7 @@ Credits are also included beneath the Soundtrack. This is a 1:1 copy of what you
 
 -Customizable Pokémon attributes including:
 	Manually-allocated Effort Values (EVs)
-	Manual ability selection at Pokémon Centers
+	Manual ability selection at all Pokémon Centers
 	Easily-accessed move tutors
 	Easily-accessed "competitive" items
 	Move relearner at all Pokémon Centers
@@ -85,676 +85,8 @@ Credits are also included beneath the Soundtrack. This is a 1:1 copy of what you
 	An "ultimate fight" against [REDACTED]
 	
 	Oh, come on, we're not going to spoil the postgame story! That would be ridiculous!
+	
 #============================================================================================================================
-
-
-
-#============================================================================================================================
-# SOUNDTRACK
-#============================================================================================================================
-
-Below is the full soundtrack, including all composers, songs of origin, and connecting themes in the game.
-Do NOT read what all the music is from before playing if you are avoiding spoilers!
-
-Note:  all standard trainer encounter music is taken from Pokémon Black and White, ripped by ENLS as part of their 
-	Pre-Looped Library.
-	All final renditions of tracks reorchestrated by Fossilized_Nerd were reviewed and advised by PhotonAqua.
-	All instances of the music being used during important scenes that we don't want spoiled will be marked with "[REDACTED]
-
-
-01 - Congratulations!
-#--------------------
-Theme of "Intro" and "Professor Maple"
-From Ace Attorney Investigations: Miles Edgeworth (DS) - theme of Credits
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-02 - Echoes of Prophecy
-#----------------------
-Theme of "Late one night" and "Temple of Ileas"
-From Fossil Fighters (DS) - theme of Secret Site: Interior (Crashed Starship)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-03 - Cabins in the Snow
-#----------------------
-Theme of "Dustington"
-Original piece, previously titled "Raufor Town" cposed by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled]
-Repaired and arranged by PhotonAqua for soundfont use in Reaper
-Reformatted by Fossilized_Nerd using Synthfont
-
-
-04 - I've Got This!
-#------------------
-Theme of "VS Oswald" and "VS Battle Brigade"
-From Pokémon Trading Card Game (GB) - theme of VS Ronald
-Rearranged by Pascal Van Den Bos
-
-
-05 - Stay safe, hon!
-#-------------------
-Theme of "Pokémon Center"
-From Fossil Fighters: Champions (DS) - theme of VMM
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-06 - A Brief Side Route
-#----------------------
-Theme of "Powdered Trail"
-From Fossil Fighters (DS) - theme of Coldfeet Glacier
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-07 - Buckle In!
-#--------------
-Theme of "VS Wild Pokémon"
-Featuring elements from: Pokémon XD Gale of Darkness (GCN) - theme of VS Trainer
-Composed by LaunchpadVGM
-
-
-08 - Ileas Style!
-#----------------
-Theme of "VS Trainer"
-From Pokémon Trading Card Game (GB) - theme of VS Player/Trainer
-Rearranged by Zame_It
-
-
-09 - Shivering Darkness
-#----------------------
-Theme of "Powdered Cave"
-From Pokémon Heart Gold and Soul Silver (DS) - theme of Mt. Moon
-Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
-
-
-10 - Stop, relax...
-#------------------
-Theme of "Crossway"
-From Fossil Fighters (DS) - theme of VMM
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-11 - Violent Domain
-#------------------
-Theme of "Zone Zero - The Valley of Dragons"
-From Fossil Fighters (DS) - theme of Mt. Lavaflow
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-12 - Winding Veins
-#-----------------
-Theme of "Scale Tunnel"
-From Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky (DS) - theme of Quicksand Cave
-Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
-
-
-13 - Any ol' Street
-#------------------
-Theme of "Block Street"
-From Pokémon Black 2 and White 2 (DS) - theme of Virbank City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-14 - Hearts of Science
-#---------------------
-Theme of "IPRF Laboratory"
-From Ace Attorney Investigations: Miles Edgeworth (DS) - theme of Credits (second reorchestration)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-15 - With Love and Care
-#----------------------
-Theme of "Ileas City Sanctuary"
-From Pokémon Heart Gold and Soul Silver (DS) - theme of Cianwood City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-16 - Reclaimed Beauty
-#--------------------
-Theme of "Ileas City Skyway"
-From Pokémon Black and White (DS) - theme of Lacunosa Town
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-17 - Look Alive, Kid!
-#--------------------
-Theme of "Central Ileas City"
-From Etrian Odyssey III (DS) - theme of Port ("Sunlight on the Water")
-Reorchestrated by Fossilized_Nerd via Synthfont
-Custom percussion provided by LaunchpadVGM
-
-
-18 - Gear Up!
-#------------
-Theme of "Battle Brigade HQ"
-From Pokémon Black (DS) - theme of Opelucid City
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-19 - Our Victories All Lie Before Us
-#-----------------------------------
-Theme of "Battle Brigade - Emotion"
-From Pokémon White (DS) - theme of Opelucid City
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-20 - Help us set up, would you?
-#------------------------------
-Theme of "Central Ileas City Gym" and "Hard Stone Hamlet Gym"
-From Pokémon Black 2 and White 2 (DS) - theme of Opelucid City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-21 - Give us your money...
-#-------------------------
-Theme of "The Ivy Boys"
-From Ace Attorney Investigations: Miles Edgeworth (DS) - theme of Detective Tyrell Badd ("The Truth Ain't Sweet")
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-22 - The Garden Needs Pruning
-#----------------------------
-Theme of "Skyway Gym"
-From Pokémon Black 2 and White 2 (DS) - theme of Humilau City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-23 - Together!
-#-------------
-Theme of "VS Gym Leader Duo"
-From Pokémon Trading Card Game (GB) - theme of VS Grand Masters
-Rearranged by xy_ue
-
-
-24 - Victory Lies Before Us!
-#---------------------------
-Theme of "VS Ace Pokémon / Last Pokémon Standing"
-From Pokémon: The Anime - theme of Ingido League Opening ("Gotta Catch 'Em All")
-Composed by John Siegler and John Loeffler
-Rearranged by AdAstraGL
-
-
-25 - Is it really a mall if I can't get food poisoning from a food court?
-#------------------------------------------------------------------------
-Theme of "Central Ileas City Shopping Mall - General Store" and "Factory Street Emporium"
-From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Hearthome City (Day)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-26 - Friendly Faces
-#------------------
-Theme of Friendly Encounters with various characters
-From Etrian Odyssey III (DS) - theme of Cityscape "Between the Azure Skies and Seas"
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-27 - Calculating Mind
-#--------------------
-Theme of the Pokémon Leaguemasters
-From Phoenix Wright: Ace Attorney Trials and Tribulations (GBA/DS) - theme of Investigation
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-28 - Together, we are alone.
-#---------------------------
-Theme of "Emotion"
-From Etrian Odyssey III (DS) - Opening theme
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-29 - The One who Left
-#--------------------
-Theme of "Axyl"
-From Ghost Trick: Phantom Detective (DS) - theme of Security Officers ("The Imprisoned")
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-30 - Cabbie!
-#-----------
-Theme of "Cab Stops"
-From Rhythm Heaven (DS) - theme of Rhythm Game "Tunnel"
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-31 - 'Round the Clock
-#--------------------
-Theme of "Factory Street"
-From Mario & Luigi: Partners in Time - theme of Vim Factory
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-32 - The Walls Ooze Green Slime
-#------------------------------
-Theme of "Zone Five - Subcity Sewers"
-From Pokémon Colosseum (GCN) - theme of The Under
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-33 - Beneath No City
-#-------------------
-Theme of "The Subcity"
-From Fossil Fighters Champions (DS) - theme of Bare Bones Brigade Headquarters
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-34 - Locus of Connection
-#-----------------------
-Theme of "Locus Bridge"
-From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Canalave City (Night)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-35 - It's modest work.
-#---------------------
-Theme of "Man-Tow Port"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Nacrene City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-36 - ... or we'll beat it out of you!
-#------------------------------------
-Theme of "VS Ivy Boys"
-From Fossil Fighters Champions (DS) - theme of VS Bare Bones Brigade
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-37 - Blue Horizons
-#-----------------
-Theme of "Zone Two - Moonstone Bay"
-From Pokémon Heart Gold and Soul Silver (DS) - theme of Violet City
-Reorchestrated by Fossilized_Nerd via Synthfont
-Ambient sound from Pokémon Black, White, Black 2, and White 2 - theme of Undella Bay
-
-
-38 - Let's build something quaint!
-#---------------------------------
-Theme of "Whitecliff Village"
-From Pokémon Ruby, Sapphire, and Emerald (GBA) - theme of Sootopolis City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-39 - Plains, vast as the sky
-#---------------------------
-Theme of "Zone Three - The Roaring Fields"
-Original arrangement of Azalea Town and National Park, 
-Written by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled]
-Repaired and arranged by PhotonAqua for soundfont use in Reaper
-Reformatted by Fossilized_Nerd using Synthfont
-
-
-40 - Hay Bale Respite
-#--------------------
-Theme of "Cheriville Farm"
-From Pokémon Heart Gold and Soul Silver (DS) - theme of Azalea Town
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-41 - You're Always Home
-#----------------------
-Theme of "Cheriville"
-From Pokémon Black 2 and White 2 (DS) - theme of Aspertia City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-42 - Carbink, Crystalline
-#------------------------
-Theme of "Zone Four - Carbink Quarry"
-From Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky (DS) - theme of Aegis Cave
-Reorchestrated by Fossilized_Nerd via Synthfont
-Custom percussion provided by Fossilized_Nerd
-
-
-43 - Get digging!
-#----------------
-Theme of "Dig"
-From Fossil Fighters (DS) - theme of "Cleaning"
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-44 - The hum of the trees
-#------------------------
-Theme of "Zone Six - Outcast Forest"
-From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Eterna Forest
-Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
-
-
-45 - The chorus of solitude
-#--------------------------
-Theme of "Outcast Hovel"
-From Pokémon White and White 2 (DS) - theme of White Forest
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-46 - Busy as ever...
-#-------------------
-Theme of "Subcity Gym / Cheriville Gym"
-From Pokémon Black 2 and White 2 (DS) - theme of Driftveil City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-47 - Step Into Your Mind
-#-----------------------
-Theme of "Outcast Hovel Gym"
-From Pokémon Black 2 and White 2 (DS) - theme of Castelia City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-48 - Encounters with Odd Ones
-#----------------------------
-Theme of "Odd Ones" and "[REDACTED]"
-From Fossil Fighters (DS) - theme of the Dinaurians
-Reorchestrated by Fossilized_Nerd via Synthfont
-Ambient sound from theme of "VS [REDACTED]"
-
-
-49 - Fascinating!
-#----------------
-Theme of "Researcher Colress"
-From Pokémon Black 2 and White 2 (DS) - theme of Encounter: Colress
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-50 - Quiz Man's Salsa
-#--------------------
-Theme of "Miror B.'s Quiz Time"
-From Pokémon Colosseum (GCN) - theme of VS Miror B.
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-51 - Joyous Bike Ride
-#--------------------
-Theme of "Bicycle"
-From Apollo Justice: Ace Attorney (DS) - theme of Trucy
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-52 - Fresh Pie?
-#--------------
-Theme of "Man-Tow Pizza"
-Originally titled "Funiculi, Funicula" and composed by Luigi Denza. Reused in Spiderman 2 (PS2)
-MIDI sequenced by ... someone who deleted their username and said "Credit if Used," so here's the URL they posted it at:
-https://www.vgmusic.com/file/0c91bb6c70bf0101d46f7559bca6c09d.html
-Note from the director: I do not believe this person meant to delete their own name from the Credits section.
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-53 - Play a Round!
-#-----------------
-Theme of "Subcity Game Corner"
-From Fossil Fighters (DS) - theme of Police Station
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-54 - PR3P4RE_4_IN5P3CTI0N
-#------------------------
-Theme of "Item Factory: Production Floor"
-From Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky (DS) - theme of Craggy Coast
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-55 - A Special Place
-#-------------------
-Theme of "Cheriville Hall"
-From Pokémon Heart Gold and Soul Silver (DS) - theme of National Park
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-56 - Calm Silence
-#----------------
-Theme of "Private Graveyard" and "Ending"
-From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Pokémon League (Night)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-57 - Be safe out there!
-#----------------------
-Theme of "Hard Stone Hamlet"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Anville Town
-Reorchestrated by Fossilized_Nerd via Synthfont
-Ambient sound & percussion relocated from the start of the theme of Anville Town
-
-
-58 - Working up a Sweat
-#----------------------
-Theme of "Carkol Mines"
-From Pokémon White 2 (DS) - theme of Reversal Mountain
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-59 - Dire Discussions
-#--------------------
-Theme of "Olga" and "Emergency Meeting"
-From Apollo Justice: Ace Attorney (DS) - theme of Solitary Confinement
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-60 - Kissed in the Dark
-#----------------------
-Theme of "Secret Tunnels"
-From Pokémon Mystery Dungeon: Red and Blue Rescue Team (GBA/DS) - theme of Great Canyon
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-61 - A Drifting Dance
-#--------------------
-Theme of "Surf"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Dreamyard
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-62 - Hey! Can you hear me?
-#-------------------------
-Theme of "Telepathy"
-From Super Mario RPG: Legend of the Seven Stars (SNES) - theme of Star Hill ("Starlight's Flower")
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-63 - Strike a pose and read this:
-#--------------------------------
-Theme of "Man-Tow Port Gym"
-From Pokémon Black 2 and White 2 (DS) - theme of Aspertia City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-64 - Early Pay Day
-#-----------------
-Theme of "Factory Street - Workday Over"
-From Pokémon Black 2 and White 2 (DS) - theme of Humilau City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-65 - Fighting for Our Lives
-#--------------------------
-Theme of "VS Odd Ones"
-From Fossil Fighters (DS) - theme of VS Guhnash
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-66 - Abandoned by Nature
-#-----------------------
-Theme of "Zone Seven - Uncharted Forest"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Dragonspiral Tower
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-67 - A Final Goodbye
-#-------------------
-Theme of "Goodbye"
-From Fire Emblem: New Mystery of the Emblem (DS) - theme of Katarina ("Puppets Don't Cry")
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-68 - Fulfilling the Prophecy
-#---------------------------
-Theme of "Zone Seven - Uncharted Forest: Crater Site"
-From Fossil Fighters (DS) - theme of Secret Site: Interior (Crashed Starship)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-69 - Creature from the Stars
-#---------------------------
-Theme of "VS [REDACTED]"
-From Pokémon Fire Red and Leaf Green (GBA) - theme of VS [REDACTED]
-Reorchestrated by Fossilized_Nerd via Synthfont
-Note from the director: usually we wouldn't redact the theme credited, but the redacted items here belong to the same thing.
-	We'd prefer you all remain unspoiled - you'll know when you hear it.
-
-
-70 - The Gates to Glory
-#----------------------
-Theme of "Durantown"
-From Fossil Fighters (DS) - theme of Rivet Ravine
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-71 - Nearly there...
-#-------------------
-Theme of "Titan's Chasm"
-From Pokémon Mystery Dungeon: Red and Blue Rescue Team (GBA/DS) - theme of Mt. Blaze
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-72 - The Great Expedition
-#------------------------
-Theme of "Zone One - Titan's Ridge"
-From Fossil Fighters Champions (DS) - theme of Rainbow Canyon
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-73 - The Pinnacle of Ileas
-#-------------------------
-Theme of "Exiter Point"
-From Pokémon White (DS) - theme of Opelucid City
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-74 - Quandry Keepers
-#-------------------
-Theme of "VS Battlemasters"
-From Pokémon Trading Card Game (GB) - theme of VS Club Master
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-75 - Our battles will be legendary!
-#----------------------------------
-Theme of "Ileas Pokémon League Lobby"
-From Pokémon Black 2 and White 2 (DS) - theme of PWT Lobby
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-76 - In for a Shock!
-#-------------------
-Theme of "VS Leaguemaster Volkner"
-From Pokémon Black 2 and White 2 (DS) - theme of VS Sinnoh Gym Leader
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-77 - We Sail to our Future
-#-------------------------
-Theme of "VS Leaguemaster Juan"
-From Pokémon Black 2 and White 2 (DS) - theme of VS Hoenn Gym Leader
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-78 - Nothing Normal
-#------------------
-Theme of "VS Leaguemaster Lenora"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of VS Elite Four
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-79 - This is Your Moment
-#-----------------------
-Theme of "VS Leaguemaster [REDACTED]" and "VS [REDACTED]"
-From Pokémon Trading Card Game (GB) - theme of VS Club Master
-Rearranged by IsabelleChiming
-
-
-80 - Remember The Day
-#--------------------
-Theme of "The End/Credits" and "[REDACTED]?"
-From Pokémon Black 2 and White 2 (DS) - theme of Credits/Ending
-Reorchestrated by Fossilized_Nerd via Synthfont
-Featuring audio from Track 41
-
-
-81 - My Theme of Research
-#------------------------
-Theme of "VS [REDACTED]"
-From Pokémon Black 2 and White 2 (DS) - theme of [REDACTED]
-Ripped and looped as part of ENLS' Pre-Looped Library
-Note from the director: as with the previous, these two redacted items refer to the same individual.
-
-
-82 - Back for More!
-#------------------
-Theme of "VS Synthesized Trainer - Battle Synthesizer"
-From Fossil Fighters Champions (DS) - unused battle theme
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-83 - The Spirit of Victory
-#-------------------------
-Theme of "VS [REDACTED]"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of VS Legendary Pokémon
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-84 - The Spirit of Discovery
-#---------------------------
-Theme of "VS [REDACTED]"
-From Pokémon Black, White, Black 2, and White 2 (DS) - theme of VS Champion Alder
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-85 - The Spirit of Community
-#---------------------------
-Theme of "VS [REDACTED]"
-From Pokémon Black 2 and White 2 (DS) - theme of VS Champion Iris
-Ripped and looped as part of ENLS' Pre-Looped Library
-
-
-86 - A Moment to Breathe
-#-----------------------
-Theme of "Outdoors"
-From Pokémon Black, White, Black 2, and White 2 - theme of Undella Town (not Summer)
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-87 - The Showdown
-#----------------
-Theme of "VS Synthesizer Boss" and "VS [REDACTED]"
-From Rhythm Heaven (DS) - theme of Remix Eight
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-88 - Project: Battle Bonds
-#-------------------------
-Theme of "VS [REDACTED]"
-From Etrian Odyssey III - theme of Wireless Battle
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-89 - A drop will do.
-#-------------------
-Theme of "Whitecliff Village Mineral Spring"
-From Etrian Odyssey III - theme of the First Stratum
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-90 - Grits in my shorts!
-#-----------------------
-Theme of "Sandswarm Gulch"
-From Pokémon Ruby, Sapphire, and Emerald - theme of the Desert
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-
-91 - Out touching grass
-#----------------------
-Theme of "Encore Park"
-From Fossil Fighters Champions - theme of Treasure Lake
-Reorchestrated by Fossilized_Nerd via Synthfont
-
-#============================================================================================================================
-
 
 
 #============================================================================================================================
@@ -766,23 +98,25 @@ The Pokémon Company International, Gamefreak, Nintendo, Creatures LTD,
 AND OTHER RELATED CORPORATIONS AND INDIVIDUALS.
 PLEASE SUPPORT THE OFFICIAL RELEASE.
 
-~~TEAM TRI ATTACK~~
+~~FORAGE WORKS~~
 	Feebelle
 	Fossilized_Nerd
 	TheCasualDeviant
 
-DIRECTOR - Design, Audio, Game Balance, Script, Concepts
+DIRECTOR - Overall Design, Overall Audio, Game Balance, Script, Concepts, Recruiting
 	Fossilized_Nerd
 
 DIRECTOR - Aesthetic Design, Character Design, Animation, New Cries, Game "Feel"
 	Feebelle
 
-CODEMASTER - Ruby, Game Engineering, Game Balancer, "The Second Opinion"
+CODEMASTER - Ruby, Game Engineering, Game Balance, Plugin fixing, "The Second Opinion"
 	TheCasualDeviant
 
 MUSICAL ASSOCIATE
 	PhotonAqua
 
+WRITING ASSISTANCE
+	raspbooty
 
 ---------------------------------------------------
 # THE POKEMON ESSENTIALS TEAM - v21.1 & hotfixes  #
@@ -1050,12 +384,14 @@ FrenchOrange via The Spriters Resource
 # All modifications to the previously credited Tilesets, Autotiles, and arrangements of those sets created by:
 --------------------------------------------------------------------------------------------------------------
 Fossilized_Nerd
-(Seriously, thank you all for all these resources, it was a blast editing, using, and assembling them to make sets of our own!)
+Feebelle
+(Seriously, thanks all of the non-Forage Works artists listed for all these resources, it was a blast editing, using, 
+	and assembling them to arrange the tilesets you see in this game!)
 
 
--------------------------------------------------------------------------
-# CUSTOM MUSIC CREDITS [See the soundtrack section for details on each] #
--------------------------------------------------------------------------
+------------------------------------------------------------------------
+# CUSTOM MUSIC CREDITS [See the OST-LIST document for details on each] #
+------------------------------------------------------------------------
 
 Fossilized_Nerd - (numerous)
 Toby "Snowy Fox" Wilkinson - original compositions of Tracks 03 and 39
@@ -1126,6 +462,11 @@ Apollo Justice: Ace Attorney
 	Composed by: Toshihiko Horiyama, Hideki Okugawa, Shu Takumi, Akemi Kimura
 	Additional credits: Yoshihiko Ando, Aobadai Studio, Yoshiki Sandou (Capcom), Atsuko Fujitani (Capcom), 
 		"Gyakuten Saiban 4" Research & Development Staff, All Capcom Staff
+		
+Ace Attorney Investigations: Miles Edgeworth
+	Composed by: Noriyuki Iwadare, Yasuko Yamada
+	Additional credits: Yoshihiko Ando, Aobadai Studio, Tetsuya Ohno, Hirofumi Nakamura, Toshihiko Horiyama, 
+		Gyakuten Kenji Research & Development Staff, All Capcom Staff
 	
 Fossil Fighters
 	Contributions from: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
@@ -1158,6 +499,7 @@ Super Mario RPG: Legend of the Seven Stars
 --------------------------------------------------------------------------------
 # PEOPLE WHO HELPED WITHOUT REALIZING THEY DID FROM EEVEE EXPO SUPPORT THREADS #
 --------------------------------------------------------------------------------
+
 catwithnojob - Mineral Skins logicbase
 Vendily - animated fog
 rainefall - wide radius Flash lighting
@@ -1187,6 +529,7 @@ Brian Goundie
 brod_e_
 Colton Cayward
 cr8r
+DeDeuce
 dragonwasrobot
 DunDeal
 erasthamus
