@@ -25,31 +25,31 @@ Pokemon = ONIX,14
 #-------------------------------
 [CAMPER,Shuckle Master]
 Items = FULLRESTORE,FULLRESTORE
-LoseText = Shuckle lmao.
+LoseText = ...
 Pokemon = SHUCKLE,100
     Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
     Ability = LIMBER
-	Item = LEFTOVERS
+    Item = LEFTOVERS
     Gender = male
     IV = 20,20,20,20,20,20
-	Shiny = true
+    SuperShiny = true
 Pokemon = SHUCKLE,100
     Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
     Ability = LIMBER
     Item = LEFTOVERS
     Gender = female
     IV = 20,20,20,20,20,20
-    Shiny = true
+    SuperShiny = true
 Pokemon = SHUCKLE,100
     Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
     AbilityIndex = 0
-	Item = LEFTOVERS
+    Item = LEFTOVERS
     Gender = male
     IV = 20,20,20,20,20,20
 Pokemon = SHUCKLE,100
     Moves = COSMICPOWER,RECOVER,SOFTBOILED,MILKDRINK
     AbilityIndex = 0
-	Item = LEFTOVERS
+    Item = LEFTOVERS
     Gender = female
     IV = 20,20,20,20,20,20
 #-------------------------------
@@ -155,15 +155,6 @@ Pokemon = RATTATA,15
 Pokemon = SQUIRTLE,18
 #-------------------------------
 [CHAMPION,Blue]
-LoseText = A good battle indeed!
-Pokemon = VENUSAUR,63
-    Item = SITRUSBERRY
-Pokemon = CHARIZARD,63
-    Item = SITRUSBERRY
-Pokemon = BLASTOISE,63
-    Item = SITRUSBERRY
-#-------------------------------
-[CHAMPION,Blue]
 LoseText = Good test.
-Pokemon = BULBASAUR, 1
-Pokemon = SQUIRTLE, 2
+Pokemon = BULBASAUR,1
+Pokemon = SQUIRTLE,2
