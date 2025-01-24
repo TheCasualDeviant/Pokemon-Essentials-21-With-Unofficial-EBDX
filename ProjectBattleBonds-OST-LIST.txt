@@ -15,7 +15,7 @@ Note:  all standard trainer encounter music is taken from Pokémon Black and Whi
 #--------------------
 Theme of "Intro" and "Professor Maple"
 From Ace Attorney Investigations: Miles Edgeworth (DS) - theme of Credits
-Composed by Noriyuki Iwadare, Yasuko Yamada
+Composed by Noriyuki Iwadare and/or Yasuko Yamada
 Reorchestrated by Fossilized_Nerd
 
 
@@ -23,7 +23,7 @@ Reorchestrated by Fossilized_Nerd
 #----------------------
 Theme of "Late one night" and "Temple of Ileas"
 From Fossil Fighters (DS) - theme of Secret Site: Interior (Crashed Starship)
-Unspecified composer - see credits for contributors
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
 Reorchestrated by Fossilized_Nerd
 
 
@@ -31,8 +31,8 @@ Reorchestrated by Fossilized_Nerd
 #----------------------
 Theme of "Dustington"
 Original piece previously titled "Raufor Town" 
-Composed by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled]
-Repaired and arranged by PhotonAqua for soundfont use in Reaper
+Composed by Toby "Snowy Fox" Wilkinson for defunct project "Pokémon Shifting Tides"
+Repaired and arranged by PhotonAqua
 Reformatted by Fossilized_Nerd
 
 
@@ -48,7 +48,7 @@ Rearranged by Pascal Van Den Bos
 #-------------------
 Theme of "Pokémon Center"
 From Fossil Fighters: Champions (DS) - theme of VMM
-Composed by Megumi Komagata, Kyoko Nakamura
+Composed by Megumi Komagata and/or Kyoko Nakamura
 Reorchestrated by Fossilized_Nerd
 
 
@@ -56,7 +56,7 @@ Reorchestrated by Fossilized_Nerd
 #----------------------
 Theme of "Powdered Trail"
 From Fossil Fighters (DS) - theme of Coldfeet Glacier
-Unspecified composer - see credits for contributors
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
 Reorchestrated by Fossilized_Nerd
 
 
@@ -71,6 +71,7 @@ Composed by LaunchpadVGM
 #----------------
 Theme of "VS Trainer"
 From Pokémon Trading Card Game (GB) - theme of VS Player/Trainer
+Composed by Ichirō Shimakura
 Rearranged by Zame_It
 
 
@@ -78,62 +79,71 @@ Rearranged by Zame_It
 #----------------------
 Theme of "Powdered Cave"
 From Pokémon Heart Gold and Soul Silver (DS) - theme of Mt. Moon
-Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
+Composed by Go Ichinose, Junichi Masuda, Morikazu Aoki, Shota Kageyama, Hitomi Sato, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 10 - Stop, relax...
 #------------------
 Theme of "Crossway"
 From Fossil Fighters (DS) - theme of VMM
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 11 - Violent Domain
 #------------------
 Theme of "Zone Zero - The Valley of Dragons"
 From Fossil Fighters (DS) - theme of Mt. Lavaflow
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 12 - Winding Veins
 #-----------------
 Theme of "Scale Tunnel"
 From Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky (DS) - theme of Quicksand Cave
-Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
+Composed by Arata Iiyoshi, Hideki Sakamoto, Keisuke Ito, Ryoma Nakamura, and/or Kenichi Saito
+Reorchestrated by Fossilized_Nerd and PhotonAqua
 
 
 13 - Any ol' Street
 #------------------
 Theme of "Block Street"
 From Pokémon Black 2 and White 2 (DS) - theme of Virbank City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 14 - Hearts of Science
 #---------------------
 Theme of "IPRF Laboratory"
 From Ace Attorney Investigations: Miles Edgeworth (DS) - theme of Credits (second reorchestration)
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Noriyuki Iwadare and/or Yasuko Yamada
+Reorchestrated by Fossilized_Nerd
 
 
 15 - With Love and Care
 #----------------------
 Theme of "Ileas City Sanctuary"
 From Pokémon Heart Gold and Soul Silver (DS) - theme of Cianwood City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Go Ichinose, Junichi Masuda, Morikazu Aoki, Shota Kageyama, Hitomi Sato, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 16 - Reclaimed Beauty
 #--------------------
 Theme of "Ileas City Skyway"
 From Pokémon Black and White (DS) - theme of Lacunosa Town
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 17 - Look Alive, Kid!
 #--------------------
 Theme of "Central Ileas City"
 From Etrian Odyssey III (DS) - theme of Port ("Sunlight on the Water")
+Composed by Yuzo Koshiro
 Reorchestrated by Fossilized_Nerd via Synthfont
 Custom percussion provided by LaunchpadVGM
 
@@ -142,40 +152,47 @@ Custom percussion provided by LaunchpadVGM
 #------------
 Theme of "Battle Brigade HQ"
 From Pokémon Black (DS) - theme of Opelucid City
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 19 - Our Victories All Lie Before Us
 #-----------------------------------
 Theme of "Battle Brigade - Emotion"
 From Pokémon White (DS) - theme of Opelucid City
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 20 - Help us set up, would you?
 #------------------------------
 Theme of "Central Ileas City Gym" and "Hard Stone Hamlet Gym"
 From Pokémon Black 2 and White 2 (DS) - theme of Opelucid City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 21 - Give us your money...
 #-------------------------
 Theme of "The Ivy Boys"
 From Ace Attorney Investigations: Miles Edgeworth (DS) - theme of Detective Tyrell Badd ("The Truth Ain't Sweet")
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Noriyuki Iwadare and/or Yasuko Yamada
+Reorchestrated by Fossilized_Nerd
+
 
 22 - The Garden Needs Pruning
 #----------------------------
 Theme of "Skyway Gym"
 From Pokémon Black 2 and White 2 (DS) - theme of Humilau City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 23 - Together!
 #-------------
 Theme of "VS Gym Leader Duo"
 From Pokémon Trading Card Game (GB) - theme of VS Grand Masters
+Composed by Ichirō Shimakura
 Rearranged by xy_ue
 
 
@@ -191,137 +208,153 @@ Rearranged by AdAstraGL
 #------------------------------------------------------------------------
 Theme of "Central Ileas City Shopping Mall - General Store" and "Factory Street Emporium"
 From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Hearthome City (Day)
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Junichi Masuda, Go Ichinose, Hitomi Sato, and/or Morikazu Aoki
+Reorchestrated by Fossilized_Nerd
 
 
 26 - Friendly Faces
 #------------------
 Theme of Friendly Encounters with various characters
 From Etrian Odyssey III (DS) - theme of Cityscape "Between the Azure Skies and Seas"
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Yuzo Koshiro
+Reorchestrated by Fossilized_Nerd
 
 
 27 - Calculating Mind
 #--------------------
 Theme of the Pokémon Leaguemasters
 From Phoenix Wright: Ace Attorney Trials and Tribulations (GBA/DS) - theme of Investigation
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Noriyuki Iwadare and/or Masakazu Sugimori
+Reorchestrated by Fossilized_Nerd
 
 
 28 - Together, we are alone.
 #---------------------------
 Theme of "Emotion"
 From Etrian Odyssey III (DS) - Opening theme
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Yuzo Koshiro
+Reorchestrated by Fossilized_Nerd
 
 
 29 - The One who Left
 #--------------------
 Theme of "Axyl"
 From Ghost Trick: Phantom Detective (DS) - theme of Security Officers ("The Imprisoned")
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Masakazu Sugimori, Satoru Okubo, Mitsuhiko Tanako, Atsushi Mori, Yasumasa Kitagawa
+Reorchestrated by Fossilized_Nerd
 
 
 30 - Cabbie!
 #-----------
 Theme of "Cab Stops"
 From Rhythm Heaven (DS) - theme of Rhythm Game "Tunnel"
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Tsunku
+Reorchestrated by Fossilized_Nerd
 
 
 31 - 'Round the Clock
 #--------------------
 Theme of "Factory Street"
 From Mario & Luigi: Partners in Time - theme of Vim Factory
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Yoko Shimomura
+Reorchestrated by Fossilized_Nerd
 
 
 32 - The Walls Ooze Green Slime
 #------------------------------
 Theme of "Zone Five - Subcity Sewers"
 From Pokémon Colosseum (GCN) - theme of The Under
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Tsukasa Tawada, Masataka Saito, Tomomi Ozu
+Reorchestrated by Fossilized_Nerd
 
 
 33 - Beneath No City
 #-------------------
 Theme of "The Subcity"
 From Fossil Fighters Champions (DS) - theme of Bare Bones Brigade Headquarters
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Megumi Komagata and/or Kyoko Nakamura
+Reorchestrated by Fossilized_Nerd
 
 
 34 - Locus of Connection
 #-----------------------
 Theme of "Locus Bridge"
 From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Canalave City (Night)
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Junichi Masuda, Go Ichinose, Hitomi Sato, and/or Morikazu Aoki
+Reorchestrated by Fossilized_Nerd
 
 
 35 - It's modest work.
 #---------------------
 Theme of "Man-Tow Port"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Nacrene City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 36 - ... or we'll beat it out of you!
 #------------------------------------
 Theme of "VS Ivy Boys"
 From Fossil Fighters Champions (DS) - theme of VS Bare Bones Brigade
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Megumi Komagata and/or Kyoko Nakamura
+Reorchestrated by Fossilized_Nerd
 
 
 37 - Blue Horizons
 #-----------------
 Theme of "Zone Two - Moonstone Bay"
 From Pokémon Heart Gold and Soul Silver (DS) - theme of Violet City
-Reorchestrated by Fossilized_Nerd via Synthfont
-Ambient sound from Pokémon Black, White, Black 2, and White 2 - theme of Undella Bay
+Composed by Go Ichinose, Junichi Masuda, Morikazu Aoki, Shota Kageyama, Hitomi Sato, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 38 - Let's build something quaint!
 #---------------------------------
 Theme of "Whitecliff Village"
 From Pokémon Ruby, Sapphire, and Emerald (GBA) - theme of Sootopolis City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Junichi Masuda, Go Ichinose, and/or Morikazu Aoki
+Reorchestrated by Fossilized_Nerd
 
 
 39 - Plains, vast as the sky
 #---------------------------
 Theme of "Zone Three - The Roaring Fields"
-Original arrangement of Azalea Town and National Park, 
-Written by Toby "Snowy Fox" Wilkinson for Pokémon Shifting Tides [cancelled]
-Repaired and arranged by PhotonAqua for soundfont use in Reaper
-Reformatted by Fossilized_Nerd using Synthfont
+Original arrangement of Azalea Town and National Park, composed for Pokémon Gold, Silver, and Crystal
+Composed by Toby "Snowy Fox" Wilkinson for defunct project "Pokémon Shifting Tides"
+Repaired and arranged by PhotonAqua
+Reformatted by Fossilized_Nerd
 
 
 40 - Hay Bale Respite
 #--------------------
 Theme of "Cheriville Farm"
 From Pokémon Heart Gold and Soul Silver (DS) - theme of Azalea Town
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Go Ichinose, Junichi Masuda, Morikazu Aoki, Shota Kageyama, Hitomi Sato, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 41 - You're Always Home
 #----------------------
 Theme of "Cheriville"
 From Pokémon Black 2 and White 2 (DS) - theme of Aspertia City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 42 - Carbink, Crystalline
 #------------------------
 Theme of "Zone Four - Carbink Quarry"
 From Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky (DS) - theme of Aegis Cave
-Reorchestrated by Fossilized_Nerd via Synthfont
-Custom percussion provided by Fossilized_Nerd
+Composed by Arata Iiyoshi, Hideki Sakamoto, Keisuke Ito, Ryoma Nakamura, and/or Kenichi Saito
+Reorchestrated by Fossilized_Nerd
 
 
 43 - Get digging!
 #----------------
 Theme of "Dig"
 From Fossil Fighters (DS) - theme of "Cleaning"
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 44 - The hum of the trees
@@ -335,21 +368,24 @@ Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Sy
 #--------------------------
 Theme of "Outcast Hovel"
 From Pokémon White and White 2 (DS) - theme of White Forest
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 46 - Busy as ever...
 #-------------------
 Theme of "Subcity Gym / Cheriville Gym"
 From Pokémon Black 2 and White 2 (DS) - theme of Driftveil City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 47 - Step Into Your Mind
 #-----------------------
 Theme of "Outcast Hovel Gym"
 From Pokémon Black 2 and White 2 (DS) - theme of Castelia City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 48 - Encounters with Odd Ones
@@ -364,7 +400,8 @@ Ambient sound from theme of "VS [REDACTED]"
 #----------------
 Theme of "Researcher Colress"
 From Pokémon Black 2 and White 2 (DS) - theme of Encounter: Colress
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 50 - Quiz Man's Salsa
@@ -423,15 +460,16 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 #----------------------
 Theme of "Hard Stone Hamlet"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Anville Town
-Reorchestrated by Fossilized_Nerd via Synthfont
-Ambient sound & percussion relocated from the start of the theme of Anville Town
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 58 - Working up a Sweat
 #----------------------
 Theme of "Carkol Mines"
 From Pokémon White 2 (DS) - theme of Reversal Mountain
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 59 - Dire Discussions
@@ -452,7 +490,8 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 #--------------------
 Theme of "Surf"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Dreamyard
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 62 - Hey! Can you hear me?
@@ -466,14 +505,16 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 #--------------------------------
 Theme of "Man-Tow Port Gym"
 From Pokémon Black 2 and White 2 (DS) - theme of Aspertia City Gym
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 64 - Early Pay Day
 #-----------------
 Theme of "Factory Street - Workday Over"
 From Pokémon Black 2 and White 2 (DS) - theme of Humilau City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 65 - Fighting for Our Lives
@@ -487,7 +528,8 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 #-----------------------
 Theme of "Zone Seven - Uncharted Forest"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of Dragonspiral Tower
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 67 - A Final Goodbye
@@ -538,42 +580,48 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 #-------------------------
 Theme of "Exiter Point"
 From Pokémon White (DS) - theme of Opelucid City
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Rearranged by Fossilized_Nerd
 
 
 74 - Quandry Keepers
 #-------------------
 Theme of "VS Battlemasters"
 From Pokémon Trading Card Game (GB) - theme of VS Club Master
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Ichirō Shimakura
+Mixed by BedrockSolid
 
 
 75 - Our battles will be legendary!
 #----------------------------------
 Theme of "Ileas Pokémon League Lobby"
 From Pokémon Black 2 and White 2 (DS) - theme of PWT Lobby
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 76 - In for a Shock!
 #-------------------
 Theme of "VS Leaguemaster Volkner"
 From Pokémon Black 2 and White 2 (DS) - theme of VS Sinnoh Gym Leader
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 77 - We Sail to our Future
 #-------------------------
 Theme of "VS Leaguemaster Juan"
 From Pokémon Black 2 and White 2 (DS) - theme of VS Hoenn Gym Leader
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 78 - Nothing Normal
 #------------------
 Theme of "VS Leaguemaster Lenora"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of VS Elite Four
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 79 - This is Your Moment
@@ -587,15 +635,16 @@ Rearranged by IsabelleChiming
 #--------------------
 Theme of "The End/Credits" and "[REDACTED]?"
 From Pokémon Black 2 and White 2 (DS) - theme of Credits/Ending
-Reorchestrated by Fossilized_Nerd via Synthfont
-Featuring audio from Track 41
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 81 - My Theme of Research
 #------------------------
 Theme of "VS [REDACTED]"
 From Pokémon Black 2 and White 2 (DS) - theme of [REDACTED]
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 Note from the director: as with the previous, these two redacted items refer to the same individual.
 
 
@@ -610,28 +659,32 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 #-------------------------
 Theme of "VS [REDACTED]"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of VS Legendary Pokémon
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 84 - The Spirit of Discovery
 #---------------------------
 Theme of "VS [REDACTED]"
 From Pokémon Black, White, Black 2, and White 2 (DS) - theme of VS Champion Alder
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 85 - The Spirit of Community
 #---------------------------
 Theme of "VS [REDACTED]"
 From Pokémon Black 2 and White 2 (DS) - theme of VS Champion Iris
-Ripped and looped as part of ENLS' Pre-Looped Library
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Provided by ENLS' Pre-Looped Library
 
 
 86 - A Moment to Breathe
 #-----------------------
 Theme of "Outdoors"
 From Pokémon Black, White, Black 2, and White 2 - theme of Undella Town (not Summer)
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 87 - The Showdown

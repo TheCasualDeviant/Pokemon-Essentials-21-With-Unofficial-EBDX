@@ -453,10 +453,10 @@ Pokémon Mystery Dungeon: Red and Blue Rescue Team
 Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky
 	Composed by: Arata Iiyoshi, Hideki Sakamoto, Keisuke Ito, Ryoma Nakamura, Kenichi Saito
 	
-Phoenix Wright: Ace Attorney - Justice for All
-	Composed by: Masakazu Sugimori, Akemi Kimura, J.S. Bach
-	Additional credits: Yoshihiko Ando, Aobadai Studio, Hidenori Shinohara, Izuru Matsumoto, Masami Ueda, Shu Takumi, A.Mori, 
-		"Gyakuten Saiban", "Gyakuten Saiban 2" Research & Development Staff, All Capcom Staff
+Phoenix Wright: Ace Attorney - Trials and Tribulations
+	Composed by: Noriyuki Iwadare, Masakazu Sugimori
+	Additional credits: Yoshihiko Ando, Aobadai Studio, Masami Ueda, Shu Takumi (Capcom), A.Mori, 
+		"Gyakuten Saiban 3" Research & Development Staff, All Capcom Staff
 
 Apollo Justice: Ace Attorney
 	Composed by: Toshihiko Horiyama, Hideki Okugawa, Shu Takumi, Akemi Kimura
@@ -490,6 +490,12 @@ Mario & Luigi: Partners in Time
 	Composed by: Yoko Shimomura
 	Additional credits: Morikazu Aoki, Koji Kondo
 	
+Rhythm Heaven / Rhythm Tengoku Gold (JP)
+	Composed by: Tsunku
+	Additional credits: Eriina (Canary Club), THE POSSIBLE, Occhama, Canary CLUB, TAKERU, Brad Holmes, Ayaka Nagate, 
+		Frank Legree, Lorea Ferris Dandoy, Benjamin Franklin, Yuana, Mai Hahne, Dominique Chagnon, Jessy Roussel, 
+		Iker Alvarez, Vanessa Cebrian, Luca Ceccatelli, Maria, Costanza Rufo, Valentina Mazzeo
+	
 Super Mario RPG: Legend of the Seven Stars
 	Composed and Arranged by: Yoko Shimomura
 	Additional credits: Koji Kondo, Nobuo Uematsu, Hidenori Suzuki, Teruaki Sugawara, Motoko Watanabe, Chiharu Minekawa, Yoshitaka Hirota,
@@ -503,6 +509,7 @@ Super Mario RPG: Legend of the Seven Stars
 catwithnojob - Mineral Skins logicbase
 Vendily - animated fog
 rainefall - wide radius Flash lighting
+willow_lee and theforbiddenflapple - directed us towards FL's music defaults plugin
 
 
 -------------------------------------------------------------------------------
