@@ -7,7 +7,7 @@
 module EliteBattle
 
   # Waiting period (in seconds) before battle "camera" starts moving
-  BATTLE_MOTION_TIMER = 90
+  BATTLE_MOTION_TIMER = 15
 
   # used to scale the trainer bitmaps (front sprites) to 200%
   TRAINER_SPRITE_SCALE = 1
@@ -39,10 +39,10 @@ module EliteBattle
   SUPER_SHINY_RATE = 1
 
   # the minimum amount of (random) IV attributes to be set to 31 for shiny Pokemon
-  PERFECT_IV_SHINY = 1
+  PERFECT_IV_SHINY = 6
 
   # the minimum amount of (random) IV attributes to be set to 31 for super shiny Pokemon
-  PERFECT_IV_SUPER = 3
+  PERFECT_IV_SUPER = 6
 
   # Show player line up during wild battles
   SHOW_LINEUP_WILD = false
@@ -95,7 +95,7 @@ module EliteBattle
   TRY_TO_ALWAYS_INITIALIZE = true
 
   # As EBDX uses custom intros, setting this to false will use default Essentials intros
-  USE_EBDX_BATTLE_INTROS = true
+  USE_EBDX_BATTLE_INTROS = false
 end
 #-------------------------------------------------------------------------------
 # Adds additional "camera" vectors for when the camera is idling
