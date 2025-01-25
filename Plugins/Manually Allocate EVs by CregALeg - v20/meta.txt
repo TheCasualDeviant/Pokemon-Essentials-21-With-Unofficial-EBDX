@@ -1,0 +1,4 @@
+Name         = Manually Allocate EVs
+Version      = 1.0.0
+Credits      = CregALeg
+Essentials   = 21.1
