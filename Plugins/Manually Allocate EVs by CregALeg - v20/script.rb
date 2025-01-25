@@ -7,7 +7,7 @@
 # Configuration
 #-------------------------------------------------------------------------------
 
-EV_GAIN_MODE = "Level"  # Set to either "Standard" or "Level"
+EV_GAIN_MODE = "Standard"  # Set to either "Standard" or "Level"
                           # "Standard" mode gains EVs when defeating an enemy Pokémon, as normal.
                           # "Level" mode gives EV_PER_LEVEL EVs upon levelling up, and any missing EVs to reach the cap at level 100.
 
@@ -384,7 +384,7 @@ class PokemonSummary_Scene
     # If viewing the EVs
     elsif @viewing_evs
       @available = @pokemon.evBuffer
-      @sprites["background"].setBitmap("Graphics/Pictures/Summary/bg_3_ev")
+      @sprites["background"].setBitmap("Graphics/UI/Summary/bg_3_ev.png")
       textpos.push(
         [sprintf("%d/%d",@pokemon.ev[:HP],Pokemon::EV_STAT_LIMIT),462,82,1,Color.new(64,64,64),Color.new(176,176,176)],
         [sprintf("%d/%d",@pokemon.ev[:ATTACK],Pokemon::EV_STAT_LIMIT),456,126,1,Color.new(64,64,64),Color.new(176,176,176)],
@@ -409,7 +409,7 @@ class PokemonSummary_Scene
       hpzone = 1 if @pokemon.hp<=(@pokemon.totalhp/2).floor
       hpzone = 2 if @pokemon.hp<=(@pokemon.totalhp/4).floor
       imagepos = [
-         ["Graphics/Pictures/Summary/overlay_hp",360,110,0,hpzone*6,w,6]
+         ["Graphics/UI/Summary/overlay_hp.png",360,110,0,hpzone*6,w,6]
       ]
       pbDrawImagePositions(overlay,imagepos)
     end
@@ -530,13 +530,13 @@ class PokemonSummary_Scene
       elsif Input.trigger?(Input::USE)
         # The only other change
         if @page == 3 && @viewing_evs && !@inbattle
-          if @pokemon.evBuffer <= 0
-            pbMessage(_INTL("{1} has no EVs available.",@pokemon.name))
-          else
+          #if @pokemon.evBuffer <= 0
+            #pbMessage(_INTL("{1} has no EVs available.",@pokemon.name))
+          #else
             if pbConfirmMessage(_INTL("Allocate EVs?"))
               pbEVAllocate
             end
-          end
+          #end
           dorefresh = true
         elsif @page==4
           pbPlayDecisionSE
@@ -602,7 +602,7 @@ end
 class EVSelectionSprite < MoveSelectionSprite
   def initialize(viewport=nil)
     super(viewport)
-    @movesel = AnimatedBitmap.new("Graphics/Pictures/Summary/cursor_ev")
+    @movesel = AnimatedBitmap.new("Graphics/UI/Summary/cursor_ev.png")
     @frame = 0
     @index = 0
     @preselected = false
