@@ -361,7 +361,8 @@ Reorchestrated by Fossilized_Nerd
 #------------------------
 Theme of "Zone Six - Outcast Forest"
 From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Eterna Forest
-Reorchestrated by Fossilized_Nerd and PhotonAqua using direct file-rip MIDI & Synthfont
+Composed by Junichi Masuda, Go Ichinose, Hitomi Sato, and/or Morikazu Aoki
+Reorchestrated by Fossilized_Nerd and PhotonAqua
 
 
 45 - The chorus of solitude
@@ -392,8 +393,8 @@ Provided by ENLS' Pre-Looped Library
 #----------------------------
 Theme of "Odd Ones" and "[REDACTED]"
 From Fossil Fighters (DS) - theme of the Dinaurians
-Reorchestrated by Fossilized_Nerd via Synthfont
-Ambient sound from theme of "VS [REDACTED]"
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 49 - Fascinating!
@@ -408,14 +409,16 @@ Provided by ENLS' Pre-Looped Library
 #--------------------
 Theme of "Miror B.'s Quiz Time"
 From Pokémon Colosseum (GCN) - theme of VS Miror B.
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Tsukasa Tawada, Masataka Saito, Tomomi Ozu
+Reorchestrated by Fossilized_Nerd
 
 
 51 - Joyous Bike Ride
 #--------------------
 Theme of "Bicycle"
 From Apollo Justice: Ace Attorney (DS) - theme of Trucy
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Toshihiko Horiyama, Hideki Okugawa, Shu Takumi, and/or Akemi Kimura
+Reorchestrated by Fossilized_Nerd
 
 
 52 - Fresh Pie?
@@ -425,35 +428,39 @@ Originally titled "Funiculi, Funicula" and composed by Luigi Denza. Reused in Sp
 MIDI sequenced by ... someone who deleted their username and said "Credit if Used," so here's the URL they posted it at:
 https://www.vgmusic.com/file/0c91bb6c70bf0101d46f7559bca6c09d.html
 Note from the director: I do not believe this person meant to delete their own name from the Credits section.
-Reorchestrated by Fossilized_Nerd via Synthfont
+Reorchestrated by Fossilized_Nerd
 
 
 53 - Play a Round!
 #-----------------
 Theme of "Subcity Game Corner"
 From Fossil Fighters (DS) - theme of Police Station
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 54 - PR3P4RE_4_IN5P3CTI0N
 #------------------------
 Theme of "Item Factory: Production Floor"
 From Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky (DS) - theme of Craggy Coast
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Arata Iiyoshi, Hideki Sakamoto, Keisuke Ito, Ryoma Nakamura, and/or Kenichi Saito
+Reorchestrated by Fossilized_Nerd
 
 
 55 - A Special Place
 #-------------------
 Theme of "Cheriville Hall"
 From Pokémon Heart Gold and Soul Silver (DS) - theme of National Park
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Go Ichinose, Junichi Masuda, Morikazu Aoki, Shota Kageyama, Hitomi Sato, and/or Satoshi Nohara
+Reorchestrated by Fossilized_Nerd
 
 
 56 - Calm Silence
 #----------------
 Theme of "Private Graveyard" and "Ending"
 From Pokémon Diamond, Pearl, and Platinum (DS) - theme of Pokémon League (Night)
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Junichi Masuda, Go Ichinose, Hitomi Sato, and/or Morikazu Aoki
+Reorchestrated by Fossilized_Nerd
 
 
 57 - Be safe out there!
@@ -476,14 +483,16 @@ Reorchestrated by Fossilized_Nerd
 #--------------------
 Theme of "Olga" and "Emergency Meeting"
 From Apollo Justice: Ace Attorney (DS) - theme of Solitary Confinement
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Toshihiko Horiyama, Hideki Okugawa, Shu Takumi, and/or Akemi Kimura
+Reorchestrated by Fossilized_Nerd
 
 
 60 - Kissed in the Dark
 #----------------------
 Theme of "Secret Tunnels"
 From Pokémon Mystery Dungeon: Red and Blue Rescue Team (GBA/DS) - theme of Great Canyon
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Arata Iiyoshi and/or Atsuhiro Ishizuna
+Reorchestrated by Fossilized_Nerd
 
 
 61 - A Drifting Dance
@@ -498,7 +507,8 @@ Reorchestrated by Fossilized_Nerd
 #-------------------------
 Theme of "Telepathy"
 From Super Mario RPG: Legend of the Seven Stars (SNES) - theme of Star Hill ("Starlight's Flower")
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Yoko Shimomura
+Reorchestrated by Fossilized_Nerd
 
 
 63 - Strike a pose and read this:
@@ -521,7 +531,8 @@ Reorchestrated by Fossilized_Nerd
 #--------------------------
 Theme of "VS Odd Ones"
 From Fossil Fighters (DS) - theme of VS Guhnash
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 66 - Abandoned by Nature
@@ -536,7 +547,8 @@ Reorchestrated by Fossilized_Nerd
 #-------------------
 Theme of "Goodbye"
 From Fire Emblem: New Mystery of the Emblem (DS) - theme of Katarina ("Puppets Don't Cry")
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Hiroki Morishita, Yuka Tsujiyoko, Takeru Kanazaki, and/or Shoh Murakami
+Reorchestrated by Fossilized_Nerd
 
 
 68 - Fulfilling the Prophecy
@@ -546,34 +558,36 @@ From Fossil Fighters (DS) - theme of Secret Site: Interior (Crashed Starship)
 Reorchestrated by Fossilized_Nerd via Synthfont
 
 
-69 - Creature from the Stars
-#---------------------------
+69 - Creature of the Fallen Star
+#-------------------------------
 Theme of "VS [REDACTED]"
-From Pokémon Fire Red and Leaf Green (GBA) - theme of VS [REDACTED]
-Reorchestrated by Fossilized_Nerd via Synthfont
-Note from the director: usually we wouldn't redact the theme credited, but the redacted items here belong to the same thing.
-	We'd prefer you all remain unspoiled - you'll know when you hear it.
+From Fossil Fighters (DS) - theme of VS King Dynal
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 70 - The Gates to Glory
 #----------------------
 Theme of "Durantown"
 From Fossil Fighters (DS) - theme of Rivet Ravine
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 71 - Nearly there...
 #-------------------
 Theme of "Titan's Chasm"
 From Pokémon Mystery Dungeon: Red and Blue Rescue Team (GBA/DS) - theme of Mt. Blaze
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Arata Iiyoshi and/or Atsuhiro Ishizuna
+Reorchestrated by Fossilized_Nerd
 
 
 72 - The Great Expedition
 #------------------------
 Theme of "Zone One - Titan's Ridge"
 From Fossil Fighters Champions (DS) - theme of Rainbow Canyon
-Reorchestrated by Fossilized_Nerd via Synthfont
+Contributed-to by: Asuka Ito, Megumi Inoue, Daisuke Shiiba, Masaru Tajima, Tomokazu Abe, Yuichi Ozaki
+Reorchestrated by Fossilized_Nerd
 
 
 73 - The Pinnacle of Ileas
@@ -581,7 +595,7 @@ Reorchestrated by Fossilized_Nerd via Synthfont
 Theme of "Exiter Point"
 From Pokémon White (DS) - theme of Opelucid City
 Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
-Rearranged by Fossilized_Nerd
+Reorchestrated by Fossilized_Nerd
 
 
 74 - Quandry Keepers
@@ -626,8 +640,9 @@ Provided by ENLS' Pre-Looped Library
 
 79 - This is Your Moment
 #-----------------------
-Theme of "VS Leaguemaster [REDACTED]" and "VS [REDACTED]"
+Theme of "VS Leaguemasters" and "VS [REDACTED]"
 From Pokémon Trading Card Game (GB) - theme of VS Club Master
+Composed by Ichirō Shimakura
 Rearranged by IsabelleChiming
 
 
@@ -642,17 +657,17 @@ Reorchestrated by Fossilized_Nerd
 81 - My Theme of Research
 #------------------------
 Theme of "VS [REDACTED]"
-From Pokémon Black 2 and White 2 (DS) - theme of [REDACTED]
+From Pokémon Black 2 and White 2 (DS) - theme of Colress
 Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Masuda, and/or Satoshi Nohara
 Provided by ENLS' Pre-Looped Library
-Note from the director: as with the previous, these two redacted items refer to the same individual.
 
 
 82 - Back for More!
 #------------------
 Theme of "VS Synthesized Trainer - Battle Synthesizer"
-From Fossil Fighters Champions (DS) - unused battle theme
-Reorchestrated by Fossilized_Nerd via Synthfont
+From Fossil Fighters Champions (DS) - Wi-Fi (Unused) Battle Theme
+Composed by Megumi Komagata and/or Kyoko Nakamura
+Reorchestrated by Fossilized_Nerd
 
 
 83 - The Spirit of Victory
@@ -687,39 +702,45 @@ Composed by Shota Kageyama, Go Ichinose, Hitomi Sato, Minako Adachi, Junichi Mas
 Reorchestrated by Fossilized_Nerd
 
 
-87 - The Showdown
-#----------------
+87 - The Faceoff
+#---------------
 Theme of "VS Synthesizer Boss" and "VS [REDACTED]"
-From Rhythm Heaven (DS) - theme of Remix Eight
-Reorchestrated by Fossilized_Nerd via Synthfont
+From Rhythm Heaven (DS) - theme of Remix 8
+Composed by Tsunku
+Reorchestrated by Fossilized_Nerd
 
 
 88 - Project: Battle Bonds
 #-------------------------
 Theme of "VS [REDACTED]"
 From Etrian Odyssey III - theme of Wireless Battle
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Yuzo Koshiro
+Reorchestrated by Fossilized_Nerd
 
 
 89 - A drop will do.
 #-------------------
 Theme of "Whitecliff Village Mineral Spring"
 From Etrian Odyssey III - theme of the First Stratum
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Yuzo Koshiro
+Reorchestrated by Fossilized_Nerd
 
 
 90 - Grits in my shorts!
 #-----------------------
 Theme of "Sandswarm Gulch"
 From Pokémon Ruby, Sapphire, and Emerald - theme of the Desert
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Junichi Masuda, Go Ichinose, and/or Morikazu Aoki
+Reorchestrated by Fossilized_Nerd
 
 
 91 - Out touching grass
 #----------------------
 Theme of "Encore Park"
 From Fossil Fighters Champions - theme of Treasure Lake
-Reorchestrated by Fossilized_Nerd via Synthfont
+Composed by Megumi Komagata and/or Kyoko Nakamura
+Reorchestrated by Fossilized_Nerd
+
 
 #============================================================================================================================
 
