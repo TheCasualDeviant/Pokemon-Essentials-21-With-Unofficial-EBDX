@@ -193,7 +193,7 @@ Provided by ENLS' Pre-Looped Library
 Theme of "VS Gym Leader Duo"
 From Pokémon Trading Card Game (GB) - theme of VS Grand Masters
 Composed by Ichirō Shimakura
-Rearranged by xy_ue
+Rearranged by xy_chayote
 
 
 24 - Victory Lies Before Us!
@@ -740,6 +740,17 @@ Theme of "Encore Park"
 From Fossil Fighters Champions - theme of Treasure Lake
 Composed by Megumi Komagata and/or Kyoko Nakamura
 Reorchestrated by Fossilized_Nerd
+
+
+
+
+
+93 - Second Reckoning
+#--------------------
+Theme of "VS Gym Leader Duo - Rematch"
+From Pokémon Trading Card Game (GB) - theme of VS Grand Masters
+Composed by Ichirō Shimakura
+Rearranged by xy_chayote
 
 
 #============================================================================================================================

@@ -399,7 +399,7 @@ PhotonAqua - (numerous)
 Zame_It - Track 08 "Ileas Style!"
 Pascal van den Bos - Track 04 "I've Got This!"
 LaunchpadVGM - Track 07 "Buckle In!" and percussion for Track 17 "Look Alive, Kid!"
-xy_ue - Track 23 "Together!"
+xy_chayote - Track 23/93 "Together!" / "Second Reckoning"
 IsabelleChiming - Track 79 "This is Your Moment"
 AdAstra_GL - Track 24 "Victory Lies Before Us"
 
