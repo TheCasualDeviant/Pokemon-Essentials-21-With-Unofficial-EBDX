@@ -7,8 +7,8 @@ Home = 3,7,5,8
 StorageCreator = Dr. Maple
 WildBattleBGM = WILDBATTLE-LOOP
 TrainerBattleBGM = Normal_Battle_Pokemon_TCG_BW_Remix-LOOP
-WildVictoryBGM = Battle victory wild
-TrainerVictoryBGM = Battle victory trainer
+WildVictoryBGM = Victory! Wild Pokemon
+TrainerVictoryBGM = Victory! Trainer
 SurfBGM = DREAMYARD_B2W2-SEA-LOOP
 BicycleBGM = TRUCY_B2W2-LOOP
 #-------------------------------
