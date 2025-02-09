@@ -418,7 +418,16 @@ class PokemonSummary_Scene
   def pbEVAllocate
     stat_index = 0
     stats = [:HP, :ATTACK, :DEFENSE, :SPECIAL_ATTACK, :SPECIAL_DEFENSE, :SPEED]
+	
+	#this allocation variable being reinitialized every time this method is called
+	#is what is preventing the pbCanDecreaseEV method from returning "true"
     @allocation = [0,0,0,0,0,0]
+	@current_evs = [0,0,0,0,0,0]
+	
+	for i in 0..5
+	  @current_evs[i] = @pokemon.ev[stats[i]]
+    end
+	
     @sprites["evsel"].visible = true
     @sprites["evsel"].index = 0
     for i in 0..5
@@ -448,10 +457,23 @@ class PokemonSummary_Scene
             @pokemon.decreaseEVBuffer(@allocation.sum)
             for i in 0..5
               @pokemon.ev[stats[i]] += @allocation[i]
+			  @current_evs[i] = @pokemon.ev[stats[i]]
             end
             @pokemon.calc_stats
             break
           end
+		elsif @allocation.sum <= 0
+			if pbConfirmMessage(_INTL("Apply EVs?"))
+				pbPlayDecisionSE
+				@pokemon.increaseEVBuffer((@allocation.sum).abs)
+				for i in 0..5
+					@pokemon.ev[stats[i]] += @allocation[i]
+					#@pokemon.ev[stats[i]] = @pokemon.ev[stats[i]].clamp(0,[@available, Pokemon::EV_STAT_LIMIT - (@pokemon.ev[stats[i]] + @allocation[i]), Pokemon::EV_STAT_LIMIT].min)
+					@current_evs[i] = @pokemon.ev[stats[i]]
+				end
+				@pokemon.calc_stats
+				break
+			end
         else
           pbPlayCancelSE
           break
@@ -489,9 +511,17 @@ class PokemonSummary_Scene
       @available -= amount
     elsif mode == "Down"
       return if !pbCanDecreaseEV(stats[index],index)
-      amount = amount.clamp(0,@allocation[index])
-      @allocation[index] -= amount
-      @available += amount
+	  tmp_min = @pokemon.ev[stats[index]]
+	  return if @allocation[index] <= -tmp_min
+	  #amount = -amount
+	  if amount > 1
+		div = (@pokemon.ev[stats[index]] - (@allocation[index]).abs) / 10
+		mod = (@pokemon.ev[stats[index]] - (@allocation[index]).abs) % 10
+		tmp_max = div > 0 ? 10 : mod
+		amount = amount.clamp(0,tmp_max)
+	  end
+      @allocation[index] -= (amount).abs
+      @available += (amount).abs
     end
     @sprites["ev_counter_#{index}"].updateValue(@allocation[index])
   end
@@ -503,7 +533,7 @@ class PokemonSummary_Scene
   end
 
   def pbCanDecreaseEV(stat,index)
-    return false if @allocation[index] <= 0
+    return false if @pokemon.ev[stat] <= 0 && @allocation[index] <= 0
     return true
   end
 
@@ -527,7 +557,14 @@ class PokemonSummary_Scene
       elsif Input.trigger?(Input::BACK)
         pbPlayCloseMenuSE
         break
-      elsif Input.trigger?(Input::USE)
+      elsif Input.trigger?(Input::AUX2)
+	    if @page == 3 && @viewing_evs && !@inbattle
+            if pbConfirmMessage(_INTL("Reset EVs?"))
+              pbResetAllEffortValues(@pokemon)
+            end
+          dorefresh = true
+		end
+	  elsif Input.trigger?(Input::USE)
         # The only other change
         if @page == 3 && @viewing_evs && !@inbattle
           #if @pokemon.evBuffer <= 0
@@ -670,10 +707,17 @@ class EVOverlaySprite < Sprite
 
   def refresh
     self.bitmap.clear
-    self.visible = @allocating > 0 ? true : false
-    textpos = [
-       [_INTL("+#{@allocating}"),0,0,0,Color.new(24,192,32),Color.new(0,144,0)],
-    ]
+    self.visible = true #@allocating = 0 ? false : true
+	if @allocating >= 0
+		textpos = [
+		   [_INTL("+#{@allocating}"),0,0,0,Color.new(24,192,32),Color.new(0,144,0)],
+		]
+	end
+	if @allocating < 0
+		textpos = [
+		   [_INTL("#{@allocating}"),0,0,0,Color.new(192,32,24),Color.new(255,0,0)],
+		]
+	end
     pbDrawTextPositions(self.bitmap,textpos)
   end
 end
