@@ -515,8 +515,8 @@ class PokemonSummary_Scene
 	  return if @allocation[index] <= -tmp_min
 	  #amount = -amount
 	  if amount > 1
-		div = (@pokemon.ev[stats[index]] - (@allocation[index]).abs) / 10
-		mod = (@pokemon.ev[stats[index]] - (@allocation[index]).abs) % 10
+		div = (@pokemon.ev[stats[index]] - (@allocation[index]).abs).abs / 10
+		mod = (@pokemon.ev[stats[index]] - (@allocation[index]).abs).abs % 10
 		tmp_max = div > 0 ? 10 : mod
 		amount = amount.clamp(0,tmp_max)
 	  end
