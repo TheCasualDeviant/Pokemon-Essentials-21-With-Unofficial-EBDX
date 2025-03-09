@@ -6564,54 +6564,6 @@ Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
 #-------------------------------
-[ABILITYSHIELD]
-Name = Ability Shield
-NamePlural = Ability Shields
-Pocket = 1
-Price = 20000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. This  shield protects the holder from having its Ability changed by others.
-#-------------------------------
-[CLEARAMULET]
-Name = Clear Amulet
-NamePlural = Clear Amulets
-Pocket = 1
-Price = 30000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. It protects the holder from having its stats lowered.
-#-------------------------------
-[MIRRORHERB]
-Name = Mirror Herb
-NamePlural = Mirror Herbs
-Pocket = 1
-Price = 30000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. This herb will allow the holder to mirror an opponent's stat increases once.
-#-------------------------------
-[PUNCHINGGLOVE]
-Name = Punching Glove
-NamePlural = Punching Gloves
-Pocket = 1
-Price = 15000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. It boosts the holder's punching moves and prevents direct contact.
-#-------------------------------
-[COVERTCLOAK]
-Name = Covert Cloak
-NamePlural = Covert Cloaks
-Pocket = 1
-Price = 20000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. It conceals the holder, protecting it from move's additional effects.
-#-------------------------------
-[LOADEDDICE]
-Name = Loaded Dice
-NamePlural = Loaded Dices
-Pocket = 1
-Price = 20000
-Flags = Fling_30
-Description = An item to be held by a Pokémon. It ensures the holder's multistrike moves hit more times.
-#-------------------------------
 [BONDBRACE]
 Name = Bond Brace
 NamePlural = Bond Brace

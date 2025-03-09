@@ -4582,7 +4582,7 @@ FunctionCode = StartWeakenDamageAgainstUserSideIfHail
 Description = This move reduces damage from attacks for five turns. This can be used only in a hailstorm.
 #-------------------------------
 [HAIL]
-Name = Snowscape
+Name = Hail
 Type = ICE
 Category = Status
 Accuracy = 0
@@ -8821,30 +8821,6 @@ Target = UserSide
 FunctionCode = StartSpecialAttackUpUserSide
 Description = A catalyst is unleashed on the user's side, increasing the power of special moves for five turns.
 #-------------------------------
-[SHEDTAIL]
-Name = Shed Tail
-Type = NORMAL
-Category = Status
-Accuracy = 0
-TotalPP = 10
-Target = User
-FunctionCode = UserMakeSubstituteSwitchOut
-Flags = CannotMetronome,CantMaster
-Description = The user creates a substitute and switches places with a party Pokémon in waiting.
-#-------------------------------
-[BITTERMALICE]
-Name = Bitter Malice
-Type = GHOST
-Category = Special
-Power = 75
-Accuracy = 100
-TotalPP = 10
-Target = NearOther
-FunctionCode = LowerTargetAttack1
-Flags = CanProtect,CanMirrorMove
-EffectChance = 30
-Description = The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat.
-#-------------------------------
 [MANIACALLAUGH]
 Name = Maniacal Laugh
 Type = DARK
@@ -9176,37 +9152,15 @@ FunctionCode = None
 Flags = CanProtect,CanMirrorMove
 Description = The user scares the target so thoroughly that they take damage in response.
 #------------------------------
-[ICESPINNER]
-Name = Ice Spinner
-Type = ICE
-Category = Physical
-Power = 80
-Accuracy = 100
-TotalPP = 15
-Target = NearOther
-FunctionCode = RemoveTerrainIceSpinner
-Flags = Contact,CanProtect,CanMirrorMove
-Description = The user covers its feet in ice and spins into the target. The spinning destroys active terrain.
-#------------------------------
 [CHILLYRECEPTION]
 Name = Chilly Reception
 Type = ICE
 Category = Status
 Accuracy = 0
 TotalPP = 10
-Target = User
+Target = BothSides
 FunctionCode = SwitchOutUserStartHailWeather
-Description = The user tells a chillingly bad joke before switching out. This summons a five turn snowstorm.
-#------------------------------
-[TIDYUP]
-Name = Tidy Up
-Type = NORMAL
-Category = Status
-Accuracy = 0
-TotalPP = 10
-Target = User
-FunctionCode = RaiseUserAtkSpd1RemoveHazardsSubstitutes
-Description = The user tidies up their side of the field of hazards and substitutes, boosting Attack and Speed.
+Description = The user tells a chillingly bad joke before switching out. This summons a five-turn snowstorm.
 #-------------------------------
 [SANDBAR]
 Name = Sandbar
@@ -9219,18 +9173,6 @@ Priority = 3
 FunctionCode = RedirectAndAbsorbWaterGrassAttacks
 Flags = Sandbar
 Description = The user forms a sandbar that absorbs incoming Water and Grass-type attacks to heal the user.
-#-------------------------------
-[WAVECRASH]
-Name = Wave Crash
-Type = WATER
-Category = Physical
-Power = 120
-Accuracy = 100
-TotalPP = 10
-Target = NearOther
-FunctionCode = RecoilThirdOfDamageDealt
-Flags = Contact,CanProtect,CanMirrorMove
-Description = The user shrouds itself in water and slams into the target. This damages the user quite a lot. 
 #-------------------------------
 [DOGMA]
 Name = Dogma

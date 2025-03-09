@@ -1078,27 +1078,3 @@ Description = Lowers the foe's Special Attack stat.
 [ADORABLE]
 Name = Adorable
 Description = Lowers the foe's Defense stat.
-#-------------------------------
-[CUDCHEW]
-Name = Cud Chew
-Description = Reuses an eaten berry a second time next turn.
-#-------------------------------
-[SHARPNESS]
-Name = Sharpness
-Description = Powers up slicing moves.
-#-------------------------------
-[OPPORTUNIST]
-Name = Opportunist
-Description = Matches enemy stat boosts on the Pokémon.
-#-------------------------------
-[COSTAR]
-Name = Costar
-Description = Copies ally stat boosts on entry.
-#-------------------------------
-[WINDRIDER]
-Name = Wind Rider
-Description = Boosts Attack in Tailwind or when attacked by wind moves.
-#-------------------------------
-[SEEDSOWER]
-Name = Seed Sower
-Description = Turns the ground into Grassy Terrain upon taking damage.
